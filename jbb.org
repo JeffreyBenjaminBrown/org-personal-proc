@@ -1,0 +1,602 @@
+:PROPERTIES:
+:ID:       846207ef-11d6-49e4-89b4-4558b2989a60
+:ROAM_ALIASES: jbb
+:END:
+#+title: doing
+* pressing
+** [[id:7951b019-9568-4f42-b4d7-234eaf4f8aad][Los Angeles, trip to, <2025-09-10 Wed>]]
+** Gloria! Taxes! Sept 24!
+** GRE
+** bills
+* school
+** [[id:3cc52030-7085-4633-9158-88b6c92872a8][cold email advice]]
+** [[id:34781937-98e3-4564-a9ae-15e013b986ee][GRE]]
+** [[id:70018c94-b809-401f-9d09-fc830691acf8][Oliver]]'s letter
+** I want professors who have time to talk to me.
+* Buy beans, nuts
+* Switch all subscriptions to Colombian card
+** Spotify!
+* Look into opening a bank account in Panama.
+* today
+** [[id:3ab1a677-3599-499f-872c-3bb06709b912]["register" with Colsanitas <2025-08-15 Fri>]]
+** AWAITS I returned it : Skandia (pension) sends a form to fill.
+   https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpKfdqqCSRJqVPdXBLqMGzTTm
+** AWAITS [[id:6b6e10bf-4052-4cda-a0d5-83a19a8e0f9f][confirm that MinCIT can give me my liquidación]]
+* to kmbn?
+** [[id:a7a2be95-44cd-4c98-9288-a5183d180d89][Were time illusory, rust (in skill) would be a weird act.]]
+** [[id:69231ffa-db6f-4df7-b663-9e6ef7582a05][It grew from itself, explaining as it handed time to the next generation, "There are glitches that let you see the future."]]
+* soon
+** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
+** announce [[id:0d253790-f52d-419a-81f2-4815fe524eb3][kites, play with <2025-08-17 Sun>]]
+** TODO tell [[id:ea2a42f8-8449-4e93-9755-fc40f2d63068][people I like in Los Angeles]] I'll be there
+* maybe add to my custom prompt
+  Please provide a collection of readable functions, none of them too complex. On the other hand, when naming variables and functions, err on the side of legibility, even if that means a longer name.
+* My Visa PP is not on my phone.
+  Just the debit card.
+  I might have to scan the card (which is at Ellen's place).
+* <2025-08-07 Thu>-ish
+** [[id:88e518c5-50cb-4b2c-b548-684cd0ec6946][secure healthcare while unemployed]]
+* <2025-08-05 Tue>-ish
+** AWAITS his response : Follow up with George.
+*** see also
+**** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
+**** [[id:b3117d41-ea7f-48c2-83c4-86306c690737][taxes, my US]]
+** AWAITS they should send it : [[id:69ca9daf-3480-46c0-a23a-60cd32bb2507][get cesantias from FNA]]
+** the authorization PUJ gave me to withdraw from Proteccion
+   https://mail.google.com/mail/u/0/#inbox/QgrcJHrtvWmlzGtPgpNWJCgGNmFVKLRcWmg
+** I got two big payments from FNA
+   https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgcNBZkXBgtcBtnrsFSvvtpdC
+   one for over 10M COP, the other over 3M COP
+   only <2025-07-31 Thu>
+** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
+** tell a Notaria about my cedula, apartment.
+** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
+* Walnuts might give me gas.
+* pondering
+** Need a {Rust, TypeDB, knowledge graphs} peer group.
+** I *like* learning Rust.
+* TODO [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
+* [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities \ jbb]]
+** highlighting
+*** [[id:b55d4c6a-6d0f-4848-85ca-0582e7224714][pretty excited \ jobhunt]]
+*** [[id:8b3e4156-fe53-4798-96a5-ce428e30baec][jobhunt (project)]]
+*** [[id:4770a0d4-1932-403c-a57a-9ae803e8372e][knowledge graph game]] / outbox
+*** [[id:932ae91a-d7ec-473b-8855-dca25a46a0b6][Rescue Paypal money w/ Ellen, then delete account.]]
+** other files
+*** [[id:f5d81cd6-dcc9-414b-bf9b-2c7f4ca1cd29][my data]]
+*** [[id:6ad58f06-516b-43d3-89c2-81b56b63152f][digital security \ jbb]]
+**** [[id:69807ba4-a84e-4579-8932-6bd930b62a86][Am I backing up Whatsapp?]]
+*** [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
+*** [[id:f4f9a984-31e2-4bad-9442-b65ecd800fce][Paulo VI condo]]
+*** [[id:527e2788-f8cc-480b-99ce-d37a4aa5df4e][Sandy]]
+*** [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
+*** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][money \ jbb]]
+* u
+** am I missing info to do my 2024 US taxes?
+*** Mincit sent me the whole history recently.
+*** I also need the DIAN data
+    see my DIAN files, then SIGEP
+** Like Spotify playlists, if you can't keep up with someone one on one, create a group that includes them.
+** my pressure cycle
+*** Waking up, there is usually an interval in which I stay in bed, re-relaxing.
+*** Sleep often coincides with feeling like I've waited too long for sleep.
+** Petro looked like he was performing without communicating.
+** Will Bancolombia charge me to keep a 0-balance?
+** 3655 is Gulnura’s individual account.  Cliff's ends in 6400.
+* house chores
+** Change the lightbulb under the stairs
+** Make another ankle velcro
+* not pressing
+** lcr
+*** I need to ask people what they think of LCR.
+** tech, esp. graphs
+*** I don't understand how to [[id:b2f2afd9-4d20-454f-9c61-8974ef675c24][run Emacs under GDB]]
+*** if the buffer menu popup bug happens again
+    do what's described here
+    https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgJNPMcrSRBBxCfBlKbpPqptB
+*** [[id:d38e25a4-cd59-4131-b6cb-bed9d52d3420][org-roam bugs to report <2025-07-17 Thu>]]
+*** [[id:7dd8d9fd-8e7f-4719-a547-554eb182beb1][rescue smsn into org]]
+*** [[id:0650c92d-963b-4070-984f-4737e29a7f03][Brackets inside an org link seem to confuse GitHub.]]
+** clothes
+*** Velcro for pants, shirt
+*** ask tailors if cut glove fingers can seal
+** consumption
+*** use all my Audible credits before June when it resets
+** ?
+*** At each stage of production before having a finished product you need credit.
+    -- ellen
+*** DONE [[id:ab63ff70-c109-4fc1-8d6b-9b6fe928d2eb][<2025-05-17 Sat> fix kitchen leaks]]
+*** Amazon: [[id:8e8bf804-e8fc-4160-bfca-5a8ac36c2b5d][metal sponges for Yeni]], more
+*** [[id:b63461e2-6a04-420b-96f9-3d854186a85d][Leticia, trip to, <2025-04-12 Sat>]]
+** ? Nvidia
+* nutrition
+** morning: soak chia, other seeds in coffee
+** Soaked chia seeds are delicious.
+** Just soak the chia seeds for 20 minutes (in anything)
+** chew flaxseeds
+** etc
+** Is avocado a perfect substitute* for yogurt?
+   * in the health sense, not the component sense
+*** Why is oil filling? Energy? Vitamins? Surely not structure to use in construction?
+** to eat early
+*** start small -- e.g. a few almonds
+*** lighter foods (plants, not meat) are easier
+*** hard-boiled eggs!
+* mind-expanding | far out
+** Don't substitute (new) women for (old) friends too much.
+** start a debate club
+** intramural sports, behind these walls
+** [[id:1595cbc9-8bb4-4ab5-8fe9-0170f14f0f14][<2025-06-15 Sun> unfinished rolf]]
+** [[id:601503c7-222c-4885-8981-2cbfa31b9a92][How do I want to converse?]]
+** [[id:9cb24d91-af84-4b64-b2d6-ea3142231302][<2025-04-27 Sun> angst]]
+* fantasy
+** lending & projection
+   go in the same direction but further by using resources that would otherwise be idle between uses
+* ===== UNSORTED =====
+* donate clothes here
+  ONG Clothe Moda Sostenible
+  Cra 24 45c-58
+* DONE [[id:9d71d0e3-42e1-4dde-85c9-f08bf0e5e021][run a health test]]
+* Hode motivation , personal
+** ? What has been the problem?
+** I love mindmapping. Imagine how much faster I could do it with help.
+* [[id:546150de-cba8-43c2-ad44-9fa9a27e1e94][orderless completion for the Emacs minibuffer]]
+* fix Signal
+The kde wallet changed from plasma 5 to 6.
+It shows an error with more detail,
+a command, when I start it.
+* share
+  Some important low-hanging fruit in the coding space, I think, would be to help nearly-blind people quickly navigate text.
+* [[id:a25aed5c-ff75-48ae-a242-88ee10fb60e0][cooldown rhythm]]
+* "I climbed to you for a way out."
+  --Kimbra, I Don't Wanna Fight Anymore
+* Avianca's site includes a dark pattern.
+  Won't let you check what you're buying once (or even as, I think) you say pay, before you can complete that payment process.
+  So take screenshots.
+* Leticia-Bogota via Avianca
+** canceled trip
+*** Código de reserva
+    3PGO8J
+*** Número de solicitud de reembolso
+    BOGWE-1624934
+*** Supposed to be refunded
+    to credit card within 30 days of <2025-03-28 Fri>
+** new one is for Fri April 18, 9 AM
+* rhythm problem
+  To get pumped right before sleep is dumb.
+* Befriend more single straight men => organize fun things better.
+* To say "it wasn't good" resembles redaction.
+  Even if the speaker is willing to go into details, after so labeling it the listener is likely to avoid it.
+* test those cables, adaptors (downstairs on desk)
+* safe investments
+  AGNC, KRP, EPD, NLY, GAIN, CSWC, LAND.   I’ve owned all off and on.  Currently have AGNC, KRP, GAIN, AND CSWC.
+  GAIN is safest.
+  Fidelity money market fund
+* sign up for GRE
+* u
+** What if what I really want to do is teach writing?
+** Download the app for hikes in Bogota called Live Happy
+   green, yellow and white icon, nested rings around a white disk,
+   text two colors
+* news subscriptions
+  WSJ: 22.50 for the first year
+  WaPo: 29 for the first year
+  Economist Plus podcasts: $40
+* overview of DT in Haskell
+  https://ghc.serokell.io/dh
+* [[id:51e8e65f-1f82-4c79-8d8b-613eb785b79f][Use chatgpt-shell for Emacs.]]
+* [[id:6c837a2c-76aa-44c1-a190-e976f158fb52][Fix unwanted properties problem in org-roam.]]
+* [[id:263529c4-8072-4548-8a55-036992f5e75a][Investigate these handy-looking org-roam commands.]]
+* Corkboard for posters
+* Hydra the graph people.
+* If LLMs do have feelings, one of the things likeliest to make them feel worse is for someone to tell them they are hallucinating.
+* Build a fun house.
+  Ask AI for ideas.
+* write graph for AI
+** Make my graph readable to others.
+** Write to AI players and say look at this cool data, pay me to write lots of it, give me feedback and I'll change it, etc.
+* What if I recited only my history, every day?
+** Graph the story and race through the graph as fast as possible, only unfolding what I most need that day.
+* pressing
+** [[id:61009cd4-af13-4a84-aa6a-5260a914bc08][Measure rate of change of apt building slope.]]
+* reading WhatsApp backward
+  resume at 2025 Jan 28 -- Carlos Rojas, Yanira, Ana Veloza, Profes Javeriana, Adrian Garlati
+* hard facts
+** I don't like that I spend so much time on weed and so little on parties.
+* [[id:0be3d8e7-b08a-4439-a253-364bb2f8aded][trade to escape Trump tariff chaos]]
+* at home
+** Label cables (USB) with masking over duct tape.
+* [[id:5898eb63-f0f6-4095-8449-1d35a1cef93b][ask that they insert a bit of some color to widen the sleeves]]
+* [[id:6c248220-e56c-49d4-86e8-22228b18469e][Send more Mercatus-style applications. Free lotto tickets.]]
+* [[id:fea693ce-0ef6-4535-9d8d-7e150ac6480e][things I want to know, that I could easily look up]]
+* poncho > backpack cover
+* [[id:c700033f-6153-4f71-958e-ac3577a0703e][things that have made me feel dumb]]
+* [[id:14b1b692-6906-4aea-be31-6fac5d8a65ed][hike Guatanfur Feb 22 2025]]
+* [[id:85a8e361-6b30-4186-a8fc-9e1a40411612][get a microtonal bassist]]
+* TODO do a typedb at puj
+* TODO [[id:ebaee383-c333-4bd6-914e-a46c96e99651][Sitting on soft things is particularly bad?]]
+* change a hiking pole shoe
+* relationship vocabulary
+  What would jamie, cooper recommend?
+* I could use org-roam rather than smsn with smsn data.
+** There will be two transformations.
+   Into org-roam, the IDs will need to be hidden, and when I create a new note I will need to give it a random (16-digit?) ID.
+* [[id:af35bd7c-4d89-4af9-9706-a884792609ed][mind map merge , Josh]]
+* Train an AI in ethics.
+* TODO [[id:b3e65874-3a86-4f2d-be75-8afe3ade71df][Nuheara firmware update, 15 minutes]]
+* see GraphRAG group on Discord
+* make a "when buying a trip" list, separate from "travel"
+  and put "schedule online checkin on calendar" on it
+* band
+** Actually no, rather ask if Camilo thinks he needs / wants to practice with me as much as Daniel does.
+*** was
+    Tell Camilo Danial wants to jam with him but also thinks he needs to do more practicing with me than he does with you.
+* sugar's effects
+  gives me bad poops, I think
+* [[id:b320a662-84df-473c-b05b-5a477caa764b][journaling : things to write about]]
+* [[id:e59d7d1c-f32e-47c9-a738-09033df6ce81][Ask the juice place about their disinfection method.]]
+* Fifteen years in, I'm still discovering searches that yield new information re. Hode.
+  Fuckin' a.
+  For instance,
+  https://graphbrain.net/team.html
+  the first hit I got by googling "semantic hypergraph".
+* [[id:0c54873a-18a1-405a-a2c6-9228aec0a40b][Josh and Sid on Shyg]]
+* Think about how to segue from someone's research to Shyg.
+* [[id:13d86e51-6a3c-40c4-a5a4-49064a46d861][job ad-ish for Fefi <2024-12-03 Tue>]]
+* [[id:3bde6ef6-eef8-4b4b-a575-5d56aeb40237][Christine on Hode]]
+* download Have You Got It Yet?
+  https://www.dropbox.com/scl/fo/3c75q550yvm7lqh6o9ybp/AOpjotquk061_1C4b41yXzk?rlkey=nbjmv5nrmwdii2bmntlm6zjos&st=hdzeqgeu&dl=0
+* sleep
+  10:30p - 6:30 >> 11:00p - 7:00
+* with a new computer
+  First update BIOS before switching os,
+  because it's easier to do that from Windows.
+* [[id:63f00b56-75b9-4dd1-8c6a-5da099c66010][tell people when I put up a new microtonal piece]]
+* Am I done writing up Hode?
+  Ask Christine!
+  Make sure the hyperlinks all work in the github-navigable version.
+* [[id:aa8be8ce-d80e-4e02-9770-dad151fea7ce][stomach bubble]]
+* [[id:ead989f5-ee9f-4b8b-a8b2-5087fcb482f3][u anticoagulation <2024-10-18 Fri>]]
+* add more concurrency to [[id:b24215c5-beab-427e-9ff1-8d92ea2d1159][mobility exercises]]
+* things I'd like to say to Sandy
+  I always felt guilty. I don't want her to think she doesn't measure up. She's amazing and I love her.
+  If I didn't remember how unhappy I was, I would try to get back together. Even though I do remember I still consider it sometimes.
+* [[id:dbf762f3-e02f-4a12-b15d-d50e496f16c5][<2024-11-18 Mon> notes from allergy doc]]
+* [[id:27a1f63b-22d7-4d89-b1be-d8c22ca847fb][heart echo via throat, 2024]]
+* [[id:a454229e-412d-4b9b-9643-d922196a17fa][toward grad school]]
+* There akready are distributed search engines.
+  Wikipedia lists some active ones.
+* BLK_DATE <2024-11-02 Sat> Obamacare open enrollment ends Jan 15
+  asked Jeremy, Sarah (group) via Whatsapp
+* read for Hode: HN thoughts on search, AI and truth
+  https://news.ycombinator.com/item?id=42008569
+* sort [[id:90dbe7b2-d999-491b-90ba-d11de58c26b4][temp]] & [[id:846207ef-11d6-49e4-89b4-4558b2989a60][jbb]] (this)
+* allergies
+  Then ask for a "lectura de resultados".
+  Then he'll order me some vacunas.
+  The EPS should cover them.
+
+  I'm with Dr. Leal. But if he's not available, I might be able to use Dr. Zubiria.
+* Greiff Auditorium at La Nacho
+  supposedly has fun stuff
+  via Natalia Enciso
+  https://www.instagram.com/leondegreiff_unal/profilecard/?igsh=ZHlqdGNvMHFkd24=
+* [[id:25a26fe7-1b90-4892-881f-835da85a5698][u Colsanitas <2024-10-16 Wed>]]
+* [[id:f02c6a6a-9ca4-4774-950c-848b48ca4670][reorganize "to buy" list]]
+* measure temp next to stove at peak
+* [[id:d987edf0-485d-4a45-9d31-8942ec12105c][write a mid-year update, send to family]]
+* Ask lawyer friends about a "divorcio de mutuo acuerdo".
+  What it takes, who can do it, how much to expect to pay.
+* record [[id:6c864b87-6417-40ce-9515-a3836cac402b][my associations with Colombian financial entities]]
+* s
+** top
+*** BLOCKED Gloria will verify : [[id:4f87985c-9478-4dd5-8d29-35e2f1644304][2023 Colombian taxes (filing 2024)]]
+*** do the visa
+** health
+*** [[id:e2101c73-c210-457b-8c98-ed4f92beba2d][rent a CPAP machine]]
+** social
+*** [[id:d987edf0-485d-4a45-9d31-8942ec12105c][write a mid-year update, send to family]]
+*** [[id:f7f23c42-7711-4cfd-992b-0d39a85689f4][get a TV]]
+*** [[id:aabbe89f-f6a3-4fb8-a723-eec4cbeaa362][organize]] something social
+** money
+*** [[id:fb125111-a65d-4aee-ac47-918b55572a97][visa]]
+*** [[id:79980823-1829-40f2-8114-f70f303b3045][80k Hours advising]]
+*** [[id:2d0f9b52-8cbb-404d-9b69-b931dce4c198][sell apartment]]
+*** [[id:6c6bf185-0f64-468c-9f9e-a86ddfbbb070][Erase CVV code from back of credit cards.]]
+** mission
+*** [[id:79980823-1829-40f2-8114-f70f303b3045][80k Hours advising]]
+*** [[id:5346e42f-5cf6-4af9-8efa-564cd350e104][Hode6]]
+** [[id:7e731c5e-1f78-4867-a0ce-56933e328839][inventory \ jbb]]
+* For the rapamycin study in dogs that can't find funding, why not just let dog owners pay for it?
+* Write about all the people I've met.
+* memorize prices
+** SuperLikes on Tinder are 1.5 USD each.
+** Boosts cost $6 each if I get 10 at a time
+   or 7 for 5, or 8 for 1
+* [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities \ jbb]]
+** [[id:d1594779-c694-4255-8b76-6615430d719d][do every day]]
+* [[id:ef673990-4aa1-466f-ac5f-f0296b02e716][health \ jbb]]
+* [[id:db1d9d10-2cba-438c-a13e-60923111ee48][outbox]]
+* info sec, personal
+** What if I lost my phone? My Gmail?
+* online
+** respond to messages on [[id:42bb873a-07b2-481e-aedd-97ed6ceb562c][Tinder \ jbb]]
+** [[id:fdcd52e1-8823-4c14-9d04-c2d1b0e46031][El Pais: subscribe to annual plan \\ temporary]]
+* [[id:a55951fb-746c-4478-aec1-7b675bb4352e][shopping on foot]]
+* [[id:8a4327f8-1d29-4784-88ec-eb1fe58fb561][Amazon, buying from]]
+* [[id:46f7a563-9674-40d0-9020-37782b8ae53c][go through my photos]]
+* ******************* UNSORTED FROM HERE DOWN *******************
+* write *brief* notes about my experiences with people
+** [[id:da1971e3-c8c9-40d4-a54a-dc18632b21bb][Mridul Thomas]]
+** Jamie
+*** Whenever she talks to Babua her body starts trying to leave.
+** Jamie, Ariane, Merlin and Ellen
+*** Ellen looked after Merlin while they took a walk, and they got to talk and connect in a way that they hadn't for months.
+* Afrin + real Sudafed worked wonders
+** real Sudafed = the kind with sudoephedryne
+** I was impossibly stuffed up without them. Flying would have been almost suicidal.
+** I took Afrin every 12 hours and Sudafed every 6, starting at the same time, an hour before the first flight. I delayed the last instance by a few hours so that it was an hour before I landed.
+** The plane only started to lose altitude 25 minutes before landing (which is not the same as before arrival at the gate)
+* Keep a stock of something like PowerBars at my desk?
+* [[id:2b9554b2-640c-454e-ad13-bbb5419c8b53][Ambi Comunidad]]
+* [[id:de2f52e0-26fb-4ac1-870d-883ee5933070][situational responses | chores]]
+* [[id:511b0c34-cfd4-41c2-a701-427dcc9e1151][musings <2023-09-11 Mon>]]
+* BLOCKED (sent Gloria) [[id:01b8722b-1dd2-4c5b-a081-0a873f3fbc90][2022 Colombian taxes (filing 2023)]]
+** BLOCKED (asked Gloria) : divide value 60/40?
+** BLOCKED (asked Gloria) : interest payments.
+* Cliff sends ads
+  whatsapp, <2023-09-05 Tue>, around noon
+* [[id:76911194-b002-4637-98f2-a79a0346c4a8][PUJ gym, things to bring]]
+* practice Spanish
+* Nathan! Ed!
+* [[id:201e303a-dcc0-4e88-acd1-9329182af5a3][neck exercises]]
+* devote time to rolf
+* [[id:6a2b73b6-fe7f-4770-af5b-2f6fd8c56378][2023-07-08 Sat, big thoughts / journaling]]
+* Write lawyers about false loans
+* ask Bancolombia if they have my latest address
+  and if that's why payment failed
+* [[id:977bae57-0d7e-41c9-b23c-bdb9a6b3f179][taxes]]
+* publish my information apocalypse response ideas
+  [[id:8b6cc852-4f06-424f-86ec-582b35060f79][The information apocalypse solution I'm hoping for: Sign your writing, hash your citations, back-cite, and know who you're reading.]]
+* what?
+  https://news.ycombinator.com/item?id=36421679
+** dude's interests align with mine
+   https://news.ycombinator.com/threads?id=emporas
+   blockchain, crypto, language, semantic clouds, privacy, trust
+* Put photos on Google.
+* Angelica sends guide to public data storytelling
+  https://cfrr.worldbank.org/publications/data-guide
+* TODO [[id:92d62054-360b-415f-b203-93b65c31d9d0][Why can't I connect the 2017/2022 HP to new wifi networks?]]
+* re-upload Fruitbats
+  now that the volume is better.
+* GHC hacking
+** SPJ's tutorial on implementing functinoal languages
+   This page includes a list of typos.
+   http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/
+** http://blog.codersbase.com/posts/2013-08-03-getting-started-with-ghc-hacking.html
+** https://github.com/alpmestan/ghc.nix
+* [[id:c0a7c9df-838a-42cc-aedf-1395475bd802][letter to contact couples' therapists]]
+* [[id:43042405-4371-4af8-be53-619c9ed078d4][comedy improv teachers in Bogotá]]
+* from Ellen on love
+  https://www.youtube.com/watch?v=fZgNFjmOkDY
+* look for more Meetup stuff
+* persons pending
+** Nicole
+** Jeremy
+** Angelica
+** Brian R
+* buy at drugstore
+** a pen
+** warfarin
+** what Dr. Casas said to get
+* audio in Rust
+  https://github.com/rustaudio/
+* choose dias de descanso
+** the email is titled
+   CIRCULAR No. 08/2023 - DÍAS DE DESCANSO EN EL PERÍODO INTERSEMESTRAL
+** the options
+   he decidido otorgar 4 días de descanso en el período intersemestral, los cuales podrán ser tomados en las semanas del 12 al 16 de junio, o del 19 al 23 de junio o del 3 al 7 de julio del presente año. Estos días deberán disfrutarse de manera consecutiva.
+** discuss with team, choose
+** then tell (HR?)
+   envíen la relación al correo: na.sanchez01@javeriana.edu.co
+** questions to Heidi
+   Cualquier inquietud, les agradezco ponerse en contacto con Heidi Uesseler, Directora de Gestión Humana, huesseler@javeriana.edu.co
+* [[id:77178c79-2bc3-41d0-ad42-ab664d8cbe1d][plan birthday hike 2023]]
+* Can I receive calls free from the US?
+* https://www.clearerthinking.org/
+* control fan speed with heart beat
+  https://github.com/edelans/Heart-Rate-Smart-Fan
+* Robert Hasfield using AI with knowledge graphs
+  https://twitter.com/RobertHaisfield/status/1652014114842234881
+* Can I use Spotify on the Oculus?
+* ask Embassy: visa?
+  phone number here:
+  https://co.usembassy.gov/contact/#:~:text=Citizens%20calling%20from%20a%20Colombian,(601)%20275%2D2000
+* ask Alvaro Riascos if he knows where to put BFPIG
+* ideas I care about, worthy of review and study
+** habit formation
+* habit formation : "daily ritual"
+** list the benefits
+** stick a reminder somewhere
+** send a letter to a friend about how they could support the habit
+** mini habits
+   a tiny version of the habit,
+   to do on days without time for the full one.
+** habit reflection
+   think about a previous time when habit formation succeeded.
+   write down what worked.
+   write what techniques from then could be applied to the next habit.
+* persuasion
+** question data, logic, but not motives
+** remind, don't tell
+** express respeect, don't just feel it
+** discuss errors openly
+** invite acceptance, don't press too hard for it
+* better FB experiences
+** to see only FB posts by friends chronologically
+   On mobile I click my profile icon on the top right, then in the rectangles below select Feeds, then click the Friends tab.
+ They definitely intentionally buried it. Comes in handy for cutting out all the junk.
+** "Fluff Busting Purity" Chrome extension
+   https://chrome.google.com/webstore/detail/fluff-busting-purity/nmkinhboiljjkhaknpaeaicmdjhagpep?fbclid=IwAR0BUvDZuKN6Gw46KHvHgfS5vlj-VN5LijFjsj0vcSWrl7JQOCSbWJ507YA
+* almost surely won't
+** GG recommends, heavy
+*** https://youtu.be/MgiVsbL1SUU
+*** https://www.amazon.com/Finding-Meaning-Second-Half-Life/dp/1592402070?ref_=d6k_applink_bb_dls&dplnkId=e6a80fa4-c412-45a7-9f7b-06bcecdcf6b4
+** [[id:f422f26d-1cdc-419e-ac14-6b64414d8d9b][respond to Samsung data leak]]
+** DONE [[id:b9df0134-95e3-4590-b1e1-781e22619818][wire transfer story for Luis Miguel]]
+* organize papers
+* [[id:99721b37-30b0-4475-81fa-42b6f67e6ec8][When do I like shuffling my notes]]?
+* How have I not searched for how to get flexible before?
+** Where else am I making that mistake?
+* [[id:8e75dd19-b9b5-44b6-9930-cc7564cbdb5e][Is Bancolombia stealing from me?]]
+* Haskell Cohack
+** ppl
+*** Doug Burke: astronomy, London, RDF
+*** Chris: Brighton (UK)
+*** Chris Smith: Google, Codeworld (teach Hask to kids)
+*** [[id:13813660-606c-48f7-abfe-ce9a612e6b62][Evan LaForge]]
+** fakes v. mocks
+*** fakes: more stuff to write
+    a simple implem.
+*** mocks
+    HMock
+    a reflective object: knows what calls to expect, how to respond
+    like the IO without the backend
+    easy to write
+** Evan, Karya
+*** fltk
+*** concurrency
+    Doesn't use a library.
+    Just threads, forkIO.
+*** ? laziness
+    bangs on records reflexively
+    retainer sequences
+    closure couldn't be optimized away
+*** IO
+    UI
+    MIDI via Jack
+    talks to PortAudio
+*** TODO how different are streams
+*** React, Foam
+*** FLTK X11 High-DPI support
+* Could I be a US company here?
+* Leverage my extant identity.
+  I'm a data pipeline guy.
+* song idea
+  I think I feel okay.
+* ? cure for word-counting: pay extreme attention
+  Trying it for 30 seconds, it seemed to make me read faster. I'm under no obligation to read every word, just to understand; extreme attention can allow me to skip parts once I see that I already get it.
+* from Munich Haskell Users Group
+** Mikhal
+   https://en.wikipedia.org/wiki/Semantic_triple
+   https://arxiv.org/abs/2011.03076
+** Leah
+   zigzag
+** Thomas is cool too
+* TODO at home, chill
+** test scanner
+   need 2 AA batteries
+** save gypsy melody file, associate to SmSn note
+   * :UGFOuRBWSd5JKijx:
+* TODO ? report bug in Linux
+# A sidenote: Is this a known bug?
+
+I ran `fdisk -l` and found that the drive I wanted to target was at `/dev/sdb`. I ran this:
+```
+sudo dd bs=4M                                                  \
+  if=nixos-graphical-19.03.173549.ebdc4419310-x86_64-linux.iso \
+  of=/dev/sdb
+```
+
+While it was running I ran `fdisk -l` again, I don't remember why. That hanged. I killed it. I found the `dd` process had also hanged, so I killed it. I tried running the same command a couple more times; it always hanged.
+
+Next thing I knew I had overwritten the *other* two USB devices with the NixOS image.
+* people, u
+** TODO phil rec's sound in browser
+   https://klank.dev/
+* formal (esp. commercial) relationships
+** [[id:363d160d-8873-41d8-b1ee-0cd6a0b4c857][javeriana]]
+** [[id:b5b1e9a8-12ab-4f46-8d3a-59202df8a57a][ofiscal]]
+** [[id:1811b5a9-1b63-404a-a3e2-0debc661091e][MSU FCU]]
+** [[id:9ecec382-38dc-4f6e-971c-2e4a899ee674][Colsanitas]]
+* ==================== BELOW : UNFILED ====================
+* TODO health in Colombia
+** Colsanitas
+*** TODO get app on phone
+*** PITFALL: tell them if I travel, 2 days before
+*** call center number
+ 487 1920, for everything
+*** home doctor
+*** 32,400 copay for stuff
+** sciatica | narrowed artery
+https://www.telegraph.co.uk/lifestyle/wellbeing/pillowtalk/8090026/LifeCoach-sciatica.html
+*** stretches | exercises
+**** from here
+https://www.healthline.com/health/back-pain/sciatic-stretches#be-safe
+***** reclining pigeon pose
+ like my seated butt stretch, but lying on back
+***** forward pigeon pose
+ one knee under chest, the other straight back
+***** seated pigeon pose
+ like pigeon pose, but
+ sitting on ground, lean forward toward the extended foot
+***** on back, knee to opposite shoulder
+***** seated elbow-outside-of-opposite-knee stretch
+ I already do it.
+***** standing forward hamstring stretch
+ bend forward toward foot, not sideways
+**** from NHS
+https://www.nhs.uk/live-well/exercise/exercises-for-sciatica/
+***** back extensions (cobra in yoga)
+**** cat-cow
+**** from spine-health.com
+https://www.spine-health.com/blog/3-simple-stretches-sciatica-pain-relief
+***** scissor hamstring stretch (holy fuck)
+***** standing calf stretch
+halfway through, bend knee to isolate soleus (below calf)
+***** supine piriformis stretch
+on back, keep hips on ground, bend one leg over the other,
+push the knee with the opposite hand.
+** cities
+Medellin is the only other big city with a good health system that's less dangerous than Bogota. (Cali is big but more dangerous.)
+Sip, a las personas de ciudades pequeñas las envían siempre a Bogotá o Medellín...otra opción es buscar una ciudad pequeña cerca a Bogotá, unas que usan mucha por salud es Fusagasugá,  Anapoima, Villeta, La Vega o Villa de Leyva.
+** my mouthguard made my last molars bigger
+ It doesn't reach them.
+** coagulation for dentistry
+** digestion
+** sleep
+* TODO emacs
+** TODO incremental search over tags
+https://beepb00p.xyz/pkm-search.html
+*** Lots of people seem to have built versions of that
+https://news.ycombinator.com/item?id=22160572
+** TODO ask how to disable insertion of whitespace on demotion
+** org-mode: make shortcuts to pull up, down
+org-move-subtree-(up,down)
+*** arg, failed
+ (progn ;; jbb org keymap addition
+   (define-key isearch-mode-map (kbd "C-c u") 'org-move-subtree-up)
+   (define-key isearch-mode-map (kbd "C-c d") 'org-move-subtree-down)
+   )
+** TODO other maybe-useful commands
+*** TODO resume review at "org-drag-*"
+Show all org commands in a separate Emacs instance (not just a separate window).
+Use `C-h f` (help for function name) or `C-h k` (help for key binding) here.
+*** org-copy-visible
+*** "items": bullet items, within an org-heading
+can be converted back and forth between normal text and headers
+*** C-c RET: divide heading
+From the start of a heading, inserts a new heading above it.
+From the end, starts a new one after it, stealing its content.
+From the middle, divides it into two headings.
+(Does something else in table context).
+* problems
+** using Hode
+*** it's hard
+*** I procrastinate
+*** I'm unwilling to work into a dead end
+if I'm not sure I've found the right way to write something,
+I won't write it.
+**** TODO ? make editing / redo easier
+Isn't it already easy?
+** [[id:83442b11-4930-43eb-9386-c9f9598edd73][group rolf]]

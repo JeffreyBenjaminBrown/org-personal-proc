@@ -1,0 +1,193 @@
+:PROPERTIES:
+:ID:       59d10b22-9598-462b-bab0-a41c0ab97697
+:END:
+#+title: backup my data, how to
+serial
+  (Some other orders are good too.)
+* TODO [[id:2e44ac14-b823-44ee-849a-033b574ee38b][asking about changing passphrase in Borg]]
+* TODO ? process improvements
+** use AWS -- it's cheap and slick
+   $1/month for the data (50 GB) I need to keep,
+   with a CLI and automatic sync for Linux.
+** ? Deja Dup
+   Linux software,
+   backs up to an encrypted folder,
+   works with Google Drive.
+* PITFALL: Don't make the USB drive un-dismountable.
+** an easy way to get it right
+   Keep all my apps (Emacs, Konsole, etc.)
+   and windows related to backing up on a distinct desktop,
+   and don't view non-backup files in that Emacs instance.
+** the likely way to screw it up
+   View the USB drive in an obscure tmux window.
+* TODO borg pwd compromised to rclone again
+  Make a new borg backup.
+  Keep the old one -- there's plenty of room.
+* check disk usage
+  parallel
+** move big things
+*** new DALL-E images to /home/images/u
+*** movies to external disk
+** check native home folder's size
+   serial, with backtracking
+*** du-home-for-borg.sh
+*** see the diff in Bash
+    cd ~/org-roam/personal
+    git diff memory_used_in_home_folder.org
+*** Restore the clobbered header with magit.
+     Run `M-x magit-status` from this file,
+     and then search for this:
+       modified   memory_used_in_home_folder.org
+*** grep <term> ~/org-roam/pers/memory_used_in_home_folder.org ~/hd-size.temp
+*** commit those changes in Git
+** after nixos-rebuild : check native disk usage
+   serial, with backtracking
+*** df -h .
+*** If free space is low, [[id:d014e570-e8da-4661-8111-01d19947e2b2][clean Nixos]], [[id:d623ee48-2989-4802-82f9-3d51ddf45c19][clean Docker]], record date
+    last done <2025-09-08 Mon>
+*** Record amount of free space here
+    85 GB
+    highest score w/ KDE + Xfce: 188 GB
+*** If that's still not enough
+**** move things to the external drive.
+* clean (the hard part)
+** view, delete recent photos on phone
+   Last done <2025-01-20 Mon>
+** read spam
+   inc. Outlook, Mintranet
+** Listing It
+*** transfer from Listing It
+*** delete from Listing It
+** review, clean home folder
+   inc. work computer
+** receipts - read, maybe transfer
+** CAREFUL What's public? - git cycle org-roam
+   last done <2022-12-13 Tue>
+*** PITFALL: Ensure all new files are appropriately linked to.
+** git push org-roam
+** TODO [[id:b69aad4a-1006-4415-9e1f-b0af93ff699e][modify export to keep no history]]
+** [[id:b8f52fdd-93b8-49f1-88ca-0a7c065e30bb][export org-roam to org-git, how to]]
+** git cycle (inc push) ~/ugh/une/text-in-git
+   open "pwds" in Emacs,
+   run `M-x mag-stat`
+* PITFALL: about my two Borg repos
+** one is younger!
+   The HDD one was born                 <2024-02-12 Mon>.
+   The SSD one goes all the way back to <2022-04-21 Mon>.
+** ~/borg-repo-ssd/
+   The source of truth for this is ~/borg-repo-ssd.
+   But I rsync a copy of it to the Toshiba,
+   and rclone it to Google Drive.
+** <Toshiba>/borg-repo-hdd/
+   The source of truth for this is <Toshiba>/borg-repo-hdd.
+   I rclone it to Google Drive.
+* TODO ? strip these from borg backups
+** ~/Downloads/I.zip and ~/Downloads/II.zip
+   Those are Don Quixote.
+** things that were excluded badly
+ Anything matching, at any level,
+   __pycache__
+   .mypy_cache
+   .pytest_cache
+   dist-newstyle
+
+ I was using the wrong syntax, writing
+   **/thing-to-exclude
+ instead.
+
+ I think the proper syntax is
+   /*__pycache__
+   /*.mypy_cache
+   /*.pytest_cache
+   /*dist-newstyle
+ and that's what's in bin/exclude-for-borg now.
+** another
+   enc,org*.zip
+   I had been excluding only enc,org.zip,
+   but then I renamed it to enc,org-ssd.zip,
+   and I think that got backed up.
+** The Age of Em
+   the folder was called
+     "Hanson, Robin - The Age of Em"
+   and it would only be in backups after, say,
+     <2024-04-13 Sat>
+   It was in org-roam, so it might only have been in enc/,
+     in which case it's in there for good I guess.
+** ~/.config/google-chrome
+** Python virtual environments
+   Will these paths do the job?
+   */venv
+   */.venv
+* make backups
+  serial
+** TODO [[id:61f661d1-a518-4846-8452-358d17a01508][Clean Reaper data from borg repo.]]
+** mount external drive
+** parallel
+*** zip -rq -0 /run/media/jeff/ext_hdd.9g.tshb/enc,org-hdd.zip ~/ugh/enc
+*** zip -rq -0 ~/enc,org-ssd.zip                               ~/ugh/enc
+*** entire HD to borg repos
+    parallel
+**** PITFALL: The symlinks into ~/ugh/une are harmless.
+     Even if `une` is mounted when I make the backup,
+     because I'm not backing up `une`,
+     any symlinks into `une` will,
+     since they are backed up only as symlinks,
+     not give away what is in `une`.
+     (I tested with `borg extract`.)
+**** borg my   SSD into my   SSD
+***** first
+      borg_ssd=/home/jeff/borg-repo-ssd
+      echo I started running \"borg create\" at:
+      echo $(date)
+      borg create                                    \
+	$borg_ssd::$(date +%Y-%m-%d).hp24 /home/jeff \
+	--exclude-from /home/jeff/bin/exclude-for-borg.txt
+      echo $(date)
+***** then verify
+      borg list $borg_ssd | tail -n 3
+**** borg my   SSD into my   HDD
+***** first
+      borg_hdd=/run/media/jeff/ext_hdd.9g.tshb/borg-repo-hdd
+      echo I started running \"borg create\" at:
+      echo $(date)
+      borg create                                      \
+	"$borg_hdd"::$(date +%Y-%m-%d).hp24 /home/jeff \
+	--exclude-from /home/jeff/bin/exclude-for-borg.txt
+      echo $(date)
+***** then verify
+      borg list "$borg_hdd" | tail -n 3
+*** TODO ? [[id:a723c225-dd11-4039-9224-a2dabc158022][exclude more files]] from borg HDD
+    There's no rush, and since `borg recreate` is very dangerous
+    (according to the docs online), it would be good to first
+    thoroughly test the SSD backup, which I already recreated.
+** after those : rsync some of SSD into HDD
+   rsync -av                             \
+     --exclude='/rust/**/target/'        \
+     /home/images                        \
+     /home/rust                          \
+     /home/jeff/ugh/enc                  \
+     /home/jeff/borg-repo-ssd            \
+     /home/jeff/excluded-from-borg       \
+     "/home/jeff/Documents/REAPER Media" \
+     "/run/media/jeff/ext_hdd.9g.tshb/mirror-of-ssd"
+** record date last done
+   <2025-09-10 Wed>
+* do at home, backup tasks to
+  :PROPERTIES:
+  :ID:       d363ab0d-b8bf-40b3-8890-a611a45fd7f3
+  :END:
+** [[id:e1eda15a-df86-4050-b150-e8034ae49019][rebuild NixOS]]
+   last done <2025-09-07 Sun>
+** [[id:0992283d-f9e6-41c3-b109-3660c0afb043][my rclone backup strategy]]
+   last done <2025-09-10 Wed>
+** [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
+* Unnecessary : delete enc.zip.
+  Unnecessary because of an --exclude directive in the `borg create` script.
+  Purpose: Keep it from being duplicated by borg backup.
+* TODO Try restoring from backup on GDrive
+  The last time I tried was no later than Nov 2022,
+  when the Dell died and I moved to PUJ,
+  I did, though, succeed from enc,org.zip.
+* remove DONE and BLK_DATE from this file
+  The TODOs here don't often change.
+* magit this file
