@@ -1,0 +1,295 @@
+:PROPERTIES:
+:ID:       5a19ab40-061b-45d0-a9c2-99dabd13603a
+:END:
+#+title: to buy
+* TODO reorganize this list
+  :PROPERTIES:
+  :ID:       f02c6a6a-9ca4-4774-950c-848b48ca4670
+  :END:
+  Should have two sections, one mostly static,
+  things to check whether I need;
+  one very dynamic, things queued to buy.
+* [[id:e09b34b1-89a3-4f8a-8fe2-efdbca2e548d][order for Gabrielina to receive -- scratch]]
+* BLOCKED [[id:8a4327f8-1d29-4784-88ec-eb1fe58fb561][Amazon, buying from, <2023-10-16 Mon>]]
+* [[id:3e3d17ad-7204-48ef-90aa-7e20215b3dc0][things I've bought]]
+* TODO [[id:04c32283-0938-4675-9cd6-ee5363a1f2dd][groceries to buy, pending]]
+* to buy, what & where
+** to buy in the US
+*** shoes
+**** nice brown
+**** maybe nice black ones after that
+**** sandals
+**** sneakers
+*** [[id:1da95b19-e3e2-4c6f-bea3-bc9e25e7336c][Kalium strings]]
+    to lighten the load on the bass side, mostly
+*** [[id:332ba44e-54e9-4e6e-b39e-a2adf88587ae][laptop, to buy]] | [[id:332ba44e-54e9-4e6e-b39e-a2adf88587ae][computer, to buy]]
+** TODO [[id:08dccfce-bc5f-427b-9fd2-07f08b1205e1][disaster prep]]: buy solar charger, emergency blanket
+** online
+*** [[id:64139dfc-c989-4fce-87a2-c544205de1ef][epazote (te mexicano)]]
+    if not in Paloquemao or drugstores or naturista stores here
+*** [[id:c696e936-85a8-4b96-ae4b-cbba6fe64645][saccharomyces boulardii]]
+    if not in drugstores or naturista stores here
+*** [[id:ceebf508-0160-4f7f-a0a1-5643590bfccd][filters for M3 2907 mask]]
+*** amino acids
+*** TODO ? contact mics ($15 for five on Amazon, maybe crappy)
+*** TODO ?? healthy soundproofing
+*** TODO foam for single mattress
+*** Buy tupperware, silverware, plates enough for machine
+*** ???? (meh) : rollup keyboard and phone stand
+*** ???? (meh) : Audible (audio book subscription)
+*** ???? (expensive) : lip balm with sunscreen
+*** condoms
+*** [[id:dd7017ff-63a5-4014-887b-81cc4820940c][drum trigger, electric]]
+*** shorts (or pants to cut)
+    long rise
+*** [[id:5fc600b3-958f-4a5d-981c-b1457fc0d433][umbrella, small & wide, buy]]
+*** for guitar
+**** fret material
+***** TODO anticsonline for plastruct half-round rods
+      https://anticsonline.uk/Product/Plastruct-90842-10mm-Triangular-Rod-Pack-of-10-MRT-40_N12988
+***** DONE stretchy fret material $10
+      https://www.amazon.com/ARRICRAFT-Leather-Material-Bracelet-Necklace/dp/B07HVHXW9P
+***** DONE zipties
+      https://www.amazon.com/Install-Bay-BCT8S-18-Pounds-100-Pack/dp/B0058TX5V4
+***** 1mm ID x 2mm OD silicone tubing
+      https://www.amazon.com/uxcell-Silicone-Flexible-Transparent-Transfer/dp/B01N75T1P0
+**** TODO ? to remove frets
+***** $10 soldering iron
+      https://www.amazon.com/Soldering-Iron-Kit-Temperature-Rarlight/dp/B07PDK3MX1
+***** ? sander
+***** min $15 fret removal tool
+      Seems well-liked but I didn't check how many reviewers actually used it to pull frets. (Can also cut frets, strings.)
+      https://www.amazon.com/Bitterroot-Fret-Nipper-Carbon-Cutter/dp/B00N12WYUS/ref=sr_1_4?dchild=1&keywords=fret+nipper&qid=1612651560&sr=8-4
+***** wood filler $3
+      ? wallboard compound
+      ? epoxy
+***** plastic gloves
+**** 2-sided tape, super-thin
+**** strings as strings
+     with a range of 1.5 octaves
+     (halfway between the 31 edo and 41 edo ranges)
+**** strings as frets
+*** [[id:332ba44e-54e9-4e6e-b39e-a2adf88587ae][laptop, to buy]] | [[id:332ba44e-54e9-4e6e-b39e-a2adf88587ae][computer, to buy]]
+*** surge protector with battery, $200
+    :PROPERTIES:
+    :ID:       b0b5e710-8370-4eeb-b106-cd7470da9b77
+    :END:
+    https://www.amazon.com/APC-Back-UPS-Battery-Protector-BR1000G/dp/B0038ZTZ3W/ref=sr_1_19
+** drugstore
+   :PROPERTIES:
+   :ID:       8a9b3250-36fb-4ce1-9dd4-9ff6b4bacbaf
+   :END:
+*** TODO metformin
+*** [[id:64139dfc-c989-4fce-87a2-c544205de1ef][epazote (te mexicano)]]
+*** [[id:c696e936-85a8-4b96-ae4b-cbba6fe64645][saccharomyces boulardii]]
+*** [[id:72a1d3ba-44fa-4848-bb3b-510acae6563b][Multivitamins w/ no minerals and no sugar]]
+*** aspirator (h2o2 squeezer for ears)
+*** [[id:0c40a0ff-e8fa-4d08-a945-00be878e875b][crema dental, pequeño (para viajar)]]
+** naturista
+   :PROPERTIES:
+   :ID:       0c300484-db88-4534-8160-45e94bfa5891
+   :END:
+*** [[id:64139dfc-c989-4fce-87a2-c544205de1ef][epazote (te mexicano)]]
+*** [[id:c696e936-85a8-4b96-ae4b-cbba6fe64645][saccharomyces boulardii]]
+** ??
+   con pocas bolsas, porfa
+*** TODO [[id:f4eae20e-27a1-48c3-850f-c3f3f9328299][B and D vitamins]]
+*** [[id:05b18a85-476c-4606-a021-bd7fa7f39fef][gloves for weightlifting]]
+*** cologne
+*** mostaza
+*** tamales
+*** miso
+** dairy, esp. via Leonardo
+*** queso (2 tipos)
+*** yogurt sin azúcar, 2 litros
+** fruit, veg, meat ([[id:525a19ac-2535-4344-a2d3-393853bd71fb][Paloquemao]])
+*** pitaya, 2
+*** dried fruit
+*** [[id:9e385a23-32ad-4020-afbc-91f1a25b50b3][granos]]
+*** aguacates : 4 hass y 2 grandes, mixtos verdes y maduros
+*** ajo importado, 2 cabezas
+*** banano, 6 verdes y 6 amarillos (no negros)
+*** berenjena, 2
+*** brócoli 1
+*** cebolla, 2 libras
+*** champiñones, 1 libra
+*** coles de bruselas, 1 libra
+*** coliflor, 1
+*** espárrago, 1 bolsa
+*** [[id:64139dfc-c989-4fce-87a2-c544205de1ef][epazote (te mexicano)]]
+*** jengibre
+*** gelatina sin azúcar
+*** habichuela, 1/2 libra
+*** kiwis, 6
+*** limones, 6
+*** mango, 1 verde
+*** manzanas royales, 8
+*** nueces: pistachios *sin cascara*, 2 libras
+*** nueces: almendras
+*** nueces: macadamia
+*** nueces: semillas de sésamo
+*** nueces: semillas de calabaza
+*** nueces: semillas de chía
+*** papas, 3 libras
+*** papaya, 1
+*** pepino 2
+*** pimentón, 1 verde, 1 rojo
+*** ajís lima, 1 libra
+*** queso campesino, bajo en grasa y bajo en sal, 1/2 libra
+*** rabano, 1 libras
+*** remolachas, 2 unidades
+*** repollo morado, 1 solamente si hay morado
+*** tomate, 2 libras
+*** uvas nacionales moradas, 1 libra
+*** zanahorias, 4 unidades
+*** zuchini, 1 verde y 1 amarillo
+*** huevos, 1 cubeta
+*** te de coca
+** pescado ([[id:525a19ac-2535-4344-a2d3-393853bd71fb][Paloquemao]])
+*** NEW : calamar, caracol, pargo
+*** 8 filetes de tilapia
+*** 4 truchas
+*** DONE
+**** do not buy, cannot be trusted
+***** bagre
+      it's a bottom-feeder
+***** viudo de capaz
+**** 1 fileete de robalo
+**** sierra, 1 kilo
+**** (hard to eat) 4 mojarras frescas (cada uno divido en dos de pie a cabeza)
+** D1
+*** Pato toilet cleaner
+    tag inodoro
+*** jabon de mano para baño abajo
+*** clorox
+*** clorox ropa color
+*** esponjas
+*** jabon de platos, liquido
+*** jabon de platos, sólido
+*** jabón para ropa, en polvo (detergente)
+*** jabón para ropa, liquido
+*** limpia baldosa
+*** limpiapisos
+*** servilletas
+*** limpia madera
+*** coconut oil
+*** huevos
+*** salsa al pesto
+*** salsa napolitana
+** Jumbo
+   con pocas bolsas, porfa
+*** TODO alcohol
+*** [[id:9e385a23-32ad-4020-afbc-91f1a25b50b3][granos]]
+*** TODO [[id:6761815f-5300-462b-ab11-c0e8802673fd][roibos tea]] -- antiox, but no caffeine etc.
+*** moisturizing hand soap
+*** sal | salt -- kosher or sea
+    :PROPERTIES:
+    :ID:       3d4c51fe-fb3b-473b-a023-8f407eccb02e
+    :END:
+    Other salts have other stuff -- idione
+    (metalllic, unnecessary if eating enough dariy or seafood),
+    anti-caking agents, dextrose.
+*** [[id:cde998c4-5091-4d0b-bb9d-566208fe73b5][bicarbonato (baking soda, to pinch into beans)]]
+*** Head and Shoulders
+*** Ay Maria! (salsa picante)
+*** garbanzos, frijoles rojos, ? otros
+*** papel higiénico
+*** aceite de aguacate
+*** aceite de oliva, grande, at least 750 ml
+*** espinacas (ya empacada & lavada)
+*** arroz integral, 2 -- not Diana
+*** color (especie)
+*** crema dental
+*** crema dental, pequeño (para viajar)
+    :PROPERTIES:
+    :ID:       0c40a0ff-e8fa-4d08-a945-00be878e875b
+    :END:
+*** envoltura de plástico
+*** finas hierbas 1
+*** gelatina sin azúcar
+*** [[id:1f2f5a11-60d2-42a4-81bf-26a853f93c63][guantes para lavar losa]], 2 pair jbb
+    for jbb, marca TLD tamaño 9 está muy pequeño, tal vez 11 sirve
+*** jabon, dove
+*** laurel
+*** albahaca
+*** papel aluminio
+*** pimienta negra
+*** toallas de papel 1
+*** toallas para cocina, no de papel
+*** TODO vinagre | vinegar
+*** vinagre balsamico
+    PITFALL: Monticello's is half unaged grape must and half normal vinegar.
+*** TODO [[id:31fbf449-017c-4bbc-9e58-ab67482d61b8][kimchi]] || (on Rappi x Jumbo) sauerkraut ("chucrut")
+*** yogurt griego
+** Mi Proteina
+   :PROPERTIES:
+   :ID:       345b3a67-c586-4f68-9749-93b6ed1a464b
+   :END:
+*** protein : Gold Standard, 5 lb
+*** amino acids : not whatever is at DIAN
+*** Enterophylus from Mundo Natural down the hall
+** glasses
+*** bigger nose pads for glasses
+    They aren't on Amazon.
+*** smaller frame, for lighter weight
+** ??? not sure where to buy
+   :PROPERTIES:
+   :ID:       2de5fb19-2f98-43ae-990c-548814e30722
+   :END:
+*** case for earplugs
+*** Multivitamins w/ no minerals and no sugar
+    :PROPERTIES:
+    :ID:       72a1d3ba-44fa-4848-bb3b-510acae6563b
+    :END:
+    Amazon has no multivitamins except with minerals too.
+*** kimchi
+    :PROPERTIES:
+    :ID:       31fbf449-017c-4bbc-9e58-ab67482d61b8
+    :END:
+*** guantes para lavar losa, 2 pair (1 spare)
+    :PROPERTIES:
+    :ID:       1f2f5a11-60d2-42a4-81bf-26a853f93c63
+    :END:
+    for jbb, marca TLD tamaño 9 está muy pequeño, tal vez 11 sirve
+** TODO [[id:083ad7c4-7dc1-42c1-a3cb-b275f6e45bdd][for protein from plants with less gas]]
+** DONE bought
+*** glasses strap
+**** So they don't slip down my nose when I'm sweaty and looking down
+**** Found in Galerias, I think on Cra 15 just south of Cl 52
+*** [[id:468a4341-ce88-4797-8123-cd16e210cd48][foam rods (for fighting)]]
+*** [[id:2d238e67-4c09-435c-ab78-67ef62255f1c][battery for laptop, to buy]]
+*** hat
+*** guitar nut lube
+*** [[id:80bcc1ee-7dc5-4464-a535-b19f6d7ce739][phone (shopping)]]
+*** [[id:e190bb71-b266-4f1e-b254-3b128aced027][ear-drop-related products]]
+*** electric skillet
+*** grinder
+*** french press
+*** uv-blocking sports goggles
+*** sunblock
+    I bought Neutrogena. Banana Boat costs half as much.
+*** buy violin tape -- for guitar, monome
+    Just to mark stuff, not to serve as frets.
+    Colors. Try repeating patterns.
+*** tank top(s)
+**** single for $8
+    https://www.amazon.com/Russell-Athletic-Mens-Essential-Oxford/dp/B072FQ23XS/ref=sr_1_45?dchild=1&keywords=mens%27%2Btank%2Btops%2Btall&qid=1615307626&sr=8-45&th=1&psc=1
+**** 3-pack for $8 each ($24)
+    https://www.amazon.com/Neleus-Mens-Athletic-Muscle-Yellow/dp/B075XLBMC6/ref=sr_1_12?crid=27I5I1HSN7DL1&dchild=1&keywords=tank%2Btops%2Bfor%2Bmen&qid=1615307279&sprefix=tank%2Btop%2Caps%2C252&sr=8-12&th=1&psc=1
+*** picatodo (replace food processor)
+    https://articulo.mercadolibre.com.co/MCO-458321996-mini-picatodo-negro-_JM
+*** [[id:fe65c5d2-4b38-4e1a-be55-1a7abf1fbb74][apartment-hunting with Sandy, 2022]]
+** DONE stale
+*** [[id:cfe53f95-9430-4574-a323-24c0713c3619][PT/INR test system, shopping for]]
+*** [[id:0032f037-e329-4001-a627-6aeccd7d9130][buy for Covid-19]]
+*** buy spa-mask
+    310 699 4856
+    send 60 (5 + 55)
+* how to buy
+** Matu: a buy-and-deliver service
+   312 477 2482
+   matutelolleva@gmail.com
+   matutelolleva at facebook
+** [[id:b27f7a48-ff46-4b36-a0ca-459ab36d8ab4][Colsubsidio (drugstore)]]
+*** 20% off for Sura members on Wednesdays
+** [[id:ceed8453-6f70-4009-b8ab-0c175f17aaca][HomeCenter (retailer, online/offline, Colombia)]]

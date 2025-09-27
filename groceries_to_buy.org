@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       04c32283-0938-4675-9cd6-ee5363a1f2dd
+:END:
+#+title: groceries to buy, pending
+* frequent
+** beans
+** rice
+** soap
+** toilet paper
+** toothpaste

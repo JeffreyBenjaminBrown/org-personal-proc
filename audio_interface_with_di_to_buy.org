@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       baf8405e-ed0b-4386-9962-334889023b1f
+:END:
+#+title: audio interface with DI, to buy
+* motivation
+  Needed for the DI -- otherwise I can input signals and sum them to a zero-latency monitor at the same time.
+* DONE : ordered one of these, <2024-12-02 Mon>
+** ORDERED: looks like the winner
+   8 channel, not pro, cheaper than the 6-channel
+   https://www.amazon.com/Pyle-Professional-Audio-Mixer-Console/dp/B0719BC5FS?ref_=ast_sto_dp&th=1
+** Chinese, cheaper, might do all the same stuff
+   https://www.amazon.com/SIKUING-Interfacer-Recording-Microphone-Streaming/dp/B0D4YS6GFG/ref=sxin_23_pa_sp_search_thematic_sspa
+** One with separate gain and level controls per channel!
+*** on Amazon
+    https://www.amazon.com/8-Channel-Bluetooth-Studio-Audio-Mixer/dp/B07CK7GV84/ref=sr_1_52_sspa
+*** manual
+    https://pyleaudio.com/Manuals/PMXU83BT.pdf
+** https://www.amazon.com/Zoom-AMS-44-Audio-Interface/dp/B0B3JL4HXV/ref=sr_1_7
+   The manual says the DI is zero latency.

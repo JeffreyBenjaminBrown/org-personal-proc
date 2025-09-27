@@ -1,0 +1,280 @@
+:PROPERTIES:
+:ID:       a7fb848b-53e8-49e9-91b6-c3c73c83876b
+:ROAM_ALIASES: "payments, regular \ jbb"
+:END:
+#+title: regular payments \ jbb
+* history
+** TODO 2025 Sept
+   roughly in order of appearance
+*** DONE 26.5k to Cris for Yeni - can pay before the month starts
+*** DONE did it work? - Tigo - can pay on 5
+*** DONE Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
+*** DONE Claro hogar - couldn't pay Feb 7, could Feb 10
+*** DONE Aportes en Linea (for Yeni) - pay before 15?
+*** DONE Sanitas vi MiPlanilla - due the 15th, should probably pay earlier
+    but I got away with paying "10 days late",
+    on the 25th, the first time
+*** AWAITS broken <2025-09-22 Mon> : Acueducto (bimonth) - shutoff 24, issued 5th?
+*** DONE Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+*** DONE Vanti - Can pay on 18, not on 13.
+*** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
+*** mortgage
+** DONE 2025 Aug
+   roughly in order of appearance
+*** DONE 26.5k to Cris for Yeni - can pay before the month starts
+*** DONE Tigo - can pay on 5
+*** DONE Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
+*** DONE Claro hogar - couldn't pay Feb 7, could Feb 10
+*** DONE Aportes en Linea (for Yeni) - pay before 15?
+*** DONE Acueducto (bimonth) - shutoff 24, issued 5th?
+*** DONE Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+*** DONE Vanti - Can pay on 18, not on 13.
+*** DONE Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
+*** DONE mortgage
+** DONE 2025 July
+   roughly in order of appearance
+*** 26.5k to Cris for Yeni - can pay before the month starts
+*** Tigo - can pay on 5
+*** Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
+*** Claro hogar - couldn't pay Feb 7, could Feb 10
+*** Aportes en Linea (for Yeni) - pay before 15?
+*** Acueducto (bimonth) - n/a this month, I hope.
+*** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+    55,000 COP
+*** Vanti - Can pay on 18, not on 13.
+    31,000 COP
+*** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
+    I did everything to pay but the system is showing a
+    digital sprial of death.
+*** mortgage
+** DONE 2025 June
+   roughly in order of appearance
+*** Tigo - can pay on 5
+*** Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
+*** Claro hogar - couldn't pay Feb 7, could Feb 10
+*** Aportes en Linea (for Yeni) - pay before 15?
+*** Acueducto (bimonth) - shutoff 24, issued 5th?
+*** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+*** Vanti - Can pay on 18, not on 13.
+*** Colsanitas - paid the 27th
+*** mortgage
+** DONE 2025 May
+   roughly in order of appearance
+*** Aportes en Linea (for Yeni) - pay before 15?
+*** Tigo - can pay on 5
+*** Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
+*** Claro hogar - couldn't pay Feb 7, could Feb 10
+*** Acueducto - n/a this month, I hope
+*** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+    paid 53,190 without looking at the bill
+*** Vanti - Can pay on 18, not on 13.
+*** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
+*** mortgage
+** DONE 2025 April
+   roughly in order of appearance
+*** Aportes en Linea - pay before 5?
+*** Tigo - can pay on 5
+*** Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
+*** Claro hogar - couldn't pay Feb 7, could Feb 10
+*** Acueducto (bimonth) - shutoff 24, issued 5th?
+*** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+*** Vanti - Can pay on 18, not on 13.
+*** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
+*** mortgage
+** DONE 2025 Mar
+   roughly in order of appearance
+*** Tigo - can pay on 5
+*** Hogarú - pay before 5?
+*** Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
+*** Claro hogar - couldn't pay Feb 7, could Feb 10
+*** Acueducto (n/a this month)
+*** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+*** Vanti - Can pay on 18, not on 13.
+*** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
+*** mortgage
+** DONE 2025 Feb
+   roughly in order of appearance
+*** Paulo VI admin fee
+*** Tigo
+*** Claro hogar - can't pay on 7
+*** Acueducto (bimonth) - shutoff 24, issued 5th?
+*** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+*** Vanti - Can pay on 18, not on 13.
+*** Colsanitas - paid on 27
+*** mortgage
+** DONE 2025 Jan
+   roughly in order of appearance
+*** Paulo VI admin fee
+*** Tigo
+*** Claro hogar
+*** Acueducto (bimonth, should be n/a)
+*** Enel
+*** Vanti
+*** Colsanitas - Can't on day 23, can on 1, fecha límite on 10
+*** mortgage
+** DONE 2024 Dec
+   roughly in order of appearance
+*** <2024-12-07 Sat> Paulo VI admin fee
+*** <2024-12-07 Sat> Tigo
+*** <2024-12-07 Sat> Claro hogar
+*** Acueducto (bimonth) - shutoff 24, issued 5th?
+    130,260 COP
+*** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+*** Vanti - Can pay on 18, not on 13.
+*** Colsanitas
+*** mortgage
+** DONE 2024 Nov
+*** Colsanitas
+    paid <2024-11-28 Thu>
+*** Paulo VI admin fee
+*** Tigo
+*** Claro hogar
+*** n/a Acueducto (bimonth) - shutoff 24, can pay on 18
+*** Enel - shutoff 28, oportuno 24, can pay on 18, not on 13
+*** Vanti - can pay on 18, not on 13
+*** mortgage
+** DONE 2024 Oct
+*** Paulo VI admin fee
+*** Tigo
+*** Claro hogar
+*** Colsanitas
+*** Acueducto (every 2 mo.)
+*** Enel
+*** Vanti
+*** mortgage
+** DONE 2024 Sept
+*** n/a : Acueducto (every 2 mo.)
+*** Claro hogar
+*** Enel
+*** mortgage
+*** Paulo VI admin fee
+*** Tigo
+*** Vanti
+** DONE 2024 Aug
+*** Acueducto (every 2 mo.)
+    <2024-08-17 Sat>
+*** Claro hogar
+*** Enel
+    <2024-08-17 Sat>
+*** mortgage
+*** Paulo VI admin fee
+    <2024-08-12 Mon>
+*** Tigo
+    <2024-08-12 Mon>
+*** Vanti
+    <2024-08-17 Sat>
+** DONE 2024 July
+*** Claro hogar
+*** Enel
+*** mortgage
+*** Paulo VI admin fee
+*** Tigo
+*** Vanti
+** DONE 2024 June
+*** Acueducto (was not billed for May)
+*** Claro hogar
+*** Enel
+*** mortgage
+*** Paulo VI admin fee
+*** Tigo
+*** Vanti
+** DONE 2024 May
+*** Claro hogar
+*** Colsanitas : last time needed manually, hopefully
+*** Enel
+*** mortgage
+*** Paulo VI admin fee
+*** pay Tigo
+*** Vanti
+** DONE 2024 April
+*** Acueducto (every 2 mo.)
+*** Claro hogar
+*** Colsanitas
+*** predial
+*** Enel
+*** mortgage
+*** Paulo VI admin fee
+*** Tigo
+    <2024-04-11 Thu> I paid, and got a message from Tigo,
+    saying it would take at most 24 hours to go through.
+    I took a screenshot on my phone of the message from them.
+*** Vanti
+** DONE 2024 Mar
+*** n/a : Acueducto (every 2 mo.)
+*** Claro hogar
+*** Colsanitas
+*** Enel
+*** mortgage
+*** Paulo VI admin fee
+*** Tigo
+*** Vanti
+** DONE 2024 Feb
+*** Acueducto (every 2 mo.)
+*** Claro hogar
+*** Enel
+*** Mint mobile
+    paid through March 22-ish
+*** mortgage
+*** Paulo VI admin fee
+*** Tigo
+*** Vanti
+** DONE 2024 Jan
+*** not charged this month : Acueducto
+*** Claro hogar
+    This is the second and last month they don't charge.
+*** Enel
+*** Mint mobile
+    paid through March 22-ish
+*** mortgage
+*** Paulo VI admin fee
+*** Tigo
+*** Vanti
+** DONE 2023 Dec
+*** Acueducto (every 2 mo.)
+*** Claro prepago
+*** Claro hogar
+    They don't charge this (first) month or next.
+*** Enel
+    I paid it before Sandy sent me the bill,
+    on <2023-12-20 Wed>.
+    It was about 46e3 COP.
+*** mortgage
+*** (Done I think?) Paulo VI admin fee
+    Normally I pay Paulo VI 250e3-ish every month around the 10th.
+    This month they billed for the electrical closet repair,
+    and I paid 2.6e6-ish on Dec 2.
+    The bill looked very similar to previous ones,
+    so I'm guessing it included the regular admin fee.
+    I checked on <2023-12-18 Mon>
+    and again now, <2023-12-22 Fri>,
+    and the Mi Pago Amigo website
+    says the bill is paid, but doesn't specify the month.
+*** Tigo
+*** Vanti
+** DONE 2023 Nov
+*** Enel
+*** Paulo VI
+*** Tigo
+*** Vanti
+** DONE 2023 Oct
+*** Acueducto
+*** Enel
+*** Paulo VI
+*** Tigo
+*** Vanti
+** before then, see [[id:db716843-bd3c-4470-bfe1-ef722d52f386][utilities ("servicios") by month \ money with Sandy]]
+* the list
+  roughly in order of appearance
+** 26.5k to Cris for Yeni - can pay before the month starts
+** Tigo - can pay on 5
+** Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
+** Claro hogar - couldn't pay Feb 7, could Sept 9
+** Aportes en Linea (for Yeni) - pay before 15?
+** Acueducto (bimonth) - shutoff 24, issued 5th?
+** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
+** Vanti - Can pay on 18, not on 13.
+** Sanitas vi MiPlanilla - due the 15th, should probably pay earlier
+   but I got away with paying "10 days late",
+   on the 25th, the first time
+** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
+** mortgage

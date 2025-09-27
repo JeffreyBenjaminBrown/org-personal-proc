@@ -1,0 +1,119 @@
+:PROPERTIES:
+:ID:       332ba44e-54e9-4e6e-b39e-a2adf88587ae
+:ROAM_ALIASES: "laptop, to buy"
+:END:
+#+title: computer, to buy
+Last checked 2022 11 17.
+* next : sun-readable OLED
+  Here's a good article:
+    https://www.windowscentral.com/best-laptops-bright-screens
+  Bear in mind nits, OLED, anti-glare, and battery life.
+* PITFALL: Amazon lies about touchscreens
+  Search "touch" on the page and you might find "touchscreen" in the title but "no touchscreen" in the body.
+* PITFALL: remember all my requirements
+** easy to repair
+   ifixit.com rates computers that way.
+** [[id:be6f760b-a798-4d68-92ec-24071ccd2371][Why, with an external monitor, a 13.4" laptop screen would suffice for me.]]
+** solid for Linux audio
+** S3 Standby/suspend support
+*** Why, copied from HN
+    If your laptop supports that, you can close the lid and it will power ~everything except the RAM down (sometimes a USB port still charges). In 'new' laptops, including almost everything Tiger lake and Intel, S3 is being phased out for Microsoft's "Modern Standby", known as S0ix (or sometimes InstantGo). This is much more like a mobile phone, where it stays on but attempts to use as little battery as possible.
+
+    So, peripherals might shut down, but you might still be able to get critical Windows Updates or receive an important notification -- all while your laptop is unplugged, lid closed, in your bag overnight. This is pretty bad for heat, battery, and often not what you might expect. My new laptop uses about 15% battery overnight, just doing nothing.
+
+    In the future, perhaps this mode will work as well as S3 used to for battery life, but finding your laptop fans on while it's closed inside your bag and getting really hot is not fun. This applies to lots of laptops currently.
+*** Seems impossible to find in a recent computer.
+** 1000 nits & hopefully OLED
+** expandable to at least 32 GB RAM
+* consider matte screens & screen protectors
+  "They also make matte screens and screen protectors that reduce glare from reflections. The Steam Deck has one and I'm able to play it outside during the summer." --Bran
+* STALE
+** as of 2022-11-17, best minus OLED is HP Elitebook G5
+*** $450 base price refurbished on Amazon
+*** specs
+    10/10 iFixit repairability score.
+    16 GB RAM, max 32.
+    Quad core i7, 1.9 GHz.
+** as of 2023-07-17, best OLED is an $800 Asus VivoBook
+   https://www.amazon.com/ASUS-VivoBook-Graphics-Validated-Mousepad/dp/B0BTY94F5J/ref=sr_1_8?keywords=oled%2Blaptop&refinements=p_n_feature_thirty-three_browse-bin%3A23720418011%7C23720422011%2Cp_36%3A-100000&rnid=2421885011&s=pc&sr=1-8&th=1
+** u 2022 02 16
+*** Dell XPS + external monitor
+    small, fast, bright, touchscreen, [[id:d4ca949b-3c74-4215-b04c-8b64d661bf50][NixOS + Jack audio works]]
+**** Dell XPS 13
+***** It seems to be NixOS and Jack-capable
+      :PROPERTIES:
+      :ID:       d4ca949b-3c74-4215-b04c-8b64d661bf50
+      :END:
+      Here's someone using a Dell XPS 13 i7 with NixOS and JACK.
+      https://linuxmusicians.com/viewtopic.php?p=115280#p115280
+***** the only con (beyond price)
+      It's only 13 inches. Fine for Emacs, fine for the web if I can reach the touchpad. If I can't, I'm at home, and I could buy an external monitor.
+***** the pros
+****** The display is 400 or 500 nits,
+****** it's a no-flex gorilla glass touchscreen,
+****** it's crazy lightweight and thin,
+****** and it can come with an i7 (or i5 -- beware) chip
+       The i7s, at least, allow up to 64 GB RAM.
+       (Not sure about the i5.)
+**** on Amazon
+***** a search URL I like
+      https://www.amazon.com/s?k=Dell+XPS+13&i=electronics&rh=n%3A565108%2Cp_89%3ADell%2Cp_n_size_browse-bin%3A3545275011%2Cp_n_feature_thirty-three_browse-bin%3A23720418011%7C23720422011%2Cp_n_feature_fifteen_browse-bin%3A23611396011&dc&crid=3CC0CUA5D55Z5&qid=1647039530&rnid=23611390011&sprefix=dell+xps+13%2Caps%2C126&ref=sr_nr_p_n_feature_fifteen_browse-bin_1
+***** Renewed Dell XPS 13 for $1300 (Was $1200 for a while) + $244 import & free shipping
+      from the Amazon Renewed Store
+      https://www.amazon.com/Dell-13-4-inch-Touch-Laptop/dp/B08VBY726S/ref=sr_1_4?keywords=laptop+xps&qid=1644987549&rnid=2242797011&s=pc&sr=1-4
+*** $114 will buy a new 19" HDMI-connected monitor
+    and I already have an HDMI cable
+*** $100 will buy a refurbished 16" USB-powered monitor
+    But it requires the unfree DisplayLink driver,
+    which seems at least somewhat annoying:
+      https://nixos.wiki/wiki/Displaylink
+    For instance, once I prefetch the URL, what do I do with it?
+*** Pinebook : moot point
+**** indefinitely out of stock
+     "because of the chip shortage"
+**** seems to handle Linux audio
+     https://linuxmusicians.com/viewtopic.php?f=58&t=20281
+*** NVME is 2-7 faster than SSD, per someone on Reddit
+    https://www.reddit.com/r/audioengineering/comments/sx8jcb/comment/hxr2zoc/?utm_source=reddit&utm_medium=web2x&context=3
+*** Single thread performance is critical for audio, per someone on Reddit
+    And that makes sense --
+    it's probably usually hard to parallelize audio signal computation.
+    https://www.reddit.com/r/audioengineering/comments/sx8jcb/comment/hxql6jl/?utm_source=reddit&utm_medium=web2x&context=3
+*** Want low DPC (deferred procedure call)latency, per someone on Reddit.
+    But it looks like this is just a Windows thing.
+    https://www.reddit.com/r/audioengineering/comments/sx8jcb/what_should_i_be_looking_for_in_a_computer_that/hxru6gm/?utm_source=reddit&utm_medium=web2x&context=3
+*** Someone rec's AMD 5000 series and the (slightly lesser) Intel Core 12xxx series
+    https://www.reddit.com/r/audioengineering/comments/sx8jcb/what_should_i_be_looking_for_in_a_computer_that/hxru6gm/?utm_source=reddit&utm_medium=web2x&context=3
+*** avoid NVidia GPUs
+    because they impose latency problems
+    https://www.reddit.com/r/audioengineering/comments/sx8jcb/what_should_i_be_looking_for_in_a_computer_that/hxru6gm/?utm_source=reddit&utm_medium=web2x&context=3
+    He suggests AMD GPUs instead.
+*** Use Intel WIFI
+    Other (esp. unknown) brands cause DPC problems.
+    https://www.reddit.com/r/audioengineering/comments/sx8jcb/what_should_i_be_looking_for_in_a_computer_that/hxru6gm/?utm_source=reddit&utm_medium=web2x&context=3
+*** BIOS settings for audio
+    https://www.reddit.com/r/audioengineering/comments/sx8jcb/what_should_i_be_looking_for_in_a_computer_that/hxru6gm/?utm_source=reddit&utm_medium=web2x&context=3
+    a. Set plan to "High performance" in the dropdown box
+    b. Set "Hard disk->Turn off hard disk after" to 0
+    c. Set "USB settings->USB selective suspend settings" to Disabledx
+*** Someone recommends *against* Dell and for Asus machines or Lenovo Thinkpads
+    https://www.reddit.com/r/audioengineering/comments/sx8jcb/what_should_i_be_looking_for_in_a_computer_that/hxru6gm/?utm_source=reddit&utm_medium=web2x&context=3
+** models
+*** TODO Dell 15.6" Touchscreen, AMD Ryzen 5 3450U Quad-Core, 16GB DDR4, 1TB
+    $670 on 2021 10 03
+    https://www.amazon.com/Dell-Inspiron-Touchscreen-Quad-Core-Processor/dp/B0916CZDTH
+*** Dell Inspiron, 15.6", 16 GB, 1 TB, quad core (Intel Core i5-1035G1)
+    $689 on 2021 10 03
+**** a link
+     https://www.amazon.com/Dell-Inspiron-Display-i5-1035G1-Meeting/dp/B094CMWKV5
+*** Dell touchscreen, 14", 512 GB SSD, 16 GB RAM, 1920 x 1080
+    $610 on 2021 04 09
+    $600 on 2021 07 06
+    $570 on 2021 07 06
+    https://www.amazon.com/Dell-Business-Class-Generation-Certified-Refurbished/dp/B077FGWRY4/ref=psdc_13896615011_t1_B07L1253JN
+*** 2021 Dell Inspiron, 15.6" 32GB 512 GB SSD
+    $970 on 2021 04 09
+    $950 on 2021 07 06
+    https://www.amazon.com/Dell-Inspiron-15-5000-Fingerprint/dp/B08SHWYJMF/ref=sr_1_1?dchild=1&keywords=dell+500gb+ssd+15%22+laptop&qid=1618106365&s=pc&sr=1-1
+* DONE
+** [[id:b5a2285f-31be-4552-939c-a92d13d6f17d][for Ellen, shopping for a new laptop, <2023-07-30 Sun>]]

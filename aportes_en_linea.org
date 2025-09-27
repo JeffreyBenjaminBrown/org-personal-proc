@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       dedc3504-f8df-4899-adc9-c166ad70f2a8
+:END:
+#+title: Aportes en Linea
+https://www.aportesenlinea.com
+* PITFALL: If I have trouble
+  try waiting a day or two and trying again --
+  that worked <2025-06-12 Thu>, anyway.
+* Deadline to pay seems to be day 15 of the next month.
+  That is, to pay contribs for April,
+  I have until May 15th.
+* Their help line is fantastic.
+  Bogotá: 601 742 3900
+  Fast to respond, patient, nailed all my questions.
+* process
+  serial
+** to know which month(s) require payment
+  (The default has, AFAIR, always worked,
+  so this could be skippable.)
+
+  Look at past payments:
+    Liquidaciones -> Consultar
+    incluir planillas pasadas
+** to add her days
+  Empleados -> Consultar
+  Opciones -> Adicionar Novedad
+  Tipo Novedad : tiempo parcial
+  select number of days
+** to pay
+  Liquidaciones -> Consultar
+  Adicionar Liquidación
+  Select Planilla E
+    for past month for pensiones.
+  For health it might say this month,
+  disagreeing with last month,
+  but the lady (Diana Abadia?)
+  on the phone says that's fine.
+* Cost for 4 or 5 days appears to be the same.
+  78k for 5

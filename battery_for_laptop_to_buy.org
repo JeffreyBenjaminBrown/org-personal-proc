@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       2d238e67-4c09-435c-ab78-67ef62255f1c
+:END:
+#+title: battery of my 2017 Dell laptop
+* my battery, bought Oct 2021
+** 11.4 V, 42 Wh
+** description, two selected passages
+   Reemplazo de la batería del portátil WDXOR 42Wh para Dell Inspiron Series Notebook FC92N 3CRH3 T2JX4
+   Dell Inspiron 17 serie 5000: Dell Inspiron 15 serie 5000: Dell Inspiron 15 serie 7000: Dell Inspiron 14 serie 7000: Dell Inspiron 13 serie 5000: Dell Inspiron 13 serie 7000: Dell Vostro Algunos municipios no tienen cobertura por nuestro proveedor logístico, ante la cual se entregan en un oficina o corresponsal asignada.
+** on Mercado Libre
+   https://articulo.mercadolibre.com.co/MCO-634932826-reemplazo-de-la-bateria-del-portatil-wdxor-42wh-para-dell-_JM
+** gmail about it
+  https://mail.google.com/mail/u/0/#search/dario/QgrcJHrntPHQfNCpPTGzsDXzGwcgpbTRKZg
+* buying it
+** Amazon hasn't had a suitable battery in a while.
+   There are some on Mercado Libre.
+** Matching voltage, current
+*** On the back of this laptop it says 19.5V and 2.31A/3.34A
+*** The last battery I bought seemed to work, and it was 14.8V.
+*** I haven't found 19.5V replacement batteries, but I've seen other 14.8V.
+*** Someone online says laptop batteries can take a pretty wide range of voltages.
+** bought once, now out of stock
+   WDX0R Laptop Batteray for Dell Inspiron 15 5565 5567 5568 5578 7560 7570 7579 7569 P58F ; 13 5368 5378 5379 7368 7378 14-7460 Series Notebook Battery WDXOR FC92N 3CRH3 T2JX4 CYMGM
+   https://www.amazon.com/gp/product/B01G55M8HQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+** identical specs to what I bought, and cheaper
+   11.4V capacity: 42WH
+   https://www.amazon.com/Gomarty-WDX0R-Battery-Inspiron-14-7460/dp/B07G975RLJ/ref=sr_1_5?dchild=1&keywords=dell+inspiron+15%22+battery&qid=1618672158&sr=8-5

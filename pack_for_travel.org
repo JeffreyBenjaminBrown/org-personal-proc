@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       ec5d1d4f-8a69-44dd-a85f-aebdece2b981
+:ROAM_ALIASES: "list of things to pack for travel"
+:END:
+#+title: pack list for travel
+* TODO remember to list counts
+  at least for valuables like shirts, pants
+* papers to burn
+* double-check (=> easy access, not in suitcase)
+** warfarin
+** laptop
+** laptop power
+** phone
+** phone power
+** wallet, cash, CCs
+** keys
+** glasses
+** passport
+** mask
+** ssd + cable (special!)
+* backpack
+** USB drive(s)
+** USB cables, both kinds
+   A to C and C to C
+   for flights
+** a rag in a plastic bag
+   for a towel-bath on a long flight
+** mouth tape
+** eyeshade
+** dental gear
+   toothbrush, floss, bite gauard; more?
+   toothpaste goes with liquids
+** audio cable (for car, for speaker)
+** tactical (pocket) pants, jeans
+** poncho
+** headphones | earphones
+** earplugs
+** lupa | magnifying glass
+** big plastic bag
+** 1 underwear, 1 socks, 1 small shirt
+** warm hat
+** scarf
+** thin sweater
+** thin jacket
+** heavy jacket
+** gloves
+** rubber bands | velcro
+* suitcase
+** backup warfarin
+** gifts
+** protein
+** dishwashing gloves
+** rubber sheet | gripliner
+** speaker
+*** power
+** hair clippers | shaver | scissors
+*** power
+** nail clippers
+** big water bottle
+** sun hat
+** sun shirts
+** vest
+** swimsuit
+** pillows : thin | doughnut | neck
+** underwear
+** shorts
+** shirts
+** pants
+** socks
+** place-specific sporting goods
+   e.g. water goggles
+** physical therapy (PT) equipment if applicable
+*** canvas band for stretching
+** bite guard
+** sandals
+* food
+* liquids
+** bugspray
+** sunblock | sunscreen
+** deo
+** toothpaste
+** alcohol | disinfectant
+** water | thermos
+* unusual
+** 2-to-3-prong power adaptor ground-pretender
+   for rural Colombia at least
+** VR gear
+** an instrument + power, connections
+** binoculars
+** condoms
+** decongestants
+** fan
+** gas detectors
+** hiking poles | hiking sticks
+** jumprope
+** kindle
+** neti pot (if sick and going to tierra baja)
+** power strips
+** psychoactives
+** scissors (for water)
+   or swiss army knife?
+** seat cushion
+   for Villavo
+** shoes for water
+** towel
+** tripod
+** walking sticks
+** wipes

@@ -1,0 +1,102 @@
+:PROPERTIES:
+:ID:       8a4327f8-1d29-4784-88ec-eb1fe58fb561
+:ROAM_ALIASES: "Amazon"
+:END:
+#+title: Amazon, buying from
+**** REMEMBER free shipping
+**** REMEMBER seller rating
+* TODO lights for bike
+* TODO bluetooth receiver for speakers
+* TODO USB A to C cable(s)
+* TODO waterproofing for jacket
+* TODO condoms
+* TODO detergent
+* TODO pouch to replace little shredding black one in backpack
+* TODO metal sponges for Yeni
+  :PROPERTIES:
+  :ID:       8e8bf804-e8fc-4160-bfca-5a8ac36c2b5d
+  :END:
+  https://www.amazon.com/-/es/dp/B0DZTD7T99/ref=sspa_mw_detail_0?ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWwp13NParams
+* --- BELOW: less pressing ---
+* TODO Rolling papers for the next concert
+* TODO yellow and red on top -- hat, shirt, sweater
+* TODO replace yellow belt
+* TODO beige socks
+* TODO longer more speaker wire, two speaker stands,
+  sub behind couch
+* TODO kitchen scale, for protein & to train senses
+* TODO a little thermos, to fill frequently at the tap
+  for airports, the US
+* TODO beige heather slacks
+** TODO Check once I've washed the ones I have.
+   Right now they seem embarrassingly chewed up.
+* TODO hiking sticks
+* TODO ? long-battery, USB-powered laptop/tablet
+  for org-mode on flights
+* ONGOING 3.5mm audio cables
+* ONGOING [[id:17eb7869-0d9c-41c6-9d86-800dece0b8b7][two adaptors from male RCA to two female quarter inches]]
+* slippers for guests
+* non-leather belts
+  black, brown, ?white
+* fingerless gloves
+* small toiletry bag (that won't shed)
+* grinder
+* Belly bag for work?
+  so my keys don't saw a hole in my pocket
+* BLK_DATE in cart : SMOKE DETECTOR
+* BLK_DATE in cart : KN95 masks
+* [[id:baf8405e-ed0b-4386-9962-334889023b1f][audio interface with DI, to buy]]
+* Hepa filters
+* (actually) hard bamboo toothbrushes
+  the "medium hard" toothbrushes are soft
+* bathroom floor towels -- would they save me time?
+* air fryer paper | parchment paper
+  https://www.amazon.com/gp/product/B0BQJ6DCLL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+* BLK_DATE [[id:79816c6a-92e4-4ef1-89b7-3db5e9b879f1][ring to work out hips]]
+* BLK_DATE toilet tank freshener pills?
+  Blocked on: Be sure they won't interfere with the bidet.
+    Do that by testing with some food coloring.
+* wall mirrors
+  I almost bought these but they don't offer free shipping.
+  https://a.co/d/5q0uOuY
+  https://www.amazon.com/gp/product/B0CYWDD8FP/ref=ox_sc_act_title_1?smid=AJ69TRELDIG75&psc=1
+* ONGOING robot vacuum-mop
+ a https://www.amazon.com/Tipdiy-Powerful-Self-Charging-Automatic-Aspiradora/dp/B0D2XXSPCR
+* [[id:4487e856-6e12-4432-968d-7331c72f7b36][fabric for shirts]]
+* yoga mat, BPA-free
+  insulation against floor : for pushups, arches, etc.
+* red jeans
+* dish gloves
+* Electric broom
+  Jamie's is made by Karcher
+* a from-Swiss power converter
+* [[id:6d8f24fd-eeee-495c-ba3a-101db1f7b03d][optionally-wireless speakers, searching for]]
+* [[id:f4eae20e-27a1-48c3-850f-c3f3f9328299][B and D vitamins]]
+* [[id:05b18a85-476c-4606-a021-bd7fa7f39fef][gloves for weightlifting]]
+* see also [[id:860baa6b-44e8-490b-af1a-627549125dac][fashion \ jbb]]
+* [[id:2de5fb19-2f98-43ae-990c-548814e30722][??? not sure where to buy]]
+* Tiles
+** track my computer?
+** track my phone?
+** track my wallet?
+* insulated lunch bag
+* hot plate
+* [[id:f1e2bd90-750c-4b63-a081-8199aaebea8d][toys, educational]]
+* (hard) : Glass salt shaker
+** No BPA, etc, even the little rubber bit
+* [[id:449f792e-78ee-4e0a-9a4d-94ca34a69c10][better dental irrigator]]
+* MEH
+** [[id:22450b56-d803-4666-a4ba-0c2177521fb1][belt card zipcord widget, buy a]]
+** [[id:235406f7-1846-47ea-805c-dcd97d3e363b][Bluetooth keyboard]]
+** metal (titanium) cutting board
+** a weights belt/backpack
+** another filter for downstairs?
+** airlock for pickles
+** scale for pickles
+   2% salt
+** costume stuff
+   LEDs? Balloons | inflatable stuff? Wigs? Ribbons? Mascot outfit?
+** lightweight plumb bob
+* DONE
+** [[id:31256160-8551-4d56-bf8f-15005629e724][heated blanket, buy a]]
+** electrolytes, 0-cal : gone, apparently
