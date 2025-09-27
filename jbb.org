@@ -3,9 +3,140 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* who is where
+** David will not be at Luis Carlos's first public announcement.
+** I feel like I'm letting myself get away with it.
+** I feel like two species.
+   Orthoganal stories.
+** An equidistant linear laughter space.
+   each laugh a vector, they kind of balance
+* feels glitchy: was writing to LCR about hode
+I had an idea. I could make a knowledge graph for your thoughts on subjects. There would be some top-level document called, say, 'everthing', and I would try to divide up the space of ideas people might care about into topics like (projects/education) or (human nature/values) where each () is a path through something like folders. I would subdivide peoples' questions or thoughts as much as I could, and count how many had been collected in each branch, and count how many you had responded to if they had asked you to respond.
+
+You could see what people (who bother to learn to write on the website) care most about. Others could see the same, and easily navigate to what you had said on a subject. You wouldn't have to repeat yourself. Everything could be publicly written about, although maybe I would only let special people modify how the tree (or set of overlapping trees) divides. Private messaging would be allowed too, e.g. for sensitive feedback, or not; I suspect allowing it is better but I'm not sure.
+* invite to LCR in Usme
+** english
+Hi! Tomorrow at 1 pm Luis Carlos will have his first public gathering. It's only a talk, not a campaign event -- that would be illegal --  but we will be judged by how many people come. I'll go. Would you like to? The invitation is in my WhatsApp status and it's also my profile picture.
+
+Sharing the invitation could be a big help too.
+** spanish
+Hola! Mañana a la 1 pm Luis Carlos va a tener su primer reunión público. Es solamente una charla, no es un evento de campaña -- eso sería ilegal a esta fecha -- pero nos van a juzgar por cuántos atienden. Te gustaría ir conmigo? La invitación está en mi estatus de WhatsApp y también es mi foto de perfil.
+
+Compartir la invitación nos podría ser una ayuda grande también.
+** for functionaries
+Hola!
+
+Como funcionario público, tal vez no podrías asistir tú, pero si conoces a alguien que le gustaría, sería una gran ayuda difundir esta invitación.
+
+Mañana a la 1 pm Luis Carlos va a tener su primer reunión público. Es solamente una charla, no es un evento de campaña -- eso sería ilegal a esta fecha -- pero nos van a juzgar por cuántos atienden.
+* buy
+  all rice, oil,
+  2 kg garbanzo
+  3 onion
+  4 papas
+  3 carrot
+  4 apio
+* TODO memory: in LA
+** Cliff rented a 7-person van.
+   He, Emric and I enjoyed that the seats could disappear into the floor.
+   Emric excitedly counted Teslas for *way* longer than I would have guessed. Maybe more than an hour total, over a few days.
+** We ate with Jose and Lilian at their place.
+   Cliff and Jose both teared up while toasting.
+   Jose, Cliff and I jammed (bass, piano and drums, respectively). It was fun. Even Ellen and Jamie liked it.
+** Cliff helped Ellen buy a car.
+   He took her to see various things she had found online. He recommended CarMax. She went with some Iranian guy, and later they were convinced he had sold her a stolen car. For weeks we thought that but yesterday she got it cleared up and apparently she owns it legally.
+** We went to the Santa Monica pier.
+   Emric and Jamie rode a roller coaster. Emric spent a long time with a guy who feeds pigeons so much that they stand on him and whoever he's with. Emric loved that. Jamie did it too. I declined. Emric loved it so much that we walked all the way back there later, but he was gone. We saw a guy playing sitar, a relaxed breakdancer, an awesome magician, and the fortune-telling machine (Zoltar?) from the movie Big, which only I reocgnized.
+   Cliff and Ellen disappeared to do car stuff after the pier. I waited with Ellen at a cafe for a while while the others went to the car and Jamie and Emric got ready to beach. Someone asked if she could take our photo, had me pose kissing Ellen on the cheek. I never saw the photos; Cliff and Ellen did but weren't going to pay what she was asking. I drank the milk that Ellen didn't use in her tea, which embarrassed her.
+   Then Jamie, Emric and I walked to the beach. He had a boogie board. I stayed on the sand exercising while they played in the water. They had wetsuits and I didn't, and didn't want to get cold. I could either be in the sun or right next to a very pigeon-smelling pier. I chose the pier, as did a number of other beachgoers. I was listening to Echopraxia, which is a pretty dark contrast to a family vacation.
+   We got McDonalds on the way back. It was much healthier than the heavily slathered hot dogs we got on the beach.
+** Cliff and I visited Wing and then Linda and Scott
+*** Wing
+    tai chi, almost 80, incredible health, moves fast
+    Chinese garden at that giant gardens-and-museum place in Pasadena
+    Cliff was proud of managing to pay for lunch before Wing could object
+    Blue Boy got a lot of attention but I didn't see why. The modern art museum was way cooler.
+    Wing talked about escaping China. He left alone on a boat, 12 years old?, his mom on one side, his dad on the other, crazy sea sick, for (Hong Kong?). Then later to a different island (Taiwan?), then the US. Talked about Cultural Revolution kids destroying everyone's property, books, violence, horrible.
+    Cliff had earlier told me that Wing was studying something hard (PhD in physics?) and quit to sell jewelry, which made him a fortune. He set his sister up with the same business in northern California.
+*** Linda and Scott
+    Tesla
+    big dog I felt no allergy to
+    brain damage, considering Colombia
+    huge house
+    stayed there with a hose, a shotgun and a revolver during the fires
+** Emric, Jamie and I went to Universal Studios.
+   Nintendo World. The line for the ride was cool. The ride itself didn't really work -- they tried to gamify it but it's not clear how the game works. Photo of Jamie and me coming out of tubes, she's posing as a flower, I'm a (mushroom) frowning while Emric steps on my head.
+   Jurassic Park was almost too intense for Emric. He thrashed around and kneed me in the back of the calf. I learned to be cautious around him because he thrashes. We got splashed, it was partly in the sun, very nice, but then gets dark and T-rexes menace the cabin.
+   The Simpsons was my favorite.
+   Jamie and Emric recognized lots of stuff at Harry Potter World, enjoyed just hanging out in the environment when we weren't doing rides. (Its ride is probably the best one, objectively.)
+   Lots of hoofing it. Giant escalators. We took bagged lunches.
+** We swam.
+   Cliff coiled like a spring and threw Emric, standing on his shoulders, into the air. I tried and it went well the first time but after that I could only for some reason throw him straight up, which is dangerous. In the shallow end I could just pick him up and throw him with my arms, which he enjoyed. Cliff and Ellen and I hung out in the jacuzzi for a while. Everyone swam, and everyone but Emric jacuzzied because he's not allowed.
+** Jamie and I jogged through Friendly Valley.
+   Ellen was careful to make sure we had badges but nobody ever asked us. Later Jamie, Emric and I went hiking without badges because we had forgotten them, and again, no hassle.
+** Cliff, Jamie, Emric and I hiked near Friendly Valley
+   We walked up the hill into the adjacent (also gated) neighborhood, then up further into scrub mostly undeveloped except for two enormous (four stories?) water tanks. The descent was slippery so we took the long, winding way. We heard a high school football team practicing, and/or a marching band, but by the time we approached they had gone.
+   Walking back Emric got tired, needed water. We passed some kind of (construction?) worker driving a pickup truck. Cliff mused, "we should have asked him for water". I said we still could, went back and did, and he had some! And cups! So Emric got a lot of water, and some or all of the rest of us drained his cup.
+   We landed at a mini mart, got drinks. Cliff grumbled to the owner about how everyone takes longer than him to decide what to get. We ate outside. It was nice. Ellen picked us up.
+** Emric could do 500.
+   Ellen thought he could. I didn't.
+** Emric loved poker.
+** Parker made me laugh a lot.
+   Thinks really fast.
+   Learning to drive a bus. Will be a jump in pay,
+   and physically easier.
+** John and Ellen seemed to get along!
+   John hadn't visited since 2016.
+** Jamie showed everyone a video about Belmont.
+   I had been there in person, and like the place and the people, but didn't really care about the video. Felt guilty trying to multitask while watching it, eventually gave up and started coding.
+** Ellen made chicken casserole.
+   Under pressure, she asked me to measure out a cup of parmesan cheese for it. I did, and added it, and then she added two more. She had meant to add two cups of breadcrumbs. The result was saltier than it should have been, but everyone agreed it was good, except Emric. (Who didn't call it bad; he just said he didn't like it.)
+   Pressure was also a factor in her car purchase. She felt like she had to do it while Cliff was there to drive her around. When they were buying the car Cliff was about to go to the airport so there wasn't much time to think things through.
+** Cliff bought wine in a box.
+   It really is good.
+** I helped Cliff and Ellen get stoned.
+   I didn't do it myself -- it was too late, would have disrupted my sleep. But I used a paperclip to clean resin out of the threads of two parts of her vape, which were too clogged to join.
+   They did not act very differently afterward, if at all. They didn't smoke much.
+** I saw Brian, Jeff and the SFV LUG Saturday.
+** Sunday I hung out with Phil. Emric, Jamie and Ellen went to the beach Saturday.
+   Phil met Emric and Ellen, and briefly Jamie.
+   After talking about Phil's daughter, I asked Phil's girlfriend if she had kids. She said no, but that she would kill for her dog. She made her a puzzle by hiding dog treats in a towel tied in a knot. Rory got at most of them.
+   She listens to books (fiction) at up to 3x speed.
+   Phil and I could make spectacular music if we had more time for it.
+   Phil said I could monetize Skg, for businesses.
+* Who pays bank costs? All costs? How much are they?
+Ese contrato que firmamos hoy implica que alguno de los partidos va a pagar los costos del banco, sin especificar a quién. Puede que los compradores asumen que ese costo nos cae a nosotros, o que se saca del 550,000,000. Y tampoco especifica el monto de esos costos. Pero supongo que no tenemos alternativo -- BBVA va a coger algo.
+
+Imagino que van a surgir muchos costos como estos. Espero que los podamos dividdr 50/50 -- es decir, si el "precio" de la casa es P, y C es la suma de estos costos, que sea P - 1/2 C lo que nos llegue a nosotros, y P + 1/2 C lo que pagan ellos.
+
+Si les sale mucho al favor de los compradores el balance de los costos, lo podríamos describir y negociar para que hagan mi formula (que no, me parece, favorece a nadie).
+* review social skills
+* extend visa
+* draw that glass ear
+** spec
+   doing a sport {tennis, fencing,}
+   with a {broom}.
+   "Transparencia. (Escuchez?) Juego limpio."
+** prompt
+Can you draw a glass ear with arms and legs, using a broom to fence? He's in that classic fencing pose, one arm akimbo. The arms and legs should be of glass similar to the ear itself. He should hold the head near the end of the handle, with the brush head far away from him.
+
+Put Colombia's Supreme Court behind him. The ear should be transparent enough that we can see the court, albeit distorted, through the ear.
+* see if XFCE uses less power
+  if so, use it on flights, etc.
+* write something to reduce reading history
+  /home/jeff/org-roam/reading-history/jeff-read.csv
+* timing to LAX
+  40 min to Van Nuys
+  60 min to LAX
+  20 min wait for bus
+* codey stuff
+** org-indent-mode
+** org-superstar
+** "terminal trove"
+   site with cool tools
 * pressing
 ** [[id:7951b019-9568-4f42-b4d7-234eaf4f8aad][Los Angeles, trip to, <2025-09-10 Wed>]]
-** Gloria! Taxes! Sept 24!
+** [[id:ebaafe43-c400-4c6c-8a30-7f58ed81598b][Colombian taxes 2024 (filing 2025)]]
 ** GRE
 ** bills
 * school
@@ -322,7 +453,6 @@ a command, when I start it.
 * online
 ** respond to messages on [[id:42bb873a-07b2-481e-aedd-97ed6ceb562c][Tinder \ jbb]]
 ** [[id:fdcd52e1-8823-4c14-9d04-c2d1b0e46031][El Pais: subscribe to annual plan \\ temporary]]
-* [[id:a55951fb-746c-4478-aec1-7b675bb4352e][shopping on foot]]
 * [[id:8a4327f8-1d29-4784-88ec-eb1fe58fb561][Amazon, buying from]]
 * [[id:46f7a563-9674-40d0-9020-37782b8ae53c][go through my photos]]
 * ******************* UNSORTED FROM HERE DOWN *******************
