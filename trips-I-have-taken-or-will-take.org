@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       454dcc21-b0c4-4dee-a583-5f8886513395
+:END:
+#+title: trips I have taken or will take
+* TODO [[id:b63461e2-6a04-420b-96f9-3d854186a85d][Leticia, trip to, planned <2025-04-12 Sat>]]
+* [[id:afdcd8d2-18fe-4227-b847-4cd7ba0f1c21][Costa Rica, <2025-08-01 Fri>]]
+* [[id:fed57b73-12a2-4b26-9bad-b2348745c281][Maryland, <2025-06-04 Wed>, Cliff gets a pacemaker]]
+* [[id:146daf4b-1779-4bc8-a9f7-5afab8613d04][Amazonas, places to go in]]
+* [[id:b63461e2-6a04-420b-96f9-3d854186a85d][Leticia, trip to, <2025-04-12 Sat>]]
+* [[id:1fd740b5-7096-4fb7-ab56-e851b6394bb7][West Coast, trip to, Dec 2024]]
+* [[id:4274ee9a-8b13-4763-9719-f32dd7efbcea][Switzerland, trip to, 2024-09-04 Wed]]
+* [[id:52060223-c6a5-4d96-9be4-40446bda6250][East Coast (USA), trip to, <2023-12-21 Thu> to <2024-01-09 Tue>]]
+* [[id:1adc26f0-da3a-41c2-840d-28eeda95e43c][Switzerland, trip to, 2023-09-19]]
+* [[id:a77fd651-d96b-4dc5-8923-34f2a1ad1c97][Silvania, trip to, 2023-08-18]]
+* [[id:c4d44b0f-3740-4f63-8e33-c0198fa8bcdd][Santa Marta, trip to, 2023-04-03 Mon]]
+* [[id:df6ae126-b13e-4919-9e32-939125bee877][Huila, trip to, 2023 Jan 2-8]]
+* [[id:59a2f6a2-c0d8-4afa-a38a-8b161acc1d4b][Villavicencio, trip to, 2022-12-19 to maybe 2023-01-01]]
+* [[id:0dbfdd47-29a3-4fc8-9039-4680dc09950c][Popayan, trip to, 2022 Dec 7-11]]
+* [[id:3152bae3-3bcc-4fae-a754-1e007d38ff6f][Los Angeles, trip to, 2022 June 22 - July 3]]
+* didn't: [[id:19dea72c-1433-467a-9425-4f43787f5ffb][Curacao, trip to, considering]], 2022 June 22 - July 3
+* [[id:9a4c4b77-6fe7-456b-87fb-398591317009][Popayan, trip to, 2022 04 9 - 04 12]]
+* PITFALL: two non-overlapping notes: [[id:7cfaef31-7315-4499-8071-fb3dd3b4f33d][trip to San Andrés, Feb 2022]]
+  NOT a duplicate: [[id:e056d0a7-e131-4010-9896-fce2cc4db0fc][San Andres, trip to, 2022 Feb]]
+* [[id:e8b2651d-7938-41ce-bab9-9091206f929b][Medellin, trip to, 2021]]
+* [[id:0a612958-989d-4cd1-9a4f-9dc98344c36e][San Andres, trip to, 2021]]
+* Maryland and DC, Feb 2020
+* Chicamocha, Jan 2020

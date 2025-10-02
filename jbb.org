@@ -3,191 +3,67 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
-* who is where
-** David will not be at Luis Carlos's first public announcement.
-** I feel like I'm letting myself get away with it.
-** I feel like two species.
-   Orthoganal stories.
-** An equidistant linear laughter space.
-   each laugh a vector, they kind of balance
-* feels glitchy: was writing to LCR about hode
-I had an idea. I could make a knowledge graph for your thoughts on subjects. There would be some top-level document called, say, 'everthing', and I would try to divide up the space of ideas people might care about into topics like (projects/education) or (human nature/values) where each () is a path through something like folders. I would subdivide peoples' questions or thoughts as much as I could, and count how many had been collected in each branch, and count how many you had responded to if they had asked you to respond.
-
-You could see what people (who bother to learn to write on the website) care most about. Others could see the same, and easily navigate to what you had said on a subject. You wouldn't have to repeat yourself. Everything could be publicly written about, although maybe I would only let special people modify how the tree (or set of overlapping trees) divides. Private messaging would be allowed too, e.g. for sensitive feedback, or not; I suspect allowing it is better but I'm not sure.
-* invite to LCR in Usme
-** english
-Hi! Tomorrow at 1 pm Luis Carlos will have his first public gathering. It's only a talk, not a campaign event -- that would be illegal --  but we will be judged by how many people come. I'll go. Would you like to? The invitation is in my WhatsApp status and it's also my profile picture.
-
-Sharing the invitation could be a big help too.
-** spanish
-Hola! Mañana a la 1 pm Luis Carlos va a tener su primer reunión público. Es solamente una charla, no es un evento de campaña -- eso sería ilegal a esta fecha -- pero nos van a juzgar por cuántos atienden. Te gustaría ir conmigo? La invitación está en mi estatus de WhatsApp y también es mi foto de perfil.
-
-Compartir la invitación nos podría ser una ayuda grande también.
-** for functionaries
-Hola!
-
-Como funcionario público, tal vez no podrías asistir tú, pero si conoces a alguien que le gustaría, sería una gran ayuda difundir esta invitación.
-
-Mañana a la 1 pm Luis Carlos va a tener su primer reunión público. Es solamente una charla, no es un evento de campaña -- eso sería ilegal a esta fecha -- pero nos van a juzgar por cuántos atienden.
-* buy
-  all rice, oil,
-  2 kg garbanzo
-  3 onion
-  4 papas
-  3 carrot
-  4 apio
-* TODO memory: in LA
-** Cliff rented a 7-person van.
-   He, Emric and I enjoyed that the seats could disappear into the floor.
-   Emric excitedly counted Teslas for *way* longer than I would have guessed. Maybe more than an hour total, over a few days.
-** We ate with Jose and Lilian at their place.
-   Cliff and Jose both teared up while toasting.
-   Jose, Cliff and I jammed (bass, piano and drums, respectively). It was fun. Even Ellen and Jamie liked it.
-** Cliff helped Ellen buy a car.
-   He took her to see various things she had found online. He recommended CarMax. She went with some Iranian guy, and later they were convinced he had sold her a stolen car. For weeks we thought that but yesterday she got it cleared up and apparently she owns it legally.
-** We went to the Santa Monica pier.
-   Emric and Jamie rode a roller coaster. Emric spent a long time with a guy who feeds pigeons so much that they stand on him and whoever he's with. Emric loved that. Jamie did it too. I declined. Emric loved it so much that we walked all the way back there later, but he was gone. We saw a guy playing sitar, a relaxed breakdancer, an awesome magician, and the fortune-telling machine (Zoltar?) from the movie Big, which only I reocgnized.
-   Cliff and Ellen disappeared to do car stuff after the pier. I waited with Ellen at a cafe for a while while the others went to the car and Jamie and Emric got ready to beach. Someone asked if she could take our photo, had me pose kissing Ellen on the cheek. I never saw the photos; Cliff and Ellen did but weren't going to pay what she was asking. I drank the milk that Ellen didn't use in her tea, which embarrassed her.
-   Then Jamie, Emric and I walked to the beach. He had a boogie board. I stayed on the sand exercising while they played in the water. They had wetsuits and I didn't, and didn't want to get cold. I could either be in the sun or right next to a very pigeon-smelling pier. I chose the pier, as did a number of other beachgoers. I was listening to Echopraxia, which is a pretty dark contrast to a family vacation.
-   We got McDonalds on the way back. It was much healthier than the heavily slathered hot dogs we got on the beach.
-** Cliff and I visited Wing and then Linda and Scott
-*** Wing
-    tai chi, almost 80, incredible health, moves fast
-    Chinese garden at that giant gardens-and-museum place in Pasadena
-    Cliff was proud of managing to pay for lunch before Wing could object
-    Blue Boy got a lot of attention but I didn't see why. The modern art museum was way cooler.
-    Wing talked about escaping China. He left alone on a boat, 12 years old?, his mom on one side, his dad on the other, crazy sea sick, for (Hong Kong?). Then later to a different island (Taiwan?), then the US. Talked about Cultural Revolution kids destroying everyone's property, books, violence, horrible.
-    Cliff had earlier told me that Wing was studying something hard (PhD in physics?) and quit to sell jewelry, which made him a fortune. He set his sister up with the same business in northern California.
-*** Linda and Scott
-    Tesla
-    big dog I felt no allergy to
-    brain damage, considering Colombia
-    huge house
-    stayed there with a hose, a shotgun and a revolver during the fires
-** Emric, Jamie and I went to Universal Studios.
-   Nintendo World. The line for the ride was cool. The ride itself didn't really work -- they tried to gamify it but it's not clear how the game works. Photo of Jamie and me coming out of tubes, she's posing as a flower, I'm a (mushroom) frowning while Emric steps on my head.
-   Jurassic Park was almost too intense for Emric. He thrashed around and kneed me in the back of the calf. I learned to be cautious around him because he thrashes. We got splashed, it was partly in the sun, very nice, but then gets dark and T-rexes menace the cabin.
-   The Simpsons was my favorite.
-   Jamie and Emric recognized lots of stuff at Harry Potter World, enjoyed just hanging out in the environment when we weren't doing rides. (Its ride is probably the best one, objectively.)
-   Lots of hoofing it. Giant escalators. We took bagged lunches.
-** We swam.
-   Cliff coiled like a spring and threw Emric, standing on his shoulders, into the air. I tried and it went well the first time but after that I could only for some reason throw him straight up, which is dangerous. In the shallow end I could just pick him up and throw him with my arms, which he enjoyed. Cliff and Ellen and I hung out in the jacuzzi for a while. Everyone swam, and everyone but Emric jacuzzied because he's not allowed.
-** Jamie and I jogged through Friendly Valley.
-   Ellen was careful to make sure we had badges but nobody ever asked us. Later Jamie, Emric and I went hiking without badges because we had forgotten them, and again, no hassle.
-** Cliff, Jamie, Emric and I hiked near Friendly Valley
-   We walked up the hill into the adjacent (also gated) neighborhood, then up further into scrub mostly undeveloped except for two enormous (four stories?) water tanks. The descent was slippery so we took the long, winding way. We heard a high school football team practicing, and/or a marching band, but by the time we approached they had gone.
-   Walking back Emric got tired, needed water. We passed some kind of (construction?) worker driving a pickup truck. Cliff mused, "we should have asked him for water". I said we still could, went back and did, and he had some! And cups! So Emric got a lot of water, and some or all of the rest of us drained his cup.
-   We landed at a mini mart, got drinks. Cliff grumbled to the owner about how everyone takes longer than him to decide what to get. We ate outside. It was nice. Ellen picked us up.
-** Emric could do 500.
-   Ellen thought he could. I didn't.
-** Emric loved poker.
-** Parker made me laugh a lot.
-   Thinks really fast.
-   Learning to drive a bus. Will be a jump in pay,
-   and physically easier.
-** John and Ellen seemed to get along!
-   John hadn't visited since 2016.
-** Jamie showed everyone a video about Belmont.
-   I had been there in person, and like the place and the people, but didn't really care about the video. Felt guilty trying to multitask while watching it, eventually gave up and started coding.
-** Ellen made chicken casserole.
-   Under pressure, she asked me to measure out a cup of parmesan cheese for it. I did, and added it, and then she added two more. She had meant to add two cups of breadcrumbs. The result was saltier than it should have been, but everyone agreed it was good, except Emric. (Who didn't call it bad; he just said he didn't like it.)
-   Pressure was also a factor in her car purchase. She felt like she had to do it while Cliff was there to drive her around. When they were buying the car Cliff was about to go to the airport so there wasn't much time to think things through.
-** Cliff bought wine in a box.
-   It really is good.
-** I helped Cliff and Ellen get stoned.
-   I didn't do it myself -- it was too late, would have disrupted my sleep. But I used a paperclip to clean resin out of the threads of two parts of her vape, which were too clogged to join.
-   They did not act very differently afterward, if at all. They didn't smoke much.
-** I saw Brian, Jeff and the SFV LUG Saturday.
-** Sunday I hung out with Phil. Emric, Jamie and Ellen went to the beach Saturday.
-   Phil met Emric and Ellen, and briefly Jamie.
-   After talking about Phil's daughter, I asked Phil's girlfriend if she had kids. She said no, but that she would kill for her dog. She made her a puzzle by hiding dog treats in a towel tied in a knot. Rory got at most of them.
-   She listens to books (fiction) at up to 3x speed.
-   Phil and I could make spectacular music if we had more time for it.
-   Phil said I could monetize Skg, for businesses.
-* Who pays bank costs? All costs? How much are they?
-Ese contrato que firmamos hoy implica que alguno de los partidos va a pagar los costos del banco, sin especificar a quién. Puede que los compradores asumen que ese costo nos cae a nosotros, o que se saca del 550,000,000. Y tampoco especifica el monto de esos costos. Pero supongo que no tenemos alternativo -- BBVA va a coger algo.
-
-Imagino que van a surgir muchos costos como estos. Espero que los podamos dividdr 50/50 -- es decir, si el "precio" de la casa es P, y C es la suma de estos costos, que sea P - 1/2 C lo que nos llegue a nosotros, y P + 1/2 C lo que pagan ellos.
-
-Si les sale mucho al favor de los compradores el balance de los costos, lo podríamos describir y negociar para que hagan mi formula (que no, me parece, favorece a nadie).
-* review social skills
-* extend visa
-* draw that glass ear
-** spec
-   doing a sport {tennis, fencing,}
-   with a {broom}.
-   "Transparencia. (Escuchez?) Juego limpio."
-** prompt
-Can you draw a glass ear with arms and legs, using a broom to fence? He's in that classic fencing pose, one arm akimbo. The arms and legs should be of glass similar to the ear itself. He should hold the head near the end of the handle, with the brush head far away from him.
-
-Put Colombia's Supreme Court behind him. The ear should be transparent enough that we can see the court, albeit distorted, through the ear.
-* see if XFCE uses less power
-  if so, use it on flights, etc.
-* write something to reduce reading history
-  /home/jeff/org-roam/reading-history/jeff-read.csv
-* timing to LAX
-  40 min to Van Nuys
-  60 min to LAX
-  20 min wait for bus
-* codey stuff
-** org-indent-mode
-** org-superstar
-** "terminal trove"
-   site with cool tools
-* pressing
-** [[id:7951b019-9568-4f42-b4d7-234eaf4f8aad][Los Angeles, trip to, <2025-09-10 Wed>]]
-** [[id:ebaafe43-c400-4c6c-8a30-7f58ed81598b][Colombian taxes 2024 (filing 2025)]]
-** GRE
+* TODO today
+** buy drugs
+** order Amazon
+*** tupperware for Valentina
+* if sharing music videos
+** watch what I just recorded
+** ask friends before going public
+** record one about what I am as a musician
+* review my own data
+** DONE review git log
+   git log -p --diff-filter=d
+*** CAN'T personal-most: too much
+*** DONE personal-ish: all
+*** DONE personal-proc: all
+*** DONE personal: back through to Aug 21 (not inclusive)
+*** DONE public: back through to Aug 21 (not inclusive)
+** DONE review some files
+*** review 'doing'
+*** review [[id:90855b17-b9cb-4e11-bdd0-0be9781d6a78][pressing]] and [[id:066400ef-cc2d-4504-aad8-31180943684b][priorities]]
+** DONE transfer from phone
+** TODO commit latest changes
+* doing / pressing
+  :PROPERTIES:
+  :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78
+  :END:
+** MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
+** extend visa
+** US taxes
+** US back-taxes
+*** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
+*** [[id:b3117d41-ea7f-48c2-83c4-86306c690737][taxes, my US]]
+*** am I missing info to do my 2024 US taxes?
+**** Mincit sent me the whole history recently.
+**** I also need the DIAN data
+     see my DIAN files, then SIGEP
 ** bills
-* school
-** [[id:3cc52030-7085-4633-9158-88b6c92872a8][cold email advice]]
-** [[id:34781937-98e3-4564-a9ae-15e013b986ee][GRE]]
-** [[id:70018c94-b809-401f-9d09-fc830691acf8][Oliver]]'s letter
-** I want professors who have time to talk to me.
-* Buy beans, nuts
-* Switch all subscriptions to Colombian card
-** Spotify!
-* Look into opening a bank account in Panama.
-* today
-** [[id:3ab1a677-3599-499f-872c-3bb06709b912]["register" with Colsanitas <2025-08-15 Fri>]]
-** AWAITS I returned it : Skandia (pension) sends a form to fill.
-   https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpKfdqqCSRJqVPdXBLqMGzTTm
-** AWAITS [[id:6b6e10bf-4052-4cda-a0d5-83a19a8e0f9f][confirm that MinCIT can give me my liquidación]]
-* to kmbn?
-** [[id:a7a2be95-44cd-4c98-9288-a5183d180d89][Were time illusory, rust (in skill) would be a weird act.]]
-** [[id:69231ffa-db6f-4df7-b663-9e6ef7582a05][It grew from itself, explaining as it handed time to the next generation, "There are glitches that let you see the future."]]
-* soon
+** ? GRE, school
+*** [[id:3cc52030-7085-4633-9158-88b6c92872a8][cold email advice]]
+*** [[id:34781937-98e3-4564-a9ae-15e013b986ee][GRE]]
+*** [[id:70018c94-b809-401f-9d09-fc830691acf8][Oliver]]'s letter
+*** I want professors who have time to talk to me.
+* nagging, maybe high-stakes
+** financial & maybe unfinished
+*** AWAITS I returned it : Skandia (pension) sends a form to fill.
+    https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpKfdqqCSRJqVPdXBLqMGzTTm
+*** AWAITS [[id:6b6e10bf-4052-4cda-a0d5-83a19a8e0f9f][confirm that MinCIT can give me my liquidación]]
+*** [[id:88e518c5-50cb-4b2c-b548-684cd0ec6946][secure healthcare while unemployed]]
+*** AWAITS they should send it : [[id:69ca9daf-3480-46c0-a23a-60cd32bb2507][get cesantias from FNA]]
+*** the authorization PUJ gave me to withdraw from Proteccion
+    https://mail.google.com/mail/u/0/#inbox/QgrcJHrtvWmlzGtPgpNWJCgGNmFVKLRcWmg
+*** I got two big payments from FNA
+    https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgcNBZkXBgtcBtnrsFSvvtpdC
+    one for over 10M COP, the other over 3M COP
+    only <2025-07-31 Thu>
+*** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
+*** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
 ** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
-** announce [[id:0d253790-f52d-419a-81f2-4815fe524eb3][kites, play with <2025-08-17 Sun>]]
-** TODO tell [[id:ea2a42f8-8449-4e93-9755-fc40f2d63068][people I like in Los Angeles]] I'll be there
-* maybe add to my custom prompt
-  Please provide a collection of readable functions, none of them too complex. On the other hand, when naming variables and functions, err on the side of legibility, even if that means a longer name.
-* My Visa PP is not on my phone.
-  Just the debit card.
-  I might have to scan the card (which is at Ellen's place).
-* <2025-08-07 Thu>-ish
-** [[id:88e518c5-50cb-4b2c-b548-684cd0ec6946][secure healthcare while unemployed]]
-* <2025-08-05 Tue>-ish
-** AWAITS his response : Follow up with George.
-*** see also
-**** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
-**** [[id:b3117d41-ea7f-48c2-83c4-86306c690737][taxes, my US]]
-** AWAITS they should send it : [[id:69ca9daf-3480-46c0-a23a-60cd32bb2507][get cesantias from FNA]]
-** the authorization PUJ gave me to withdraw from Proteccion
-   https://mail.google.com/mail/u/0/#inbox/QgrcJHrtvWmlzGtPgpNWJCgGNmFVKLRcWmg
-** I got two big payments from FNA
-   https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgcNBZkXBgtcBtnrsFSvvtpdC
-   one for over 10M COP, the other over 3M COP
-   only <2025-07-31 Thu>
-** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
-** tell a Notaria about my cedula, apartment.
-** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
-* Walnuts might give me gas.
-* pondering
-** Need a {Rust, TypeDB, knowledge graphs} peer group.
-** I *like* learning Rust.
-* TODO [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
-* [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities \ jbb]]
+* doing // [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities \ jbb]]
+  :PROPERTIES:
+  :ID:       066400ef-cc2d-4504-aad8-31180943684b
+  :END:
 ** highlighting
 *** [[id:b55d4c6a-6d0f-4848-85ca-0582e7224714][pretty excited \ jobhunt]]
 *** [[id:8b3e4156-fe53-4798-96a5-ce428e30baec][jobhunt (project)]]
@@ -202,18 +78,46 @@ Put Colombia's Supreme Court behind him. The ear should be transparent enough th
 *** [[id:527e2788-f8cc-480b-99ce-d37a4aa5df4e][Sandy]]
 *** [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
 *** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][money \ jbb]]
+* ONGOING Get immigration lawyer contact from Jeremy.
+* ======= ABOVE: CRITICAL =======
+* [[id:c84d8ff7-030f-4ff1-9bdd-380f5304b235][make org-mode indentation changes less noisy]]
+* a better tab key
+  would bounce between likely positions based on the above text,
+  including its start and ( any opening bracket |
+                            the first nonspace character after one )
+* see if XFCE uses less power
+  if so, use it on flights, etc.
+* write something to reduce reading history
+  /home/jeff/org-roam/reading-history/jeff-read.csv
+* codey stuff
+** AWAITS after backup : org-indent-mode
+   Wait until I've backed up my data to start using it.
+** "terminal trove"
+   site with cool tools
+** Nix can make Docker images.
+   https://nix.dev/tutorials/nixos/building-and-running-docker-images.html
+** https://typst.app
+** https://github.com/coalton-lang/coalton
+** https://github.com/flux-rs/flux
+** https://lobste.rs/
+** https://keyboard.futo.org/
+* Look into opening a bank account in Panama.
+* to kmbn?
+** [[id:a7a2be95-44cd-4c98-9288-a5183d180d89][Were time illusory, rust (in skill) would be a weird act.]]
+** [[id:69231ffa-db6f-4df7-b663-9e6ef7582a05][It grew from itself, explaining as it handed time to the next generation, "There are glitches that let you see the future."]]
+* My Visa PP is not on my phone.
+  Just the debit card.
+  I might have to scan the card (which is at Ellen's place).
+* pondering
+** Need a {Rust, TypeDB, knowledge graphs} peer group.
+** I *like* learning Rust.
 * u
-** am I missing info to do my 2024 US taxes?
-*** Mincit sent me the whole history recently.
-*** I also need the DIAN data
-    see my DIAN files, then SIGEP
 ** Like Spotify playlists, if you can't keep up with someone one on one, create a group that includes them.
 ** my pressure cycle
 *** Waking up, there is usually an interval in which I stay in bed, re-relaxing.
 *** Sleep often coincides with feeling like I've waited too long for sleep.
 ** Petro looked like he was performing without communicating.
 ** Will Bancolombia charge me to keep a 0-balance?
-** 3655 is Gulnura’s individual account.  Cliff's ends in 6400.
 * house chores
 ** Change the lightbulb under the stairs
 ** Make another ankle velcro
@@ -237,8 +141,6 @@ Put Colombia's Supreme Court behind him. The ear should be transparent enough th
 *** At each stage of production before having a finished product you need credit.
     -- ellen
 *** DONE [[id:ab63ff70-c109-4fc1-8d6b-9b6fe928d2eb][<2025-05-17 Sat> fix kitchen leaks]]
-*** Amazon: [[id:8e8bf804-e8fc-4160-bfca-5a8ac36c2b5d][metal sponges for Yeni]], more
-*** [[id:b63461e2-6a04-420b-96f9-3d854186a85d][Leticia, trip to, <2025-04-12 Sat>]]
 ** ? Nvidia
 * nutrition
 ** morning: soak chia, other seeds in coffee

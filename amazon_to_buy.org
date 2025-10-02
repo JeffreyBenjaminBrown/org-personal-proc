@@ -6,6 +6,7 @@
 **** REMEMBER free shipping
 **** REMEMBER seller rating
 * TODO lights for bike
+* TODO eyeshade
 * TODO bluetooth receiver for speakers
 * TODO USB A to C cable(s)
 * TODO waterproofing for jacket
@@ -18,6 +19,11 @@
   :END:
   https://www.amazon.com/-/es/dp/B0DZTD7T99/ref=sspa_mw_detail_0?ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWwp13NParams
 * --- BELOW: less pressing ---
+* TODO e-ink tablets that look good
+** PineNote
+   $400, Linux-native, strong battery
+** Supernote black and white no light tablet
+   but lousy Linux support
 * TODO Rolling papers for the next concert
 * TODO yellow and red on top -- hat, shirt, sweater
 * TODO replace yellow belt

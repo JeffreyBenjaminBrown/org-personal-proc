@@ -11,14 +11,14 @@
 *** DONE Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
 *** DONE Claro hogar - couldn't pay Feb 7, could Feb 10
 *** DONE Aportes en Linea (for Yeni) - pay before 15?
-*** DONE Sanitas vi MiPlanilla - due the 15th, should probably pay earlier
+*** DONE Sanitas via MiPlanilla - due the 15th, should probably pay earlier
     but I got away with paying "10 days late",
     on the 25th, the first time
-*** AWAITS broken <2025-09-22 Mon> : Acueducto (bimonth) - shutoff 24, issued 5th?
+*** DONE n/a : Acueducto (bimonth)
 *** DONE Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
 *** DONE Vanti - Can pay on 18, not on 13.
 *** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
-*** mortgage
+*** DONE mortgage
 ** DONE 2025 Aug
    roughly in order of appearance
 *** DONE 26.5k to Cris for Yeni - can pay before the month starts

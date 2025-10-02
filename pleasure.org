@@ -35,6 +35,7 @@
   e.g. alcohol
 * Enjoyment and desire are only loosely coupled.
   We want some things that are not pleasurable,
+    (wait, what did I have in mind?)
   and we enjoy some things that we do not want, or
                            that we do not want to enjoy.
 * Pleasure's object need not be real.
@@ -48,6 +49,9 @@
    -- wikipedia on pleasure <2025-07-10 Thu>
      https://en.wikipedia.org/wiki/Pleasure
 ** Its application to colonoscopies is funny.
+   :PROPERTIES:
+   :ID:       355c31fa-de37-4053-8a0a-c3cc97f9a3c2
+   :END:
 * disorders
 ** anhedonia: being unable to feel it
 ** hedonophobia: being averse to it
