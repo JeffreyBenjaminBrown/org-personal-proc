@@ -5,19 +5,18 @@
 #+title: Amazon, buying from
 **** REMEMBER free shipping
 **** REMEMBER seller rating
-* TODO lights for bike
-* TODO eyeshade
-* TODO bluetooth receiver for speakers
+* AWAITS Tupperware for Valentina
+* AWAITS a tiny weed tupperware
+  "small airtight container bpa-free"
+* AWAITS lights for bike
+* AWAITS eyeshade
+* AWAITS bluetooth receiver for speakers
 * TODO USB A to C cable(s)
-* TODO waterproofing for jacket
-* TODO condoms
+* AWAITS condoms
 * TODO detergent
-* TODO pouch to replace little shredding black one in backpack
-* TODO metal sponges for Yeni
-  :PROPERTIES:
-  :ID:       8e8bf804-e8fc-4160-bfca-5a8ac36c2b5d
-  :END:
-  https://www.amazon.com/-/es/dp/B0DZTD7T99/ref=sspa_mw_detail_0?ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWwp13NParams
+* TODO waterproofing for jacket
+* AWAITS pouch to replace little shredding black one in backpack
+* AWAITS hiking sticks
 * --- BELOW: less pressing ---
 * TODO e-ink tablets that look good
 ** PineNote
@@ -36,7 +35,6 @@
 * TODO beige heather slacks
 ** TODO Check once I've washed the ones I have.
    Right now they seem embarrassingly chewed up.
-* TODO hiking sticks
 * TODO ? long-battery, USB-powered laptop/tablet
   for org-mode on flights
 * ONGOING 3.5mm audio cables

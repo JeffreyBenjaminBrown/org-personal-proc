@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       da3146c7-77c8-4d0b-b935-f0b8544e463e
+:END:
+#+title: dermatology \ jbb
+* TODO ? That part near my thumb that hurts.
+  <2025-10-02 Thu> it only hurts now if I poke at it.
+  But it feels different.
+* TODO [[id:b01b24ce-e79c-4cd9-b108-ca2a6c1fc45f][dermatology cita outside Colsanitas's electronic system, <2024-10-29 Tue>]]
+* TODO see dermatologist about itchy spot on arm
+  :PROPERTIES:
+  :ID:       e663a892-7596-49c4-8b2e-d9fd9efb6cb2
+  :END:
+* [[id:4f630e57-d28b-4bc5-9235-c68342f24e29][dry skin \ jbb]]
+* [[id:3d15f5ce-061c-471a-9db0-178eaab83d0e][Moisturizer is better with ceramides and no fragrances.]]
+* ? scarf & neck blotches
+  Could it be not wearing the scarf,
+  but spinning it, that makes my neck red?
+* doctors
+  most recent at top
+** Dra [[id:c63a7833-28a3-412c-acd6-595da4c760a8][Maria Alejandra Casas Barrera]]
+** Dra [[id:28a37281-928a-436f-94b3-e0457430bb6b][Viviana Nohelia Garzon Ocampo]]
+* [[id:7a893f59-470b-4845-9bb5-43a5ae8a6054][Oily plant foods are good for skin.]]
+* TODO Shave before each appointment
+* TODO upcoming followup cita
+  https://mail.google.com/mail/u/0/#inbox/FMfcgzGrcrmdnXlnxrtXhsVjFMSFvtTk
+  https://calendar.google.com/calendar/u/0/r/eventedit/Njgya3AxMnZzOW9pcWJsZmoxYzUybzZtbmwgamVmZmJyb3duLnRoZUBt
+* TODO tell the doctor
+** Forehead
+** Left hand
+** TODO NEW <2023-07-04> Big orange freckle on right wrist
+   about five inches from my wrist to my elbow,
+   almost on top of the bone leading into my right hand thumb
+** The skin next to my left eye
+*** Itched once after the second treatment on <2023-02-09 Thu>
+*** Itched sometimes after the first treatment on June 9 2022.
+** Wart, back of left hand
+   near wrist, between pinky and ring finger bones
+** Bump on left hand where I smacked the wall.
+** The liquid nitrogen treatment never resulted in blisters.
+   The skin scabbed over, and the scabs came off, most of them within 4 days.
+** There's a bump just under the outer corner of the other eye.
+** TODO (new <2022-11-01>) : Spot on middle of front of left thigh.
+** TODO (itches, maybe even burns) : Rough spot at end of left eyebrow
+   Treated with [[id:7034ceb3-293e-44d5-845c-8b252f97b446][liquid nitrogen]] to avoid cancer.
+   Appointment with Dra. Garzón, June 9.
+** TODO ? Between smallest toes on left foot.
+   Fungus. Apply cream for two months.
+** Black spots behind neck and down back somewhat
+   No big deal.
+** Orangey splotch(es), middle front of left quad
+   No big deal.
+** Mole on left tricep near elbow
+   No big deal.
+* My skin is dry. Moisturize my whole body twice daily.
+  So said (who?) on <2024-10-11 Fri>.
+  Use a moisturizer with ceramides and no fragrances.
+  She prescribed one.
+* Shower for no more than 5 minutes in cool water.
+  So said (who?) on <2024-10-11 Fri>.
+  As cool as I can stand.
+  "Hot water strips the skin of natural oils." --ChatGPT
+* Use sunscreen 3 times a day.
+  So said (who?) on <2024-10-11 Fri>.
+* treatments
+** [[id:7034ceb3-293e-44d5-845c-8b252f97b446][liquid nitrogen treatment (dermatology)]]
+** [[id:f29fbdf5-4d91-401d-a614-d0a63bf201e5][virgin coconut oil is better than refined for skin]]
+* history
+** 2022 06 09 : [[id:7034ceb3-293e-44d5-845c-8b252f97b446][liquid nitrogen treatment]] from [[id:28a37281-928a-436f-94b3-e0457430bb6b][Dra. Viviana Garzon]]
+   for keratoses around my forehead.

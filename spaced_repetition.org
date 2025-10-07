@@ -1,0 +1,236 @@
+:PROPERTIES:
+:ID:       a5b74e88-c524-4f89-b29d-1bc324a77369
+:ROAM_ALIASES: remember memory internalize
+:END:
+#+title: spaced repetition
+* definition
+  see Wikipedia
+* todo ? merge similar notes from SmSn to here
+  search for "internalize", "spaced repetition", maybe "to learn", "remember"
+* todo ? [[id:31c4c9f3-fb7a-4028-b84a-8406d0e91f48][org-drill does spaced repetition]]
+* todo ? [[id:c32b9041-ee81-4b97-a592-07918981b332][spaced repetition & vocab]]
+* TODO also review [[id:84b6c491-f0b4-44ab-9ffd-cf196d6a0220][Spanish vocabulary]]
+* the last time I reviewed: 23
+  (I got to 64 and then reset the count.)
+* review when time is equal to 1 mod 2 (i.e. odd)
+** How to shake hands, give high fives?
+   Don't! Esp. with men who might be strong.
+   If I must, slide my hand all the way,
+   so they can't crush my fingers.
+** How to carry myself?
+   breathe through nose
+   shoulders back, head upright
+   speak slowly, clearly
+** [[id:c0876ad0-ef97-4d92-ba2c-39bc721f2d15][restaurant dangers]]
+** [[id:601503c7-222c-4885-8981-2cbfa31b9a92][what to remember about goals in conversation]]
+** [[id:5a80c62a-c6f2-4bb9-9cd6-a2f3a06374b2][things to mark on my calendar]]
+** [[id:d8ccc0a4-ef6a-4d0e-a392-e1d7da2844c1][good foods to reduce cholesterol]]
+* review when time is equal to 2 mod 4
+** beware when buying an Audible book
+   Have I selected a version with a soundtrack?
+** when planning a gathering
+*** Days before, call everyone invited.
+** when booking flights
+   careful about whether times are AM or PM
+* review when time is equal to 4 mod 8
+** [[id:98f15d4b-9908-481e-aff4-79b6b73681a7][How important is the bite guard?]]
+** What about my gut?
+   [[id:8fb743d7-772f-46de-9540-fd0fa9827fa0][Breathe deep. Mind the belt.]]
+** [[id:bac1d103-661e-41a6-a375-e5eb5bf400f9][What to do when committing org-roam notes?]]
+** What am I using to connect wifi lately?
+   [[id:536dfe54-2086-43e3-b87f-3f7cfd4283fd][nmcli]]
+** what to [[id:d6e7b732-8369-4294-8143-6dc3fa5c4612][do at every doctor's appointment]]
+** [[id:514fe55a-d22c-4e6a-9b0f-3a01a89742db][high-pressure situations, and how to handle them]]
+** [[id:3e64d4ca-11f2-48b6-a42c-a8c9c83cb7db][things to do when stationary]]
+** What to do when exchanging contact info?
+   [[id:7e6112c1-bf30-42b8-9402-a5213144db66][Get it from everyone, in both directions!]]
+* review when time is equal to 8 mod 16
+** [[id:265bda0f-5089-4dfc-a00a-fd9e5cf8947d][How long can I be at sea level without suffering much altitude sickness on returning to Bogotá?]]
+** [[id:7b57f63c-b0d5-48ed-b1a1-7348c70ff854][how to avoid buying contaminated spices]]
+** [[id:0650c92d-963b-4070-984f-4737e29a7f03][What to worry about in org-roam links?]]
+** What to do if I'm waiting for a call.
+*** [[id:cf164b6e-cf5f-40fc-b540-98446b3573cf][Is it night?]]
+** [[id:370fc155-72ba-4394-b3cd-92186871ab29][Something AI is surprisingly helpful at?]]
+** [[id:98f315c7-7404-40cd-ac56-2c9040a29421][If a woman looks like she hasn't slept?]]
+** [[id:d04f4941-ea2c-4343-a57d-6adeb4fc39ed][What to do when bumped?]]
+** [[id:56df17f4-9bbe-4cec-bfaf-213d115aea17][How to prepare for (already accepted) meetings?]]
+** What to do when I hide something? And when else to do that?
+   Write down where I put it!
+   And similarly when I find something hidden.
+** What to remember when interacting with salespeople?
+   [[id:2b49db8e-8279-42ae-a23c-e3ca35addc39][They *have to* suck, and they include people who didn't reach out to me..]]
+** [[id:4ec07465-7323-47c3-a8b4-8d81f383b119][What to do before proposing anything?]]
+** [[id:7e88db82-e269-48cf-8cfc-c18674b41df9][How to order Uber?]]
+** [[id:c7e7454e-0f36-48cb-b1ab-1a50a302d04d][How to talk about Monica?]]
+** [[id:dc63b8e2-f13a-4618-a591-6e65a17cc824][How to change my cardio routine?]]
+** TODO ? How should I handle introductions between my friends?
+   Maybe plan for them, keeping on file who should meet who.
+   e.g. I want Javier and Lu to meet.
+** What to remember to do when sick?
+   [[id:74a9512e-3f82-46db-b438-144853cc5606][Stay warm!]]
+** [[id:b42b683b-b034-4c10-8f8a-1a574668f149][How to respond to invitations to meetings, and why?]]
+** If skipping shower?
+   Smell face, armpits; wash if needed.
+** What to do each time I ask someone about something?
+   [[id:3832e900-6e8b-4ba6-9994-20fac036c68b][Take notes on questions I have asked, before even being answered.]]
+** How to place HEPA filters?
+   [[id:3dcae04e-a146-4865-8e89-d9bc8bceca8a][They are oriented! The rougher side is for the incoming air.]]
+** Skin care lately?
+   Natural fiber socks.
+   Gentler handwashing. Soap only when and where needed --
+   i.e. almost never the back of the hand.
+** How to maximize window in KDE?
+   Meta + Page up
+** [[id:5c9308cc-bee2-4559-bca2-59ebfd3511b3][If something makes me feel dumb, do what?]]
+** write here then check: [[id:385a4f63-eaf8-4fe1-b576-0666ea50dde3][when to pause]]
+** [[id:9521f459-3d21-43e7-bec6-1b76f2ef297d][What's tricky about working with contractors?]]
+* review when time is divisible by 16
+** how to smile
+   Bigger!
+** What to remember about pain?
+   [[id:d1f5961f-225c-4c6d-a4dc-2d0c93a8169d][My pain tolerance is dangerously high.]]
+** Why pack earlier than "necessary"?
+   [[id:fa22ffb6-c6be-47a3-81b0-64cd5813f337][Be ready for a blackout.]]
+** What do I want to do and enjoy, but still forget to do?
+   Journal!
+   Also remmeber: journaling about things even just three days past
+   is much harder than journaling about things more recently.
+** What's up with WhatsApp?
+*** glitchy about sending from computer
+    Sometimes it won't send from computer
+    until I open it on my phone,
+    and maybe even thereafter.
+*** complains only quietly about not being connected
+    and permits "sending" messages from that state
+** before paying
+   look at the screen!
+** food to avoid + stories explaining why it's important
+   :PROPERTIES:
+   :ID:       98573ba7-da9b-411f-ab94-84d4289628e5
+   :END:
+*** [[id:b19f0058-4e31-493b-aabe-a9923e9bdfbf][Avoid pitaya.]]
+*** [[id:56ff1d98-6092-4100-bb8d-ee826f30f251][cig kofte]]
+* TODO done, to file
+** Who flakes out? So what?
+   Natalia (real estate agent)
+   so ask before investing prep in any appointment
+** What are some surprising [[id:b5d0332d-c7a5-4f03-bda5-5c1bae785f7d][health dangers]]?
+** What to do if someone from Colsanitas gives me an email address over the phone?
+   Don't let them hang up until I've tested it.
+   Explain that they give email address that don't work.
+** [[id:3543400a-f02c-40a7-b6f1-254578bc2857][do-not-distub mode on phone, how to use]]
+** How to handle doctors' appointments or other expected absences?
+   [[id:56977728-9f80-483c-b7b7-5f922e8500b1][Clear them with Paola S and Stiven P \\ MinCIT & me]]
+** What to do when someone travels?
+   [[id:086be4d9-d992-4831-99ea-18f01708b8a7][Mark my celendar and welcome them back.]]
+** [[id:e4a8cea1-c2ed-4948-87c1-a8a545a78fa5][lessons from getting banned from Microtonal Guitarist]]
+** [[id:6422ff08-978c-40b0-b511-e6eef32930ee][cholesterol reduction strategies]]
+** What's [[id:387e9703-e8d5-4e70-b632-f4cade4d700f][wrong with saggy-bottomed hangers]]?
+** Why do I want to interview each VUI team member?
+   [[id:39c2b2f7-e2a5-405b-80b0-6c299e1271fd][Nicolas's perspective was great news.]]
+** duties at MinCIT I could forget
+   [[id:be163492-c6db-4966-b32e-dfa53cf4d7ac][I'll need to determine money and personnel costs.]]
+** What to do when someone appears to get upset for bad reasons?
+   [[id:7f5e04f5-5247-49e8-b7af-82aa99f4c511][Address it!]]
+** Why and how to [[id:7b2cd1a3-bac4-4057-90e3-a2698a2fdefb][consult knowledge graph notes]]?
+** What to check on Amazon etc.
+   not just product stats --
+   "at Wirecutter, we always try to choose vendors that have high ratings and are authorized sellers"
+** Whenever I'm listening to headphones, consider what?
+   Calling someone.
+** When are good times to call someone?
+   while waiting for an Uber to go home
+** What to remember about org-tables?
+   [[id:a90bc443-c736-4e76-ac3b-348708f57cbc][Don't keep two similar tables in the same .org file.]]
+*** TODO Refile : Really this is a more general point about duplicated formats.
+    Don't keep two objects in the same file if they are so similar
+    that I might edit one thinking I'm editing the other.
+** How to test internet-using code?
+   [[id:1671f11c-9eaf-4d10-baaa-a9088b4a612d][Test internet connections from different platforms, internet connections.]]
+** What's a surprisingly good reading experience?
+   The DLE!
+** What to remember about staying warm in bed?
+   Use the heater enough (> 30%?) at night and I get sick.
+** What conversation topic is a black hole?
+   [[id:36d50f77-24a6-4882-8092-3c7895a01626][Shared complaints.]]
+** How to improve nasal flow all day?
+   Wear the glasses strap | keep my glasses from falling.
+** If a bash command is complicated?
+   [[id:51572b62-3be7-488e-8263-e50d71497484][C-x C-e opens an editor for long commands]].
+** [[id:599c1a2d-0b45-4969-a9d0-ab00b3584fce][what to remember about my safari hat.]]
+** If I think someone is doing something dumb, do what?
+*** Act fast.
+*** Ask them to pause.
+*** Ask if they are doing what I think,
+    without passing judgment,
+    before they finish.
+** What to do when I post a microtonal piece?
+   [[id:63f00b56-75b9-4dd1-8c6a-5da099c66010][tell people]]
+** Strategy for when gassy?
+   [[id:fa7e5b0b-3730-4fa3-a3dc-9a98691847eb][Find a soft chair.]]
+** Do what when hosted (and other times)?
+   Bring gifts!
+** What to do after eating?
+   [[id:a674cc6a-c3bf-4ba7-abf3-edabaa225587][Even a *tiny* walk after a meal smooths blood sugar levels.]]
+** [[id:cb51c5eb-4a34-4c0e-a436-5460acf297e2][What criteria do I want in a restaurant?]]
+** [[id:3e711fd4-5c2c-410e-b2bb-9873c82d8ef3][In a car (service), where to keep phone and why?]]
+** What's a good instinct when first seeing someone?
+   [[id:2bcde31f-6002-4df1-812c-242f6110d6b3][Smile!]]
+** How will a [[id:12b75ac9-8dcf-4491-9f59-47ce75eadca8][leading # on a line in an org file display]] on Github?
+** How to talk about the Contraloría?
+   Ask permission before sharing anything,
+   except with family.
+** What to do [[id:7ef58a3d-bfe1-4d45-b0c1-83a753b235b8][if something similar to the suspected TIA recurs?]]
+** [[id:f3802800-cbdf-4a8b-aa13-53aaeac3e85f][When receiving massages (mAAssAAges), do what?]]
+** [[id:4eb0545a-ac36-4a74-bd12-c429019e231a][how to make the 10:9 sound great]]
+** [[id:3d30dc55-ce11-4e46-a149-720a2f5b85d1][When giving a function an argument, ensure these 2 things.]]
+** List some (temporary) [[id:02d97f60-ef2a-4377-8169-300b97c07265][behavioral implications of having a bad knee]].
+* reviewed, still no insight
+** (Aspirational) mimicry can substitute for rationality.
+   It's in SmSn, at id
+   BSPkZvDjoUqhzm0Z
+** Maybe give ownership to the shy
+   paraphrased: "Children feel less in control than we realize,
+   so hang back a bit, let them own the conversation."
+   --Tyler Cowen
+** on wonder, fear, and creativity
+    "If the world seems to be getting bigger and funnier all the time, your intelligence is steadily increasing. If the world seems to be getting smaller and nastier all the time, your stupidity is steadily increasing.”
+
+     — Robert Anton Wilson
+** befuddling: links in knowledge graphs
+*** link labels vs. link contexts
+    [[id:46b695c5-617e-47a8-b699-ef2b7ec29e81][the context of a link matters]]
+*** [[id:3305442a-e435-4f84-a403-9509963497b7][Note titles should be complete sentences.]]
+*** [[id:edca15b1-37f9-46ec-bb32-8a3090242b0d][? Use backlinks to define notes extrinsically]]
+* TODO [[id:b714a097-50de-4c2a-99cd-79ccc50035c6][spaced repetition scheme for contacts]]
+* [[id:474f120b-bae9-4bd0-aca0-84ca10e5274f][spaced repetition demo for Sandy]]
+* DONE internalized
+** What to pack in backpack that I usually don't?
+   Thermos for meetings.
+** How to process new files before storing them?
+   [[id:d283b6a3-205b-4a7c-9338-aa458f091691][Use my "prefix-date-uri" script.]]
+** coding: [[id:91309a6f-d949-4419-ac3f-11668c08d11b][If edits seem to be having no effect]], do what?
+** What [[id:1b920360-8742-4e28-85bb-93ce19723260][mistake to avoid when restoring the old part of a diff]]?
+** What are some [[id:6d03b8e5-c6da-424d-b349-cbb76cb11e66][strategies for handling flatulence]]?
+** [[id:72d5a73b-691f-4034-9552-6f657f549f21][how to pack the Lumatone]]
+** [[id:1bfa7cac-6c4c-49ec-aacf-c517884ffd8a][? could the email count go awry]]
+** [[id:e17f1f19-30af-486f-b5ad-2e1a01d94407][How to prepare for coding interviews]]?
+** [[id:59478b79-70e8-4422-8ed8-78a62d801a98][Two reasons to make names in code long enough]].
+** How to organize backpack?
+   Keep hat, scarf in the inner pocket of the big pocket.
+** What might stop pointless behaviors?
+   [[id:9ec55e32-f974-479e-8295-7d9e30156684][mindfulness]]
+** Git: Do what before each session (or even each operation)?
+   [[id:380d6262-78d1-4811-bc58-f5331c00c7ba][Check the branch before each use of git.]]
+** What to do when scheduling?
+   Check my Javeriana calendar too.
+** What are the [[id:6245c084-fdb8-4ea6-a998-af585b0524ec][Oculus Quest 2's vulnerabilities]]?
+** Why is keeping a [[id:51fab985-a4cf-4ca7-8e5a-55a26d224737][hard disk in bubble wrap stupid]]?
+** Before leaving any doctor's office, do what?
+   Try to read anything they wrote by hand.
+** How do I like to schedule calls?
+   [[id:7ac060da-9f65-4861-975b-d44d10623a46][Calling is better than being called.]]
+** coding: [[id:dbdc84fc-7cb4-4fa9-99e9-0b8b8f3f8de2][Duplication is dangerous.]]
+** coding: [[id:6e66c817-c802-4b37-9467-4bfa61f3965b][In git, what is fragile?]]
+** in Emacs, how [[id:76f955ac-1f33-4b6b-bedb-e85852a486b9][to insert (write) date, and maybe time, at point]]
+** [[id:14425786-4f89-4fc3-8bf7-9c31ccaba025][Linked data facilitates writing flashcards.]]

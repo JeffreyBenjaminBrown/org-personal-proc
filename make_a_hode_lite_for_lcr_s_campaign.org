@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       220bdc6c-43cd-48f8-ae73-fbeb078113ab
+:END:
+#+title: make a Hode-lite for LCR's campaign
+I had an idea. I could make a knowledge graph for your thoughts on subjects. There would be some top-level document called, say, 'everthing', and I would try to divide up the space of ideas people might care about into topics like (projects/education) or (human nature/values) where each () is a path through something like folders. I would subdivide peoples' questions or thoughts as much as I could, and count how many had been collected in each branch, and count how many you had responded to if they had asked you to respond.
+
+You could see what people (who bother to learn to write on the website) care most about. Others could see the same, and easily navigate to what you had said on a subject. You wouldn't have to repeat yourself. Everything could be publicly written about, although maybe I would only let special people modify how the tree (or set of overlapping trees) divides. Private messaging would be allowed too, e.g. for sensitive feedback, or not; I suspect allowing it is better but I'm not sure.

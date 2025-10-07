@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       b1c2091b-7441-4459-b49e-fac3fe1ed918
+:END:
+#+title: skg outreach
+* Ask HN is anyone trying to map the space of all ideas top down? And bottom up at the same time?
+** Let us merge our thoughts.
+* [[id:ccbda321-ebfd-4255-a24f-f79c871c0144][why to { map concepts | write }]]
+* caveat to screenshots
+  Mindmapping is opposite to academia. It is thinking without specialization, with complete freedom. It looks insane.
+* Fun-looking screenshots of mindmapping.
+** TODO This will require osc-gen.
+** AWESOME what makes a good one
+   A taste for completeness is like poetry.
+   Give context in the most intriguing directions.
+   A balance of concise categories and complete sentence leaves.
+   An image bigger than I can see all of due to font size is fine, and maybe never necessary.
+** instances
+   [[../media-public/mindmapping is fun.png][presence, monogamy, peace]]
+* consider different use cases
+** teamwork
+** education
+* AI can help understand cryptic notes
+  they come with graph context
+* things to say in the docs
+** Your accumulated wisdom is far greater than your insights right now.
+** Address Jamie and Ellen's concerns of why should I write
+** Please recommend, if you believe it has potential, programmers who share your concerns to contribute to my software project.
+** Spaced repetition audience shout out
+** cite living people
+*** sam harris
+*** andy matuschak
+* [[id:c099e9d7-eda1-49db-9fb7-4ba1b55eaa38][Do Skg humbly.]]
+* to Discord / LambdaGraph
+I feel like I've hardly earned the right to speak here but I wonder what any of you giants would think (the README is 763 words) of a much simpler knowledge graph app with a novel sharing mechanism?
+* letters
+** letter: "My app needs your recommendation."
+ Dear Sam Harris or anyone with similar concerns,
+
+ I am building something for informational justice and creativity. It is a simple novel writing and sharing algorithm with societal implications.
+
+ I ask something, your word, which is cheap and powerful specifically for someone of your interests and fame. I ask your word that the app would help with the above concerns. I would thank you publicly.
+
+ I am making the app Skg for it and need help. People who care about what you care about might be able to help me build it if you asked.
+
+ Please read about it.
+
+ Sincerely,
+ Jeff
+
+** to sam harris, nathan macintosh
+   Should I keep this a secret? Ask you to share it?
+*** I want what you want -- social informational justice and creativity.
+*** I ask something that is cheap specifically for someone of your interests and fame. I would thank you publicly.
+*** I am making the app Skg for it and need help. People who care about what you care about might be able to help me build it if you asked.
+*** Please read about it. It is a simple novel writing program with societal implications.
+* ? who cares about Skg
+** who
+*** Rust developers
+*** TypeDB developers
+*** journalists
+    emphasize privacy
+** write tailored meessages inviting them to the readme, asking them to ask developers who care to help
+* sent to org-roam forum
+https://org-roam.discourse.group/t/extending-the-knowledge-graph-model-for-better-sharing/

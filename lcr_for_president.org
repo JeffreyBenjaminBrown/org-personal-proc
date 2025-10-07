@@ -1,0 +1,151 @@
+:PROPERTIES:
+:ID:       b57feea9-08c9-4c78-babc-5769c9c1592a
+:ROAM_ALIASES: "Luis Carlos for president"
+:END:
+#+title: LCR for president
+* refs
+  ~/lp/
+* see also
+** [[id:21577208-ba52-4105-8884-355fa27f128f][public influence]]
+* [[id:3e50865d-c7c7-474d-bab7-c831fe965728][drawing a glass ear for the campaign]]
+* whatsapp message plans
+- deal with Whatsapp micropayments
+- Automate Whatsapp group creation
+  - and handing control of each group to a volunteer? or does nobody control the group?
+- Run a server
+- keep a database of volunteers
+  - keep location, phone number, interests, running count of converts
+- suggest groups to each convert
+  - suggest more than one, describing their interests?
+  - permit choosing more than one?
+- Provide unique links to each visitor, to provide their converts
+- Update the database each time a new user visits
+* DONE what to survey
+** Ooh and instead of letting someone answer none to the "problems with LC" we could put, "I love him too much." Or perhaps funnier, "mi pareja le ama demasiado."
+** a trick
+   I've mostly gathered the issues below from the survey. But I haven't framed them as "what do you like about LC" -- that seems ridiculous. Rather I've framed them as "what do you care about".
+** values for the country
+   adjectives not necessary -- e.g. "salud" > "salud digna y oportunia"
+*** salud
+*** empleo
+*** educación
+*** productividad y crecimiento
+*** responsabilidad fiscal
+*** equidad
+*** cumplimiento con la ley
+*** seguridad
+*** trámites eficientes
+*** reglas claras, inc. de tributación
+*** contratación eficiente
+*** costo de vivienda
+*** bajar impuestos
+*** cuidar a la juventud
+*** cuidar a la gente mayor
+*** cuidar a la gente con discapacidades
+*** cuidar a las pequeñas empresas
+*** certeza macroeconómica
+*** cuidar el ambiente
+** values in a politician
+*** listen
+*** study
+*** speaks simply, clearly
+*** cautious
+*** stern ("mano firme")
+*** ethical (and independent?)
+*** courage
+*** visible data
+*** visible decision process
+*** reward merit over connections
+*** empathy
+*** humility
+*** realism
+*** optimism
+*** cooperative
+*** stubborn?
+    some people value that, I think. ("conviction")
+*** inclusive
+*** servicial
+*** humor?
+** what part of LC's background do you like most
+   Good to know when writing speeches.
+** what about him do you like least?
+   Would this be useful to know? Would it be a good move in terms of voter sentiment? I feel like it could generate goodwill.
+*** too technical
+*** too optimistic
+*** speaks too fast
+*** too many videos
+*** his sweaters are too fancy
+*** his ears are too big
+* TODO <2025-09-08 Mon>
+** TODO logo
+*** juego limpio: tennis with a mop
+** TODO suggest randomization in answer order
+** TODO not sure about AI summaries
+** TODO explain to reader that these categories come from their earlier responses
+** TODO change builders to fundadores
+** TODO Youtube strategy
+** TODO FAQ for debate defense
+* Rodolfo Hernandez's whatsapp group strategy
+** article
+   https://www.lasillavacia.com/silla-nacional/santanderes/la-estructura-politica-de-rodolfo-es-una-red-multinivel/
+** the idea
+People signing up at Hernandez's website would describe themselves,
+and the system would give them a link
+to a local WhatsApp group for supporter.
+They could recruit more people and ascend the ranks.
+High-ranking people in the pyramid
+won titles, video messages from Hernandez,
+maybe more access,
+maybe the offer of appointee positions,
+maybe (but how? I may have misunderstood)
+  their own electoral candidacies.
+** my feedback to LCR
+*** It's a brilliant idea.
+*** I can't tell if it's evil.
+*** That each member gathers 10 votes seems optimistic. Do you know how those numbers panned out?
+*** Do I understand right that part of the appeal was that if you rise in the ranks you might get your own political position? As an appointee? As an electoral candidate?
+** I am unable to impugn its ethics.
+   Part of me recoils at the term multilevel marketing, but there's no sense in which the pyramid scheme screws the base of the pyramid.
+   Another recoils at the idea of technological opacity -- nobody but the members can see what they're saying. But what am I, against freedom of assembly?
+* TODO Next in CiviCRM
+** make two pages, with text and hyperlinks
+** a website where you can fill out a form
+** work with the db
+* TODO Watch LC's X feed, and TikTok
+  they have distinct content
+* encuestas
+** Guarumo has a bunch
+   https://www.guarumo.com/en/encuestas
+** One about presidential candidates around <2025-06-19 Thu>
+   https://836f83d8-9b42-49a6-9099-7b3c280794b2.usrfiles.com/ugd/484ec3_118604d62558490c9b85781c37e189c9.pdf
+* TODO ideas to share
+** [[id:2686721e-18b5-48f5-817e-5df1b41f2c32][stitchable content]]
+** [[id:22062b6a-69bd-43d8-998e-d7319d4d11a6][Frame the debate as a clash of distinct values depending on the audience.]]
+** [[id:eaf9c4d4-e8f2-4578-8397-bd4d22d0cb4b]["micro-target" using "micro-influencers"]]
+** [[id:0aa1be6a-9b87-4cc3-a404-f94fd4ce99aa][Flyering campuses is a bargain.]]
+** [[id:8a40d110-b5f9-4835-a887-7a403260bc53][Volunteers like feeling seen, so tokens of appreciation are good]]
+* [[id:48073cbf-b612-4499-9c64-57f0cfbad797][tech]]
+* [[id:95b3e6a4-25ac-454d-ad70-b7a5c54a8e48][biography]]
+* [[id:2d2a69b3-e0b4-4f90-90ea-0481c6f88ecd][problems in Colombia]]
+* his public image
+** see also [[id:21577208-ba52-4105-8884-355fa27f128f][fame]]
+** Someone thought he did not seem caring.
+   :PROPERTIES:
+   :ID:       db13d382-0eaa-424a-8d92-abe19c7bec23
+   :END:
+*** Yet she thought he was smart, and wanted him to win.
+** Someone didn't like his sweater.
+   This person thought LCR did not seem approachable -- despite knowing he can be, having seen him be so with students.
+   Thought the sweater was too posh. He seems elite and showy.
+* some people
+** [[id:f5958bbf-30a5-42d7-9ff9-ae97d5be7e41][Andres Franco]]
+** Juan Manuel Corredor
+   WAPPID surveys
+* [[id:53ccfd23-a434-44b6-8610-166116b22214][communication tech for voters]]
+* ? not enough time : [[id:220bdc6c-43cd-48f8-ae73-fbeb078113ab][make a Hode-lite for LCR's campaign]]
+* how to invite people to campaign events
+  :PROPERTIES:
+  :ID:       36bab949-7b71-4761-953f-f9e8e8e16fe2
+  :END:
+Make it clear how to go.
+Add (maybe after they respond) that sharing the invite would help too.

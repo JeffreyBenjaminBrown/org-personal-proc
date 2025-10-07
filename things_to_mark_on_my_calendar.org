@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5a80c62a-c6f2-4bb9-9cd6-a2f3a06374b2
+:END:
+#+title: things to mark on my calendar
+* Mark when someone returns from a trip.
+  so I can say welcome back
+* Mark Sandy's apartment showings,
+  so I can clean before them

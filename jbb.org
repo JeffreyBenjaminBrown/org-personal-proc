@@ -3,27 +3,18 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
-* TODO today
-** buy drugs
-** order Amazon
-*** tupperware for Valentina
+* taxes
+** do H&R Block
+* grad school?
+** Learn about the experiences of people who have tried the same program
+* [[id:848fc782-1b52-445e-a014-bc8b2cffa6ee][RESUME HERE]]
+* selling the house
+Oscar and Luz Dary buying.
+Laura helps Luisa at the inmobiliaria.
 * if sharing music videos
 ** watch what I just recorded
 ** ask friends before going public
 ** record one about what I am as a musician
-* review my own data
-** DONE review git log
-   git log -p --diff-filter=d
-*** CAN'T personal-most: too much
-*** DONE personal-ish: all
-*** DONE personal-proc: all
-*** DONE personal: back through to Aug 21 (not inclusive)
-*** DONE public: back through to Aug 21 (not inclusive)
-** DONE review some files
-*** review 'doing'
-*** review [[id:90855b17-b9cb-4e11-bdd0-0be9781d6a78][pressing]] and [[id:066400ef-cc2d-4504-aad8-31180943684b][priorities]]
-** DONE transfer from phone
-** TODO commit latest changes
 * doing / pressing
   :PROPERTIES:
   :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78
@@ -78,7 +69,6 @@
 *** [[id:527e2788-f8cc-480b-99ce-d37a4aa5df4e][Sandy]]
 *** [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
 *** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][money \ jbb]]
-* ONGOING Get immigration lawyer contact from Jeremy.
 * ======= ABOVE: CRITICAL =======
 * [[id:c84d8ff7-030f-4ff1-9bdd-380f5304b235][make org-mode indentation changes less noisy]]
 * a better tab key

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       78200ac3-2110-4731-a592-76cf01e22ce8
+:END:
+#+title: neurology \ jbb
+* [[id:c97b3527-953e-496f-b221-b85369e90bb3][<2025-02-01 Sat> right hand motor control problem]]
+* TODO [[id:a12ad32e-9539-4fd5-a46e-7b46ed594fff][for my next neuro visit, on <2023-08-25 Fri>]]
+* my historia clinica
+** <2023-07-06 Thu>
+*** [[/home/jeff/many-small/med/neurology/2023-07-06-g5JmRwU9.historia-clinica-from-dra-majjul.pdf][pdf of it]]
+*** gmail message with it
+    https://mail.google.com/mail/u/0/#inbox/FMfcgzGtvsZCbDJXXjFGzrqlDFKPqpDz
+* programmed responses
+** [[id:7ef58a3d-bfe1-4d45-b0c1-83a753b235b8][If something similar to the suspected TIA recurs, go to the ER fast.]]
+* TODO omega 3s are good for cholesterol
+  take 3 or 4 per day, mil mg per capsula
+* TODO control en 3 meses
+* TODO <2022-10-27>, notes from [[id:8642dd92-9550-476e-b4e8-0dd5a3e04a74][Dra. Mejive Majjul]]
+** she prescribed
+*** Blood tests (inc. PT INR) Monday.
+*** A CAT scan of my carotids.
+    I was unable to do this, because it requires iodine.
+** I learned
+   My [[id:abf2bab5-3090-4f8d-9ee6-952c298278ac][D Dimer]] was 702, a little high.
+*** TODO [[id:1029e42d-dd46-4491-a93c-43209df49e79][mention having smacked my hand \\ cholesterol & jbb]]
+* [[id:90a3dbca-a755-42ab-9110-933971b5c94e][some convenient cognitive tests]]
+* [[id:09971f30-81d6-48aa-bffc-6560cebd23ec][2022-10-11, temporary speech difficulty]]

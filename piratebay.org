@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ee08b16a-cbd8-4b41-abc8-d66944f80cee
+:END:
+#+title: PirateBay
+* sometimes it's at https://thepiratebay.org
+  :PROPERTIES:
+  :ID:       a3f0f1ed-87ee-47ec-8ff4-c05402ef0fc1
+  :END:
+  https://thepiratebay.org
+* [[id:31f54be3-146e-458f-9054-7421c2c2dbba][to rtorrent a magnet link from PirateBay]]

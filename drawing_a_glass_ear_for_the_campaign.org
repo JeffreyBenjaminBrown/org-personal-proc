@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3e50865d-c7c7-474d-bab7-c831fe965728
+:END:
+#+title: drawing a glass ear for the campaign
+* spec
+  doing a sport {tennis, fencing,}
+  with a {broom}.
+  "Transparencia. (Escuchez?) Juego limpio."
+* prompt
+Can you draw a glass ear with arms and legs, using a broom to fence? He's in that classic fencing pose, one arm akimbo. The arms and legs should be of glass similar to the ear itself. He should hold the head near the end of the handle, with the brush head far away from him.
+
+Put Colombia's Supreme Court behind him. The ear should be transparent enough that we can see the court, albeit distorted, through the ear.
