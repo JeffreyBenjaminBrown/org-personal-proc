@@ -3,6 +3,11 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* use this script for backups
+  bin/du-home-for-borg.py
+** needs a nix shell
+** needs to remove the writing of timestamps
+   otherwise git diff won't work
 * taxes
 ** do H&R Block
 * grad school?
