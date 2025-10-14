@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3324158d-2921-4353-a58b-f0628ca8d57b
+:END:
+#+title: bluetooth audio receiver for speakers, my Kaiy C39
+* brand: Kaiy
+* model: C39

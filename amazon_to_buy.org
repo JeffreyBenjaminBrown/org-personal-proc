@@ -5,6 +5,9 @@
 #+title: Amazon, buying from
 **** REMEMBER free shipping
 **** REMEMBER seller rating
+* TODO Hepa filters
+* TODO deo
+* TODO belly bag
 * AWAITS Tupperware for Valentina
 * AWAITS a tiny weed tupperware
   "small airtight container bpa-free"
@@ -50,7 +53,6 @@
 * BLK_DATE in cart : SMOKE DETECTOR
 * BLK_DATE in cart : KN95 masks
 * [[id:baf8405e-ed0b-4386-9962-334889023b1f][audio interface with DI, to buy]]
-* Hepa filters
 * (actually) hard bamboo toothbrushes
   the "medium hard" toothbrushes are soft
 * bathroom floor towels -- would they save me time?

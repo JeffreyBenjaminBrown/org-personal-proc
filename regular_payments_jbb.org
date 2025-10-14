@@ -12,7 +12,7 @@
 *** DONE Sanitas vi MiPlanilla - due the 15th, should probably pay earlier
     but I got away with paying "10 days late",
     on the 25th, the first time
-*** Claro hogar - couldn't pay Feb 7, could Sept 9
+*** DONE Claro hogar - couldn't pay Feb 7, could Sept 9
 *** Aportes en Linea (for Yeni) - pay before 15?
 *** Acueducto (bimonth) - shutoff 24, issued 5th?
 *** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
