@@ -8,18 +8,12 @@
 ** needs a nix shell
 ** needs to remove the writing of timestamps
    otherwise git diff won't work
-* taxes
-** do H&R Block
 * grad school?
 ** Learn about the experiences of people who have tried the same program
 * [[id:848fc782-1b52-445e-a014-bc8b2cffa6ee][RESUME HERE]]
 * selling the house
 Oscar and Luz Dary buying.
 Laura helps Luisa at the inmobiliaria.
-* if sharing music videos
-** watch what I just recorded
-** ask friends before going public
-** record one about what I am as a musician
 * doing / pressing
   :PROPERTIES:
   :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78

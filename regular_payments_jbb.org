@@ -13,10 +13,10 @@
     but I got away with paying "10 days late",
     on the 25th, the first time
 *** DONE Claro hogar - couldn't pay Feb 7, could Sept 9
-*** Aportes en Linea (for Yeni) - pay before 15?
-*** Acueducto (bimonth) - shutoff 24, issued 5th?
-*** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
-*** Vanti - Can pay on 18, not on 13.
+*** DONE Aportes en Linea (for Yeni) - due by the 12th
+*** DONE Acueducto (bimonth) - shutoff 24, issued 5th? can pay 15th.
+*** DONE Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
+*** DONE Vanti - Can pay on 18, not on 15.
 *** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
 *** mortgage
 ** DONE 2025 Sept
@@ -288,8 +288,8 @@
    on the 25th, the first time
 ** Claro hogar - couldn't pay Feb 7, could Sept 9
 ** Aportes en Linea (for Yeni) - pay before 15?
-** Acueducto (bimonth) - shutoff 24, issued 5th?
-** Enel - Can pay on 18, not on 13.  Shutoff 28, oportuno 24.
-** Vanti - Can pay on 18, not on 13.
+** Acueducto (bimonth) - issued on 5th? can pay on 15th, shutoff 24th.
+** Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
+** Vanti - Can pay on 18, not on 15.
 ** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
 ** mortgage
