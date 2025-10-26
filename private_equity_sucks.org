@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b3e0116b-39be-46f3-b82e-8b9975605939
+:END:
+#+title: Private equity ... sucks?
+* ask 1
+  Alex Falcone describes the (private equity, bankruptcy)
+  sequence as the private equiatist (is that a word?)
+  pay the business for the privilege of making it go bankrupt,
+  which somehow also makes the PE money.
+  Is that right? How can that work?
+* (read claude)
+* ask 2
+  Do all the debts get paid off?

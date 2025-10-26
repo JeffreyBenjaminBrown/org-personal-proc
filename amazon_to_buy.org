@@ -5,55 +5,56 @@
 #+title: Amazon, buying from
 **** REMEMBER free shipping
 **** REMEMBER seller rating
+* TODO Silicone
+** $10 putty with stands up to 450° f food grade
+*** https://a.co/d/2Repqm0
+** $22 putty safe up to 200° c
+*** https://a.co/d/cJ6PQlq
 * TODO HEPA filters
+* TODO ultra-sensitive kitchen scale
+** for weed
+** the measurement I need
+   I use about 1/8 CC bud in a night,
+   which Claude thinks weighs around 25 to 50 mg.
+** at least one exists
+   https://www.amazon.com/Fuzion-Milligram-Precision-Microgram-Reloading/dp/B0BRXS6HQC
 * TODO go through my old purchases, see if any repeat
-* TODO new speaker power cable - hopefully it's the cable, not the two speakers
+* TODO new speaker USB cable - hopefully it's it, not them
 * TODO deo
 * TODO sunscreen
 * TODO belly bag
 * TODO 2 electric stirrers - me and Sandy
-* AWAITS Tupperware for Valentina
-* AWAITS a tiny weed tupperware
+* TODO bigger wax containers
   "small airtight container bpa-free"
-* AWAITS lights for bike
-* AWAITS eyeshade
-* AWAITS bluetooth receiver for speakers
+  or start from what I already bought
 * TODO USB A to C cable(s)
-* AWAITS condoms
-* TODO detergent
 * TODO waterproofing for jacket
-* AWAITS pouch to replace little shredding black one in backpack
-* AWAITS hiking sticks
+* GONE ? detergent
+* TODO grinder, but then a filter too
+* TODO belly bag for jogging
 * --- BELOW: less pressing ---
-* TODO e-ink tablets that look good
+* e-ink tablets that look good
 ** PineNote
    $400, Linux-native, strong battery
 ** Supernote black and white no light tablet
    but lousy Linux support
-* TODO Rolling papers for the next concert
-* TODO yellow and red on top -- hat, shirt, sweater
-* TODO replace yellow belt
-* TODO beige socks
-* TODO longer more speaker wire, two speaker stands,
+* Rolling papers for the next concert
+* yellow and red on top -- hat, shirt, sweater
+* replace yellow belt
+* beige socks
+* longer more speaker wire, two speaker stands,
   sub behind couch
-* TODO kitchen scale, for protein & to train senses
-* TODO a little thermos, to fill frequently at the tap
+* a little thermos, to fill frequently at the tap
   for airports, the US
-* TODO beige heather slacks
+* beige heather slacks
 ** TODO Check once I've washed the ones I have.
    Right now they seem embarrassingly chewed up.
-* TODO ? long-battery, USB-powered laptop/tablet
+* ? long-battery, USB-powered laptop/tablet
   for org-mode on flights
-* ONGOING 3.5mm audio cables
-* ONGOING [[id:17eb7869-0d9c-41c6-9d86-800dece0b8b7][two adaptors from male RCA to two female quarter inches]]
 * slippers for guests
 * non-leather belts
   black, brown, ?white
 * fingerless gloves
-* small toiletry bag (that won't shed)
-* grinder
-* Belly bag for work?
-  so my keys don't saw a hole in my pocket
 * BLK_DATE in cart : SMOKE DETECTOR
 * BLK_DATE in cart : KN95 masks
 * [[id:baf8405e-ed0b-4386-9962-334889023b1f][audio interface with DI, to buy]]
@@ -62,7 +63,6 @@
 * bathroom floor towels -- would they save me time?
 * air fryer paper | parchment paper
   https://www.amazon.com/gp/product/B0BQJ6DCLL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-* BLK_DATE [[id:79816c6a-92e4-4ef1-89b7-3db5e9b879f1][ring to work out hips]]
 * BLK_DATE toilet tank freshener pills?
   Blocked on: Be sure they won't interfere with the bidet.
     Do that by testing with some food coloring.
@@ -107,6 +107,8 @@
 ** costume stuff
    LEDs? Balloons | inflatable stuff? Wigs? Ribbons? Mascot outfit?
 ** lightweight plumb bob
+** [[id:79816c6a-92e4-4ef1-89b7-3db5e9b879f1][ring to work out hips]]
 * DONE
 ** [[id:31256160-8551-4d56-bf8f-15005629e724][heated blanket, buy a]]
 ** electrolytes, 0-cal : gone, apparently
+** [[id:17eb7869-0d9c-41c6-9d86-800dece0b8b7][two adaptors from male RCA to two female quarter inches]]

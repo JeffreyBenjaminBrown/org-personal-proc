@@ -141,6 +141,7 @@ maybe (but how? I may have misunderstood)
 ** [[id:f5958bbf-30a5-42d7-9ff9-ae97d5be7e41][Andres Franco]]
 ** Juan Manuel Corredor
    WAPPID surveys
+** [[id:461bac1a-5e4f-4bce-ae05-27a8db1d9484][Angela Amaya]]
 * [[id:53ccfd23-a434-44b6-8610-166116b22214][communication tech for voters]]
 * ? not enough time : [[id:220bdc6c-43cd-48f8-ae73-fbeb078113ab][make a Hode-lite for LCR's campaign]]
 * how to invite people to campaign events
@@ -149,3 +150,4 @@ maybe (but how? I may have misunderstood)
   :END:
 Make it clear how to go.
 Add (maybe after they respond) that sharing the invite would help too.
+* "somos todos oídos"

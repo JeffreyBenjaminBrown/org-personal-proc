@@ -13,6 +13,7 @@
 * the last time I reviewed: 23
   (I got to 64 and then reset the count.)
 * review when time is equal to 1 mod 2 (i.e. odd)
+** [[id:aca2f1ae-3005-468f-9aef-b2311ec57125][Lina's legal specialties]] for her consulting firm
 ** How to shake hands, give high fives?
    Don't! Esp. with men who might be strong.
    If I must, slide my hand all the way,
