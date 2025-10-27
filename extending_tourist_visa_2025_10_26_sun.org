@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       26328ef3-4e21-4b2f-af34-c35ec3ddbab9
+:END:
+#+title: extending tourist visa <2025-10-26 Sun>
+* I submitted the solicitud, did not pay, was not asked to.
+* what the page reported said when I did it
+El registro de su trámite finalizó con éxito, su solicitud ha sido radicada con el número único de trámite:
+
+
+Tipo de trámite
+
+Número generado
+Permiso Temporal de Permanencia para Prorrogar Permanencia	2510221251141359
+
+
+
+
+Fecha de registro : 22/10/2025 12:51:10
+
+El trámite se realizará en línea. Cualquier novedad será notificada al correo: JEFFBROWN.THE@GMAIL.COM
+* the docs I used are in ~/extend-tourist-visa/

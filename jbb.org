@@ -3,17 +3,56 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
+* dentist
+* [[id:8a2005fd-5def-44ae-bc9b-708aefb246d4][notes for Sarah on atheism <2025-10-26 Sun>]]
+* [[id:616f4547-bc8a-4497-bba6-d14120d43c37][Sylvia Halloween party 2025]]
+* order, Rappi
+** toothpaste
+** oil
+** roibos tea
+** rice
+** garbanzos
+* [[id:baa236d8-c33a-41c4-bf87-027734cc88b8][Cliff on trading options <2025-10-25 Sat>]]
+* reinvest dividends
+* AWAITS retry <2025-10-27 Mon> : call Bancolombia
+  will I need to prove my identity to send more than 9999?
+* [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa <2025-10-26 Sun>]]
+* [[id:8b9379b0-bb7e-44e6-b82b-1286a49e0e6a][selling the Paulo VI apartment <2025-10-26 Sun>]]
+* [[id:a1760cce-de8f-4c7b-84ec-5ca39117d8a1][reprog <2025-10-21 Tue>]]
+* If society is obsessed with it, at least study it (again?).
+  TV series
+  autism
+  adhd
+  gaza
+* Reading the news, in a sense, is escapism.
+* Do AWS, Claude on phone.
+  Won't need precise typing; just dictate.
+* what just happened
+* theory about how to read
+  collect where to go but otherwise don't edit
+  sometimes, at least, probably, read this way
+* reading it <2025-10-16 Thu>
+** [[id:9e45ccd9-d6e0-4870-8f13-cc11135334d0][how to use a knowledge graph]]
+* How much structure there is in something is absurdly voluntary.
+  or at least knowing it is
+** how distinct concepts are is somewhat voluntary
+** [[id:0a087158-ac79-4e03-8e70-90b5485f481b][reading history, my]]
+* If you are about to do it, and you have a note on it, you must read the note first.
+* The only reason to reformat code I've already written is because I'm having trouble reading it.
+* Thank those who make possible the gathering.
+  the "little people"
+* Safeguard the culture.
+  :PROPERTIES:
+  :ID:       f88bacfa-67ba-4020-8a3e-87a02bded425
+  :END:
+* Blindness can look like shirking.
+** [[id:f88bacfa-67ba-4020-8a3e-87a02bded425][Safeguard the culture.]]
 * use this script for backups
   bin/du-home-for-borg.py
 ** needs a nix shell
 ** needs to remove the writing of timestamps
    otherwise git diff won't work
-* grad school?
-** Learn about the experiences of people who have tried the same program
-* [[id:848fc782-1b52-445e-a014-bc8b2cffa6ee][RESUME HERE]]
-* selling the house
-Oscar and Luz Dary buying.
-Laura helps Luisa at the inmobiliaria.
 * doing / pressing
   :PROPERTIES:
   :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78
@@ -29,7 +68,7 @@ Laura helps Luisa at the inmobiliaria.
 **** I also need the DIAN data
      see my DIAN files, then SIGEP
 ** bills
-** ? GRE, school
+** DONE ? GRE, school
 *** [[id:3cc52030-7085-4633-9158-88b6c92872a8][cold email advice]]
 *** [[id:34781937-98e3-4564-a9ae-15e013b986ee][GRE]]
 *** [[id:70018c94-b809-401f-9d09-fc830691acf8][Oliver]]'s letter
