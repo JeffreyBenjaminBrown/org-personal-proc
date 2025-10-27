@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5270486e-0b02-4726-b859-2986d8e4f25a
+:END:
+#+title: never seem to have time \ backup tasks
+* before reviewing passwords, read this
+  last done <2025-06-17 Tue>
+** Don't look at each file at all before first thinking about it.
+** Review them in reverse sometimes.
+** Consider ID(s) and emails, not just password.
+* review [[id:846207ef-11d6-49e4-89b4-4558b2989a60][jbb]]
+* email
+* review [[id:a5b74e88-c524-4f89-b29d-1bc324a77369][internalize]]
+  last done <2025-07-19 Sat>
+* transfer from [[id:90dbe7b2-d999-491b-90ba-d11de58c26b4][temp]]
+  bunch of new stuff as of <2024-12-16 Mon>
+* review, clean virtual desktops
+* review [[id:84b6c491-f0b4-44ab-9ffd-cf196d6a0220][Spanish vocabulary]]
+* smsn
+** last git-cycled 2021-12-07
+** [[id:ef82d33a-a1dd-40bc-bab4-2621fc4249c8][Semantic Synchrony and Git: the commit-push cycle]]

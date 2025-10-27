@@ -10,7 +10,7 @@
 * todo ? [[id:31c4c9f3-fb7a-4028-b84a-8406d0e91f48][org-drill does spaced repetition]]
 * todo ? [[id:c32b9041-ee81-4b97-a592-07918981b332][spaced repetition & vocab]]
 * TODO also review [[id:84b6c491-f0b4-44ab-9ffd-cf196d6a0220][Spanish vocabulary]]
-* the last time I reviewed: 23
+* the last time I reviewed: 24
   (I got to 64 and then reset the count.)
 * review when time is equal to 1 mod 2 (i.e. odd)
 ** [[id:aca2f1ae-3005-468f-9aef-b2311ec57125][Lina's legal specialties]] for her consulting firm
@@ -45,47 +45,47 @@
 ** [[id:3e64d4ca-11f2-48b6-a42c-a8c9c83cb7db][things to do when stationary]]
 ** What to do when exchanging contact info?
    [[id:7e6112c1-bf30-42b8-9402-a5213144db66][Get it from everyone, in both directions!]]
-* review when time is equal to 8 mod 16
-** [[id:265bda0f-5089-4dfc-a00a-fd9e5cf8947d][How long can I be at sea level without suffering much altitude sickness on returning to Bogotá?]]
-** [[id:7b57f63c-b0d5-48ed-b1a1-7348c70ff854][how to avoid buying contaminated spices]]
-** [[id:0650c92d-963b-4070-984f-4737e29a7f03][What to worry about in org-roam links?]]
 ** What to do if I'm waiting for a call.
 *** [[id:cf164b6e-cf5f-40fc-b540-98446b3573cf][Is it night?]]
 ** [[id:370fc155-72ba-4394-b3cd-92186871ab29][Something AI is surprisingly helpful at?]]
-** [[id:98f315c7-7404-40cd-ac56-2c9040a29421][If a woman looks like she hasn't slept?]]
-** [[id:d04f4941-ea2c-4343-a57d-6adeb4fc39ed][What to do when bumped?]]
-** [[id:56df17f4-9bbe-4cec-bfaf-213d115aea17][How to prepare for (already accepted) meetings?]]
-** What to do when I hide something? And when else to do that?
-   Write down where I put it!
-   And similarly when I find something hidden.
-** What to remember when interacting with salespeople?
-   [[id:2b49db8e-8279-42ae-a23c-e3ca35addc39][They *have to* suck, and they include people who didn't reach out to me..]]
-** [[id:4ec07465-7323-47c3-a8b4-8d81f383b119][What to do before proposing anything?]]
-** [[id:7e88db82-e269-48cf-8cfc-c18674b41df9][How to order Uber?]]
 ** [[id:c7e7454e-0f36-48cb-b1ab-1a50a302d04d][How to talk about Monica?]]
 ** [[id:dc63b8e2-f13a-4618-a591-6e65a17cc824][How to change my cardio routine?]]
-** TODO ? How should I handle introductions between my friends?
-   Maybe plan for them, keeping on file who should meet who.
-   e.g. I want Javier and Lu to meet.
 ** What to remember to do when sick?
    [[id:74a9512e-3f82-46db-b438-144853cc5606][Stay warm!]]
-** [[id:b42b683b-b034-4c10-8f8a-1a574668f149][How to respond to invitations to meetings, and why?]]
-** If skipping shower?
-   Smell face, armpits; wash if needed.
-** What to do each time I ask someone about something?
-   [[id:3832e900-6e8b-4ba6-9994-20fac036c68b][Take notes on questions I have asked, before even being answered.]]
 ** How to place HEPA filters?
    [[id:3dcae04e-a146-4865-8e89-d9bc8bceca8a][They are oriented! The rougher side is for the incoming air.]]
-** Skin care lately?
+** write here, then check : [[id:385a4f63-eaf8-4fe1-b576-0666ea50dde3][when to pause]], and ways to do it
+* review when time is equal to 8 mod 16
+** [[id:7b57f63c-b0d5-48ed-b1a1-7348c70ff854][how to avoid buying contaminated spices]]
+** ? How should I handle introductions between my friends?
+   Maybe plan for them, keeping on file [[id:0bfaba38-98b6-4425-9f8d-7f40fa3d3858][who should meet who]].
+   e.g. I want Javier and Lu to meet.
+* review when time is divisible by 16
+** DONE [[id:265bda0f-5089-4dfc-a00a-fd9e5cf8947d][How long can I be at sea level without suffering much altitude sickness on returning to Bogotá?]]
+** DONE [[id:0650c92d-963b-4070-984f-4737e29a7f03][What to worry about in org-roam links?]]
+** DONE [[id:98f315c7-7404-40cd-ac56-2c9040a29421][If a woman looks like she hasn't slept?]]
+** DONE [[id:d04f4941-ea2c-4343-a57d-6adeb4fc39ed][What to do when bumped?]]
+** DONE [[id:56df17f4-9bbe-4cec-bfaf-213d115aea17][How to prepare for (already accepted) meetings?]]
+** DONE What to do when I hide something? And when else to do that?
+   Write down where I put it!
+   And similarly when I find something hidden.
+** DONE What to remember when interacting with salespeople?
+   [[id:2b49db8e-8279-42ae-a23c-e3ca35addc39][They *have to* suck, and they include people who didn't reach out to me..]]
+** DONE [[id:4ec07465-7323-47c3-a8b4-8d81f383b119][What to do before proposing anything?]]
+** DONE [[id:7e88db82-e269-48cf-8cfc-c18674b41df9][How to order Uber?]]
+** DONE [[id:b42b683b-b034-4c10-8f8a-1a574668f149][How to respond to invitations to meetings, and why?]]
+** DONE If skipping shower?
+   Smell face, armpits; wash if needed.
+** DONE What to do each time I ask someone about something?
+   [[id:3832e900-6e8b-4ba6-9994-20fac036c68b][Take notes on questions I have asked, before even being answered.]]
+** DONE Skin care lately?
    Natural fiber socks.
    Gentler handwashing. Soap only when and where needed --
-   i.e. almost never the back of the hand.
-** How to maximize window in KDE?
+     i.e. almost never the back of the hand.
+** DONE How to maximize window in KDE?
    Meta + Page up
-** [[id:5c9308cc-bee2-4559-bca2-59ebfd3511b3][If something makes me feel dumb, do what?]]
-** write here then check: [[id:385a4f63-eaf8-4fe1-b576-0666ea50dde3][when to pause]]
-** [[id:9521f459-3d21-43e7-bec6-1b76f2ef297d][What's tricky about working with contractors?]]
-* review when time is divisible by 16
+** DONE [[id:5c9308cc-bee2-4559-bca2-59ebfd3511b3][If something makes me feel dumb, do what?]]
+** DONE [[id:9521f459-3d21-43e7-bec6-1b76f2ef297d][What's tricky about working with contractors?]]
 ** how to smile
    Bigger!
 ** What to remember about pain?
