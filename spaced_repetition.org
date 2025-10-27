@@ -10,14 +10,10 @@
 * todo ? [[id:31c4c9f3-fb7a-4028-b84a-8406d0e91f48][org-drill does spaced repetition]]
 * todo ? [[id:c32b9041-ee81-4b97-a592-07918981b332][spaced repetition & vocab]]
 * TODO also review [[id:84b6c491-f0b4-44ab-9ffd-cf196d6a0220][Spanish vocabulary]]
-* the last time I reviewed: 24
+* the last time I reviewed: 25
   (I got to 64 and then reset the count.)
 * review when time is equal to 1 mod 2 (i.e. odd)
 ** [[id:aca2f1ae-3005-468f-9aef-b2311ec57125][Lina's legal specialties]] for her consulting firm
-** How to shake hands, give high fives?
-   Don't! Esp. with men who might be strong.
-   If I must, slide my hand all the way,
-   so they can't crush my fingers.
 ** How to carry myself?
    breathe through nose
    shoulders back, head upright
@@ -25,8 +21,12 @@
 ** [[id:c0876ad0-ef97-4d92-ba2c-39bc721f2d15][restaurant dangers]]
 ** [[id:601503c7-222c-4885-8981-2cbfa31b9a92][what to remember about goals in conversation]]
 ** [[id:5a80c62a-c6f2-4bb9-9cd6-a2f3a06374b2][things to mark on my calendar]]
-** [[id:d8ccc0a4-ef6a-4d0e-a392-e1d7da2844c1][good foods to reduce cholesterol]]
 * review when time is equal to 2 mod 4
+** How to shake hands, give high fives?
+   Don't! Esp. with men who might be strong.
+   If I must, slide my hand all the way,
+   so they can't crush my fingers.
+** [[id:d8ccc0a4-ef6a-4d0e-a392-e1d7da2844c1][good foods to reduce cholesterol]]
 ** beware when buying an Audible book
    Have I selected a version with a soundtrack?
 ** when planning a gathering

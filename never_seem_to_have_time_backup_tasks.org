@@ -10,7 +10,7 @@
 * review [[id:846207ef-11d6-49e4-89b4-4558b2989a60][jbb]]
 * email
 * review [[id:a5b74e88-c524-4f89-b29d-1bc324a77369][internalize]]
-  last done <2025-07-19 Sat>
+  last done <2025-10-26 Sun>
 * transfer from [[id:90dbe7b2-d999-491b-90ba-d11de58c26b4][temp]]
   bunch of new stuff as of <2024-12-16 Mon>
 * review, clean virtual desktops
