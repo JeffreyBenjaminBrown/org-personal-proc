@@ -5,33 +5,34 @@
 #+title: Amazon, buying from
 **** REMEMBER free shipping
 **** REMEMBER seller rating
-* TODO Silicone
-** $10 putty with stands up to 450° f food grade
-*** https://a.co/d/2Repqm0
-** $22 putty safe up to 200° c
-*** https://a.co/d/cJ6PQlq
+* TODO furry chair feet
+* ONGOING deo
+* ONGOING sunscreen
+* ONGOING belly bag
+* ONGOING new speaker USB cable - hopefully it's it, not them
+* ONGOING 2 electric stirrers - me and Sandy
+* ? seriously
+** ONGOING silicone
+*** $10 putty with stands up to 450° f food grade
+**** https://a.co/d/2Repqm0
+*** $22 putty safe up to 200° c
+**** https://a.co/d/cJ6PQlq
+** ONGOING ultra-sensitive kitchen scale
+*** for weed
+*** the measurement I need
+    I use about 1/8 CC bud in a night,
+    which Claude thinks weighs around 25 to 50 mg.
+*** at least one exists
+    https://www.amazon.com/Fuzion-Milligram-Precision-Microgram-Reloading/dp/B0BRXS6HQC
+** TODO bigger wax containers
+   "small airtight container bpa-free"
+   or start from what I already bought
+** TODO grinder, but then a filter too
 * TODO HEPA filters
-* TODO ultra-sensitive kitchen scale
-** for weed
-** the measurement I need
-   I use about 1/8 CC bud in a night,
-   which Claude thinks weighs around 25 to 50 mg.
-** at least one exists
-   https://www.amazon.com/Fuzion-Milligram-Precision-Microgram-Reloading/dp/B0BRXS6HQC
 * TODO go through my old purchases, see if any repeat
-* TODO new speaker USB cable - hopefully it's it, not them
-* TODO deo
-* TODO sunscreen
-* TODO belly bag
-* TODO 2 electric stirrers - me and Sandy
-* TODO bigger wax containers
-  "small airtight container bpa-free"
-  or start from what I already bought
 * TODO USB A to C cable(s)
 * TODO waterproofing for jacket
 * GONE ? detergent
-* TODO grinder, but then a filter too
-* TODO belly bag for jogging
 * --- BELOW: less pressing ---
 * e-ink tablets that look good
 ** PineNote

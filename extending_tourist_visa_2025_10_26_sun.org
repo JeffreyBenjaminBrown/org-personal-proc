@@ -3,7 +3,7 @@
 :END:
 #+title: extending tourist visa <2025-10-26 Sun>
 * I submitted the solicitud, did not pay, was not asked to.
-* what the page reported said when I did it
+* what the page said when I did it
 El registro de su trámite finalizó con éxito, su solicitud ha sido radicada con el número único de trámite:
 
 

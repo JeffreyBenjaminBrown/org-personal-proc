@@ -18,7 +18,7 @@
 *** DONE Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
 *** DONE Vanti - Can pay on 18, not on 15.
 *** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
-*** mortgage
+*** DONE mortgage
 ** DONE 2025 Sept
    roughly in order of appearance
 *** 26.5k to Cris for Yeni - can pay before the month starts

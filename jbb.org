@@ -3,16 +3,32 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* send Sarah public/for___on_atheism_2025_10_26_sun.org
+* collect self-eval into a note
+* buy warfarin, statins
+* global
+Invent an algorithm leaders want to follow.
+  Be willing to change course. Explain your learning.
+    Requires proof that people can love this.
+? Demand military transparency.
+  Wouldn't work in a war.
+Demand that voters care about character,
+  refuse to use an asshole.
+* switch to MuscleTech Mass Gainer
+* Reading requires humility, faith.
+  To believe that what anyone has to say is so valuable to you
+  that it is best to focus your attention on it
+  (for the duration of a book)
+  without their even knowing who you are.
+* share how ? on LCR
+  Luis Carlos Reyes tiene coraje y honra. Pero demasiado coraje.
+
+  https://www.semana.com/nacion/articulo/los-posibles-conflictos-de-interes-de-gloria-arizabaleta-para-investigar-a-petro-en-la-denuncia-del-exministro-luis-carlos-reyes-ella-habria-pedido-puestos/202503/
 * [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
+* Bancolombia says I can send more than 10K, just have to call
+  no need to go to a sucursal
 * dentist
-* [[id:8a2005fd-5def-44ae-bc9b-708aefb246d4][notes for Sarah on atheism <2025-10-26 Sun>]]
-* [[id:616f4547-bc8a-4497-bba6-d14120d43c37][Sylvia Halloween party 2025]]
-* order, Rappi
-** toothpaste
-** oil
-** roibos tea
-** rice
-** garbanzos
+* [[id:616f4547-bc8a-4497-bba6-d14120d43c37][Sylvia's Halloween party 2025]]
 * [[id:baa236d8-c33a-41c4-bf87-027734cc88b8][Cliff on trading options <2025-10-25 Sat>]]
 * reinvest dividends
 * AWAITS retry <2025-10-27 Mon> : call Bancolombia
@@ -28,7 +44,6 @@
 * Reading the news, in a sense, is escapism.
 * Do AWS, Claude on phone.
   Won't need precise typing; just dictate.
-* what just happened
 * theory about how to read
   collect where to go but otherwise don't edit
   sometimes, at least, probably, read this way
