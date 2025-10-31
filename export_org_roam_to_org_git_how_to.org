@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       b8f52fdd-93b8-49f1-88ca-0a7c065e30bb
+:END:
+#+title: export org-roam to org-git, how to
+# tag export publish
+
+# CAREFUL: Run this separately and verify,
+# to be sure I don't delete the original data.
+cd /home/jeff/ugh/une/github-exported-org-roam
+
+# Verify that the local repos have little history
+for f in $(cat github-navigable-repo-folder-names.txt); do
+  cd $f
+  git log | wc
+  cd ..
+done
+
+# CAREFUL: OBLITERATES local repos.
+for f in $(cat github-navigable-repo-folder-names.txt); do
+  rm $f -rf
+done
+
+# This seemed to work executed one paragraph at a time,
+# but not if dumped all at once.
+cd /home/jeff/code/org-roam-to-org-git
+cabal run
+
+cd /home/jeff/ugh/une/github-exported-org-roam
+cp ~/org-roam/public/README.md ./public/
+
+# CAREFUL: OBLITERATES prior data on remote repos.
+while read -r FOLDER REMOTE; do
+  cd $FOLDER
+  git init
+  git add '*.org' # This is recursive.
+  git commit -m "everything"
+  git remote add origin $REMOTE
+  git push --set-upstream origin main # for pushes outside of this script
+  git branch -M main
+  git push -f origin main # Obliterates existing history.
+  cd ..
+done < github-navigable-repos-with-urls.txt
+
+# Verify that none of my .org-formatted data was affected.
+# (If pushing fails something is wrong.)
+cd ~/org-roam
+./bash/push-all.sh
+
+# PITFALL: I had a problem with a filename that had a tilde
+# in the original repo. In the github-formatted repo,
+# it became wise-hallucinated...-autom\303\241tico...org,
+# and then git was unable to find the path.
+
+# try visiting a new or modified file online
+https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/main/
+
+# fix a few broken links
+find . -name "*.org" -print0 | xargs -0 grep -i "broken link?]]" --color

@@ -3,7 +3,6 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
-* send Sarah public/for___on_atheism_2025_10_26_sun.org
 * collect self-eval into a note
 * buy warfarin, statins
 * global
@@ -20,10 +19,6 @@ Demand that voters care about character,
   that it is best to focus your attention on it
   (for the duration of a book)
   without their even knowing who you are.
-* share how ? on LCR
-  Luis Carlos Reyes tiene coraje y honra. Pero demasiado coraje.
-
-  https://www.semana.com/nacion/articulo/los-posibles-conflictos-de-interes-de-gloria-arizabaleta-para-investigar-a-petro-en-la-denuncia-del-exministro-luis-carlos-reyes-ella-habria-pedido-puestos/202503/
 * [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
 * Bancolombia says I can send more than 10K, just have to call
   no need to go to a sucursal
@@ -31,8 +26,6 @@ Demand that voters care about character,
 * [[id:616f4547-bc8a-4497-bba6-d14120d43c37][Sylvia's Halloween party 2025]]
 * [[id:baa236d8-c33a-41c4-bf87-027734cc88b8][Cliff on trading options <2025-10-25 Sat>]]
 * reinvest dividends
-* AWAITS retry <2025-10-27 Mon> : call Bancolombia
-  will I need to prove my identity to send more than 9999?
 * [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa <2025-10-26 Sun>]]
 * [[id:8b9379b0-bb7e-44e6-b82b-1286a49e0e6a][selling the Paulo VI apartment <2025-10-26 Sun>]]
 * [[id:a1760cce-de8f-4c7b-84ec-5ca39117d8a1][reprog <2025-10-21 Tue>]]
@@ -41,7 +34,6 @@ Demand that voters care about character,
   autism
   adhd
   gaza
-* Reading the news, in a sense, is escapism.
 * Do AWS, Claude on phone.
   Won't need precise typing; just dictate.
 * theory about how to read
