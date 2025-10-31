@@ -3,6 +3,61 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* doing / pressing
+  :PROPERTIES:
+  :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78
+  :END:
+** MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
+** extend visa
+** US taxes
+** US back-taxes
+*** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
+*** [[id:b3117d41-ea7f-48c2-83c4-86306c690737][taxes, my US]]
+*** am I missing info to do my 2024 US taxes?
+**** Mincit sent me the whole history recently.
+**** I also need the DIAN data
+     see my DIAN files, then SIGEP
+** bills
+** DONE ? GRE, school
+*** [[id:3cc52030-7085-4633-9158-88b6c92872a8][cold email advice]]
+*** [[id:34781937-98e3-4564-a9ae-15e013b986ee][GRE]]
+*** [[id:70018c94-b809-401f-9d09-fc830691acf8][Oliver]]'s letter
+*** I want professors who have time to talk to me.
+* nagging, maybe high-stakes
+** financial & maybe unfinished
+*** AWAITS I returned it : Skandia (pension) sends a form to fill.
+    https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpKfdqqCSRJqVPdXBLqMGzTTm
+*** AWAITS [[id:6b6e10bf-4052-4cda-a0d5-83a19a8e0f9f][confirm that MinCIT can give me my liquidación]]
+*** [[id:88e518c5-50cb-4b2c-b548-684cd0ec6946][secure healthcare while unemployed]]
+*** AWAITS they should send it : [[id:69ca9daf-3480-46c0-a23a-60cd32bb2507][get cesantias from FNA]]
+*** the authorization PUJ gave me to withdraw from Proteccion
+    https://mail.google.com/mail/u/0/#inbox/QgrcJHrtvWmlzGtPgpNWJCgGNmFVKLRcWmg
+*** I got two big payments from FNA
+    https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgcNBZkXBgtcBtnrsFSvvtpdC
+    one for over 10M COP, the other over 3M COP
+    only <2025-07-31 Thu>
+*** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
+*** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
+** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
+* doing // [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities \ jbb]]
+  :PROPERTIES:
+  :ID:       066400ef-cc2d-4504-aad8-31180943684b
+  :END:
+** highlighting
+*** [[id:b55d4c6a-6d0f-4848-85ca-0582e7224714][pretty excited \ jobhunt]]
+*** [[id:8b3e4156-fe53-4798-96a5-ce428e30baec][jobhunt (project)]]
+*** [[id:4770a0d4-1932-403c-a57a-9ae803e8372e][knowledge graph game]] / outbox
+*** [[id:932ae91a-d7ec-473b-8855-dca25a46a0b6][Rescue Paypal money w/ Ellen, then delete account.]]
+** other files
+*** [[id:f5d81cd6-dcc9-414b-bf9b-2c7f4ca1cd29][my data]]
+*** [[id:6ad58f06-516b-43d3-89c2-81b56b63152f][digital security \ jbb]]
+**** [[id:69807ba4-a84e-4579-8932-6bd930b62a86][Am I backing up Whatsapp?]]
+*** [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
+*** [[id:f4f9a984-31e2-4bad-9442-b65ecd800fce][Paulo VI condo]]
+*** [[id:527e2788-f8cc-480b-99ce-d37a4aa5df4e][Sandy]]
+*** [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
+*** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][money \ jbb]]
+* Throw a party, right?
 * collect self-eval into a note
 * buy warfarin, statins
 * global
@@ -60,60 +115,6 @@ Demand that voters care about character,
 ** needs a nix shell
 ** needs to remove the writing of timestamps
    otherwise git diff won't work
-* doing / pressing
-  :PROPERTIES:
-  :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78
-  :END:
-** MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
-** extend visa
-** US taxes
-** US back-taxes
-*** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
-*** [[id:b3117d41-ea7f-48c2-83c4-86306c690737][taxes, my US]]
-*** am I missing info to do my 2024 US taxes?
-**** Mincit sent me the whole history recently.
-**** I also need the DIAN data
-     see my DIAN files, then SIGEP
-** bills
-** DONE ? GRE, school
-*** [[id:3cc52030-7085-4633-9158-88b6c92872a8][cold email advice]]
-*** [[id:34781937-98e3-4564-a9ae-15e013b986ee][GRE]]
-*** [[id:70018c94-b809-401f-9d09-fc830691acf8][Oliver]]'s letter
-*** I want professors who have time to talk to me.
-* nagging, maybe high-stakes
-** financial & maybe unfinished
-*** AWAITS I returned it : Skandia (pension) sends a form to fill.
-    https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpKfdqqCSRJqVPdXBLqMGzTTm
-*** AWAITS [[id:6b6e10bf-4052-4cda-a0d5-83a19a8e0f9f][confirm that MinCIT can give me my liquidación]]
-*** [[id:88e518c5-50cb-4b2c-b548-684cd0ec6946][secure healthcare while unemployed]]
-*** AWAITS they should send it : [[id:69ca9daf-3480-46c0-a23a-60cd32bb2507][get cesantias from FNA]]
-*** the authorization PUJ gave me to withdraw from Proteccion
-    https://mail.google.com/mail/u/0/#inbox/QgrcJHrtvWmlzGtPgpNWJCgGNmFVKLRcWmg
-*** I got two big payments from FNA
-    https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgcNBZkXBgtcBtnrsFSvvtpdC
-    one for over 10M COP, the other over 3M COP
-    only <2025-07-31 Thu>
-*** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
-*** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
-** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
-* doing // [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities \ jbb]]
-  :PROPERTIES:
-  :ID:       066400ef-cc2d-4504-aad8-31180943684b
-  :END:
-** highlighting
-*** [[id:b55d4c6a-6d0f-4848-85ca-0582e7224714][pretty excited \ jobhunt]]
-*** [[id:8b3e4156-fe53-4798-96a5-ce428e30baec][jobhunt (project)]]
-*** [[id:4770a0d4-1932-403c-a57a-9ae803e8372e][knowledge graph game]] / outbox
-*** [[id:932ae91a-d7ec-473b-8855-dca25a46a0b6][Rescue Paypal money w/ Ellen, then delete account.]]
-** other files
-*** [[id:f5d81cd6-dcc9-414b-bf9b-2c7f4ca1cd29][my data]]
-*** [[id:6ad58f06-516b-43d3-89c2-81b56b63152f][digital security \ jbb]]
-**** [[id:69807ba4-a84e-4579-8932-6bd930b62a86][Am I backing up Whatsapp?]]
-*** [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
-*** [[id:f4f9a984-31e2-4bad-9442-b65ecd800fce][Paulo VI condo]]
-*** [[id:527e2788-f8cc-480b-99ce-d37a4aa5df4e][Sandy]]
-*** [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
-*** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][money \ jbb]]
 * ======= ABOVE: CRITICAL =======
 * [[id:c84d8ff7-030f-4ff1-9bdd-380f5304b235][make org-mode indentation changes less noisy]]
 * a better tab key
