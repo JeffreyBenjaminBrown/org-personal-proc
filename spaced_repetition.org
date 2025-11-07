@@ -13,6 +13,8 @@
 * the last time I reviewed: 25
   (I got to 64 and then reset the count.)
 * review when time is equal to 1 mod 2 (i.e. odd)
+** How to order brushing and flossing?
+   Floss first.
 ** What to do when landing in a new country?
    Get the passport stamped.
 ** [[id:aca2f1ae-3005-468f-9aef-b2311ec57125][Lina's legal specialties]] for her consulting firm

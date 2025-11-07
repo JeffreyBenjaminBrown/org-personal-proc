@@ -3,12 +3,18 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* TODO buy statins, etc.
+* [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa <2025-10-26 Sun>]]
+* [[id:2459a684-4c9b-4f63-89e1-5791bbc00d99][house-selling party Nov 2025]]
+* mal(eficient?), having avoided evil but not its appearance
+* Ask talk invitees for time preferences.
+* present Skg like to Haskellers, ask for architectural opinions
+* cancel Tinder?
 * doing / pressing
   :PROPERTIES:
   :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78
   :END:
 ** MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
-** extend visa
 ** US taxes
 ** US back-taxes
 *** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
@@ -57,7 +63,6 @@
 *** [[id:527e2788-f8cc-480b-99ce-d37a4aa5df4e][Sandy]]
 *** [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
 *** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][money \ jbb]]
-* Throw a party, right?
 * collect self-eval into a note
 * buy warfarin, statins
 * global
@@ -81,7 +86,6 @@ Demand that voters care about character,
 * [[id:616f4547-bc8a-4497-bba6-d14120d43c37][Sylvia's Halloween party 2025]]
 * [[id:baa236d8-c33a-41c4-bf87-027734cc88b8][Cliff on trading options <2025-10-25 Sat>]]
 * reinvest dividends
-* [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa <2025-10-26 Sun>]]
 * [[id:8b9379b0-bb7e-44e6-b82b-1286a49e0e6a][selling the Paulo VI apartment <2025-10-26 Sun>]]
 * [[id:a1760cce-de8f-4c7b-84ec-5ca39117d8a1][reprog <2025-10-21 Tue>]]
 * If society is obsessed with it, at least study it (again?).

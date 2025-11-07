@@ -2,20 +2,56 @@
 :ID:       26328ef3-4e21-4b2f-af34-c35ec3ddbab9
 :END:
 #+title: extending tourist visa <2025-10-26 Sun>
-* I submitted the solicitud, did not pay, was not asked to.
-* what the page said when I did it
+* refs
+** evidence I did submit it
+   This is for the second, better submission, <2025-11-05 Wed>.
+*** in Gmail
+    https://mail.google.com/mail/u/0/#inbox/FMfcgzQcqbhFmrJJNNVFqrjnFpcXSwxL
+*** shown on-screen after submitting
 El registro de su trámite finalizó con éxito, su solicitud ha sido radicada con el número único de trámite:
-
 
 Tipo de trámite
 
 Número generado
-Permiso Temporal de Permanencia para Prorrogar Permanencia	2510221251141359
+Permiso Temporal de Permanencia para Prorrogar Permanencia	25110509174212965
 
-
-
-
-Fecha de registro : 22/10/2025 12:51:10
+Fecha de registro : 05/11/2025 09:17:37
 
 El trámite se realizará en línea. Cualquier novedad será notificada al correo: JEFFBROWN.THE@GMAIL.COM
-* the docs I used are in ~/extend-tourist-visa/
+** to submit it
+*** guidance
+    https://unidad-administrativa-especial-migracion-colombia.micolombiadigital.gov.co/cedula-de-extranjeria/tramite-de-prorroga-de-permanencia
+*** which links to further guidance
+    https://www.gov.co/ficha-tramites-y-servicios/T1008
+*** which links to the form
+    https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf
+** the docs I used
+   are in ~/extend-tourist-visa/
+* DONE use Christian's deets, not Sandy's
+  they ask for address
+* DONE upload this file when it works
+  /home/jeff/extend-tourist-visa/jeff-brown_solicitud-prorroga-permanencia.pdf
+* DONE get docs needed
+** Schwab
+** MSU FCU
+** Bancolombia
+* DONE glue docs
+** only the last page of the Bancolombia report
+* DONE stale
+** first submission was bad
+*** I submitted the solicitud, did not pay, was not asked to.
+*** what the page said when I did it
+  El registro de su trámite finalizó con éxito, su solicitud ha sido radicada con el número único de trámite:
+
+
+  Tipo de trámite
+
+  Número generado
+  Permiso Temporal de Permanencia para Prorrogar Permanencia	2510221251141359
+
+
+
+
+  Fecha de registro : 22/10/2025 12:51:10
+
+  El trámite se realizará en línea. Cualquier novedad será notificada al correo: JEFFBROWN.THE@GMAIL.COM
