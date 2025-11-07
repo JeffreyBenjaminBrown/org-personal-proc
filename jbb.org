@@ -3,6 +3,7 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
 * TODO buy statins, etc.
 * [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa <2025-10-26 Sun>]]
 * [[id:2459a684-4c9b-4f63-89e1-5791bbc00d99][house-selling party Nov 2025]]
@@ -79,7 +80,6 @@ Demand that voters care about character,
   that it is best to focus your attention on it
   (for the duration of a book)
   without their even knowing who you are.
-* [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
 * Bancolombia says I can send more than 10K, just have to call
   no need to go to a sucursal
 * dentist
