@@ -94,10 +94,7 @@
 ** ??
    con pocas bolsas, porfa
 *** TODO [[id:f4eae20e-27a1-48c3-850f-c3f3f9328299][B and D vitamins]]
-*** [[id:05b18a85-476c-4606-a021-bd7fa7f39fef][gloves for weightlifting]]
-*** cologne
 *** mostaza
-*** tamales
 *** miso
 ** dairy, esp. via Leonardo
 *** queso (2 tipos)
@@ -130,6 +127,7 @@
 *** nueces: semillas de sésamo
 *** nueces: semillas de calabaza
 *** nueces: semillas de chía
+*** nueces: linaza
 *** papas, 3 libras
 *** papaya, 1
 *** pepino 2
@@ -285,6 +283,7 @@
 *** buy spa-mask
     310 699 4856
     send 60 (5 + 55)
+*** [[id:05b18a85-476c-4606-a021-bd7fa7f39fef][gloves for weightlifting]]
 * how to buy
 ** Matu: a buy-and-deliver service
    312 477 2482

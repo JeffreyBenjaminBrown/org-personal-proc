@@ -27,6 +27,8 @@ El trámite se realizará en línea. Cualquier novedad será notificada al corre
     https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf
 ** the docs I used
    are in ~/extend-tourist-visa/
+* TODO Dec 11 2025 : request visa extension
+  My visa expires Dec 22 -- 90 days after my last entry into Colombia.
 * DONE use Christian's deets, not Sandy's
   they ask for address
 * DONE upload this file when it works

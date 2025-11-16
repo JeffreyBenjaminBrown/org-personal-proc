@@ -23,6 +23,11 @@ serial
 * TODO borg pwd compromised to rclone again
   Make a new borg backup.
   Keep the old one -- there's plenty of room.
+* ONGOING ?? NEW ?? use this script for backups
+  bin/du-home-for-borg.py
+** needs a nix shell
+** needs to remove the writing of timestamps
+   otherwise git diff won't work
 * check disk usage
   parallel
 ** move big things
@@ -53,6 +58,8 @@ serial
 * clean (the hard part)
 ** view, delete recent photos on phone
    Last done <2025-01-20 Mon>
+   on (maybe <2025-11-11 Tue>)
+   I read chat titles backward to 10/29 (not inclusive)
 ** read spam
    inc. Outlook, Mintranet
 ** Listing It

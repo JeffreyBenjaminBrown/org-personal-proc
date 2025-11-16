@@ -3,19 +3,32 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
+* [[id:68d418c5-451a-4cbd-be02-73a4a1739c6b][write Siobhan?]]
+* It would be cool if desktops 1 through N showed the last N days of the subscribed-to image series.
+* ? use exclamation marks immediately when greeting someone, then chill
+* Andres Morales and Daniel (Meliza's friend from the hike <2025-11-15 Sat>) want to try Skg.
+* [[id:4d13a74d-faa9-4f21-9910-64dd765e30df][Read about what I've been procrastinating.]]
+  What *have* I been procrastinating?
+** file my practical notes
+** see doctor
+** commerce
+** ? dating
+* [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
 * [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
-* TODO buy statins, etc.
+* [[id:8a4327f8-1d29-4784-88ec-eb1fe58fb561][Amazon]]
 * [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa <2025-10-26 Sun>]]
+* [[id:1c6a051f-8e6e-4a2a-acdf-034f6fbe7e28][<2025-11-16 Sun> things to have delivered]]
+* edgy
+** [[id:071634a3-a13f-4ea5-9dd4-40a952d39f74][sexual health]]
 * [[id:2459a684-4c9b-4f63-89e1-5791bbc00d99][house-selling party Nov 2025]]
-* mal(eficient?), having avoided evil but not its appearance
-* Ask talk invitees for time preferences.
-* present Skg like to Haskellers, ask for architectural opinions
+* Give a(n online?) seminar about Skg.
+** [[id:c85b2b5c-3b0d-4a13-b652-de95ac880de7][Ask talk invitees for time preferences.]]
 * cancel Tinder?
 * doing / pressing
   :PROPERTIES:
   :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78
   :END:
-** MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
 ** US taxes
 ** US back-taxes
 *** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
@@ -45,7 +58,6 @@
     only <2025-07-31 Thu>
 *** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
 *** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
-** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
 * doing // [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities \ jbb]]
   :PROPERTIES:
   :ID:       066400ef-cc2d-4504-aad8-31180943684b
@@ -66,14 +78,6 @@
 *** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][money \ jbb]]
 * collect self-eval into a note
 * buy warfarin, statins
-* global
-Invent an algorithm leaders want to follow.
-  Be willing to change course. Explain your learning.
-    Requires proof that people can love this.
-? Demand military transparency.
-  Wouldn't work in a war.
-Demand that voters care about character,
-  refuse to use an asshole.
 * switch to MuscleTech Mass Gainer
 * Reading requires humility, faith.
   To believe that what anyone has to say is so valuable to you
@@ -82,43 +86,12 @@ Demand that voters care about character,
   without their even knowing who you are.
 * Bancolombia says I can send more than 10K, just have to call
   no need to go to a sucursal
-* dentist
 * [[id:616f4547-bc8a-4497-bba6-d14120d43c37][Sylvia's Halloween party 2025]]
 * [[id:baa236d8-c33a-41c4-bf87-027734cc88b8][Cliff on trading options <2025-10-25 Sat>]]
 * reinvest dividends
 * [[id:8b9379b0-bb7e-44e6-b82b-1286a49e0e6a][selling the Paulo VI apartment <2025-10-26 Sun>]]
+* [[id:9e45ccd9-d6e0-4870-8f13-cc11135334d0][how to use a knowledge graph]]
 * [[id:a1760cce-de8f-4c7b-84ec-5ca39117d8a1][reprog <2025-10-21 Tue>]]
-* If society is obsessed with it, at least study it (again?).
-  TV series
-  autism
-  adhd
-  gaza
-* Do AWS, Claude on phone.
-  Won't need precise typing; just dictate.
-* theory about how to read
-  collect where to go but otherwise don't edit
-  sometimes, at least, probably, read this way
-* reading it <2025-10-16 Thu>
-** [[id:9e45ccd9-d6e0-4870-8f13-cc11135334d0][how to use a knowledge graph]]
-* How much structure there is in something is absurdly voluntary.
-  or at least knowing it is
-** how distinct concepts are is somewhat voluntary
-** [[id:0a087158-ac79-4e03-8e70-90b5485f481b][reading history, my]]
-* If you are about to do it, and you have a note on it, you must read the note first.
-* The only reason to reformat code I've already written is because I'm having trouble reading it.
-* Thank those who make possible the gathering.
-  the "little people"
-* Safeguard the culture.
-  :PROPERTIES:
-  :ID:       f88bacfa-67ba-4020-8a3e-87a02bded425
-  :END:
-* Blindness can look like shirking.
-** [[id:f88bacfa-67ba-4020-8a3e-87a02bded425][Safeguard the culture.]]
-* use this script for backups
-  bin/du-home-for-borg.py
-** needs a nix shell
-** needs to remove the writing of timestamps
-   otherwise git diff won't work
 * ======= ABOVE: CRITICAL =======
 * [[id:c84d8ff7-030f-4ff1-9bdd-380f5304b235][make org-mode indentation changes less noisy]]
 * a better tab key

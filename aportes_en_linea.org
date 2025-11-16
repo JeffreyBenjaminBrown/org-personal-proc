@@ -27,13 +27,16 @@ https://www.aportesenlinea.com
   Tipo Novedad : tiempo parcial
   select number of days
 ** to pay
-  Liquidaciones -> Consultar
-  Adicionar Liquidación
-  Select Planilla E
-    for past month for pensiones.
-  For health it might say this month,
-  disagreeing with last month,
-  but the lady (Diana Abadia?)
-  on the phone says that's fine.
+*** steps
+    Liquidaciones -> Consultar
+    Adicionar Liquidación
+    Select Planilla E
+      for past month for pensiones.
+    Autoliquidar.
+*** PITFALL: month mismatch
+    For health it might say this month,
+    disagreeing with last month,
+    but the lady (Diana Abadia?)
+    on the phone says that's fine.
 * Cost for 4 or 5 days appears to be the same.
   78k for 5
