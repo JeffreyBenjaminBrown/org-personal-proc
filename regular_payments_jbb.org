@@ -15,8 +15,10 @@
 *** DONE Claro hogar - couldn't pay Feb 7, could Sept 9
 *** DONE Aportes en Linea (for Yeni) - pay before 15?
 *** Acueducto should be n/a - issued 5th? can pay 15th, shutoff 24th.
-*** Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
-*** Vanti - Can pay on 18, not on 15.
+*** ONGOING Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
+    I don't remember paying, but the page says I did --
+    today, Nov 26, which can't be right. I only logged in today.
+*** DONE Vanti - Can pay on 18, not on 15.
 *** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
 *** mortgage
 ** DONE 2025 Oct
@@ -296,6 +298,7 @@
 * the list
   roughly in order of appearance
 ** 26.5k to Cris for Yeni - can pay before the month starts
+** Oikos Storage - pay *before* the 5th
 ** Tigo - can pay on 5
 ** Paulo VI admin fee - couldn't pay Feb 7, could Feb 9
 ** Sanitas vi MiPlanilla - due the 15th, should probably pay earlier
