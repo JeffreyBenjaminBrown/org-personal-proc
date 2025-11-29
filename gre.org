@@ -1,8 +1,10 @@
 :PROPERTIES:
 :ID:       34781937-98e3-4564-a9ae-15e013b986ee
-:ROAM_ALIASES: GRE "grad school"
+:ROAM_ALIASES: GRE gre "grad school"
 :END:
 #+title: GRE & graduate school
+* [[id:70018c94-b809-401f-9d09-fc830691acf8][Oliver]]'s letter
+* [[id:3cc52030-7085-4633-9158-88b6c92872a8][cold email advice]]
 * TODO RESUME reading it
   at least at p. 213 ("221"), chapter 14
   I think more like 233.

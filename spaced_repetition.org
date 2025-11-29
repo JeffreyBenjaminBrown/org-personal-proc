@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a5b74e88-c524-4f89-b29d-1bc324a77369
-:ROAM_ALIASES: remember memory internalize
+:ROAM_ALIASES: internalize
 :END:
 #+title: spaced repetition
 * definition
@@ -13,6 +13,8 @@
 * the last time I reviewed: 26
   (I got to 64 and then reset the count.)
 * review when time is equal to 1 mod 2 (i.e. odd)
+** [[id:ef04b320-be97-4d34-95df-89855fed298e][Matcha : What to remember about it?]]
+** [[id:ade3e6c0-0471-437f-82c0-722751efd240][strategies for creative thinking]]
 ** [[id:b97dfd3b-c478-4c42-babd-33e09ba1fc0c][mindfulness reminders]]
 ** [[id:af588786-fef3-4b29-9ef9-51d811f5b204][the safest way to walk]] : how? why?
 ** [[id:083ad7c4-7dc1-42c1-a3cb-b275f6e45bdd][for protein from plants with less gas]]
@@ -74,31 +76,31 @@ apples, oatmeal, nuts, fish?, brussels sprouts
    Maybe plan for them, keeping on file [[id:0bfaba38-98b6-4425-9f8d-7f40fa3d3858][who should meet who]].
    e.g. I want Javier and Lu to meet.
 * review when time is divisible by 16
-** DONE [[id:265bda0f-5089-4dfc-a00a-fd9e5cf8947d][How long can I be at sea level without suffering much altitude sickness on returning to Bogotá?]]
-** DONE [[id:0650c92d-963b-4070-984f-4737e29a7f03][What to worry about in org-roam links?]]
-** DONE [[id:98f315c7-7404-40cd-ac56-2c9040a29421][If a woman looks like she hasn't slept?]]
-** DONE [[id:d04f4941-ea2c-4343-a57d-6adeb4fc39ed][What to do when bumped?]]
-** DONE [[id:56df17f4-9bbe-4cec-bfaf-213d115aea17][How to prepare for (already accepted) meetings?]]
-** DONE What to do when I hide something? And when else to do that?
+** [[id:265bda0f-5089-4dfc-a00a-fd9e5cf8947d][How long can I be at sea level without suffering much altitude sickness on returning to Bogotá?]]
+** [[id:0650c92d-963b-4070-984f-4737e29a7f03][What to worry about in org-roam links?]]
+** [[id:98f315c7-7404-40cd-ac56-2c9040a29421][If a woman looks like she hasn't slept?]]
+** [[id:d04f4941-ea2c-4343-a57d-6adeb4fc39ed][What to do when bumped?]]
+** [[id:56df17f4-9bbe-4cec-bfaf-213d115aea17][How to prepare for (already accepted) meetings?]]
+** What to do when I hide something? And when else to do that?
    Write down where I put it!
    And similarly when I find something hidden.
-** DONE What to remember when interacting with salespeople?
+** What to remember when interacting with salespeople?
    [[id:2b49db8e-8279-42ae-a23c-e3ca35addc39][They *have to* suck, and they include people who didn't reach out to me..]]
-** DONE [[id:4ec07465-7323-47c3-a8b4-8d81f383b119][What to do before proposing anything?]]
-** DONE [[id:7e88db82-e269-48cf-8cfc-c18674b41df9][How to order Uber?]]
-** DONE [[id:b42b683b-b034-4c10-8f8a-1a574668f149][How to respond to invitations to meetings, and why?]]
-** DONE If skipping shower?
+** [[id:4ec07465-7323-47c3-a8b4-8d81f383b119][What to do before proposing anything?]]
+** [[id:7e88db82-e269-48cf-8cfc-c18674b41df9][How to order Uber?]]
+** [[id:b42b683b-b034-4c10-8f8a-1a574668f149][How to respond to invitations to meetings, and why?]]
+** If skipping shower?
    Smell face, armpits; wash if needed.
-** DONE What to do each time I ask someone about something?
+** What to do each time I ask someone about something?
    [[id:3832e900-6e8b-4ba6-9994-20fac036c68b][Take notes on questions I have asked, before even being answered.]]
-** DONE Skin care lately?
+** Skin care lately?
    Natural fiber socks.
    Gentler handwashing. Soap only when and where needed --
      i.e. almost never the back of the hand.
-** DONE How to maximize window in KDE?
+** How to maximize window in KDE?
    Meta + Page up
-** DONE [[id:5c9308cc-bee2-4559-bca2-59ebfd3511b3][If something makes me feel dumb, do what?]]
-** DONE [[id:9521f459-3d21-43e7-bec6-1b76f2ef297d][What's tricky about working with contractors?]]
+** [[id:5c9308cc-bee2-4559-bca2-59ebfd3511b3][If something makes me feel dumb, do what?]]
+** [[id:9521f459-3d21-43e7-bec6-1b76f2ef297d][What's tricky about working with contractors?]]
 ** how to smile
    Bigger!
 ** What to remember about pain?

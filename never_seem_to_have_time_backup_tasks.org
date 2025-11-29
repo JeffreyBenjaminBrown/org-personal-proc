@@ -3,6 +3,9 @@
 :END:
 #+title: never seem to have time \ backup tasks
 * before reviewing passwords, read this
+  :PROPERTIES:
+  :ID:       7dd5444a-422f-4a7c-8726-9ddc1d834706
+  :END:
   last done <2025-06-17 Tue>
 ** Don't look at each file at all before first thinking about it.
 ** Review them in reverse sometimes.

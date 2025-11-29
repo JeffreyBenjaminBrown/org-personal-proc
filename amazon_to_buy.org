@@ -5,13 +5,15 @@
 #+title: Amazon, buying from
 **** REMEMBER free shipping
 **** REMEMBER seller rating
-* TODO furry chair feet
-* TODO underwear
+* ONGOING underwear
+* ONGOING furry chair feet
+* ONGOING shaver
 * ONGOING deo
 * ONGOING sunscreen
 * ONGOING belly bag
 * ONGOING new speaker USB cable - hopefully it's it, not them
 * ONGOING 2 electric stirrers - me and Sandy
+* ONGOING HEPA filters
 * ? seriously
 ** ONGOING silicone
 *** $10 putty with stands up to 450° f food grade
@@ -25,11 +27,12 @@
     which Claude thinks weighs around 25 to 50 mg.
 *** at least one exists
     https://www.amazon.com/Fuzion-Milligram-Precision-Microgram-Reloading/dp/B0BRXS6HQC
+** TODO stainless steel mesh
+   https://www.amazon.com/gp/product/B0DZXL5BSP
 ** TODO bigger wax containers
    "small airtight container bpa-free"
    or start from what I already bought
 ** TODO grinder, but then a filter too
-* TODO HEPA filters
 * TODO go through my old purchases, see if any repeat
 * TODO USB A to C cable(s)
 * TODO waterproofing for jacket

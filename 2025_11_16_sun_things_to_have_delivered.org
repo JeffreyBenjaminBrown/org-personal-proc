@@ -1,24 +1,18 @@
 :PROPERTIES:
 :ID:       1c6a051f-8e6e-4a2a-acdf-034f6fbe7e28
 :END:
-#+title: <2025-11-16 Sun> things to have delivered
-Buenas noches, Alirio! Nunca me respondió a mi último mensaje. Todavía haces este trabajo?
-
-Estoy buscando que alguin me entregue mañana entre las 8 y las 12:
-* papas rojas, 2 lb
-* pimienta negra molida, por ahí 100 ml (puede entre 50 y 150 ml)
-* té roibos, 1 lb
-* ajis lima, esos rojos el tamaño de un dedo, 1 lb
-* cafe *en grano*, 2 lb
-* 1 aguacate listo para ya
-* nueces: pistachios *sin cascara*, 1 lb
-* nueces: almendras, 1 lb
-* nueces: semillas de calabaza, 1 lb
-* nueces: linaza, 1 lb
-* nueces: semillas de chía, 2 lb
-* aceite de oliva orgánica, 1 litra
-* uchuva seca en rodajas: 1/2 lb
-* papel higiénico "familia deluxe"
-* jabon en liquido para manos con olor a naranja (o limón u otro cítrico)
-* toallas de papel para cocina, 1 rollo
-* 3 kg garbanzos
+#+title: to buy & difficult to get
+* TODO hard to find
+  not in Jumbo
+** té roibos, 1 lb
+** ajis lima, esos rojos el tamaño de un dedo, 1 lb
+** uchuva seca en rodajas: 1/2 lb
+** jabon en liquido para manos con olor a naranja
+   o limón, u otro cítrico
+* TODO expensive
+** nueces: pistachios *sin cascara*, 1 lb
+   72k COP for 400g
+** nueces: almendras, 1 lb
+** nueces: semillas de calabaza, 1 lb
+** nueces: linaza, 1 lb
+** nueces: semillas de chía, 2 lb
