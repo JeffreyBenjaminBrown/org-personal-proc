@@ -2,11 +2,16 @@
 :ID:       454dcc21-b0c4-4dee-a583-5f8886513395
 :END:
 #+title: trips I have taken or will take
-* TODO [[id:b63461e2-6a04-420b-96f9-3d854186a85d][Leticia, trip to, planned <2025-04-12 Sat>]]
+* [[id:2291c06e-14f8-4c6e-b93e-859f1277c2f3][Maryland <2025-12-18 Thu> with Ellen, Jamie & Emric]]
+* ONGOING [[id:fa0a5827-828e-40c9-a8a4-3e04dc81f74d][La Mesa or thereabouts <2025-11-30 Sun>]]
+* [[id:10bf9f54-7ce4-4100-8ac5-481033e0b355][pack for Sandy's place <2025-11-29 Sat>]]
+* [[id:7951b019-9568-4f42-b4d7-234eaf4f8aad][Los Angeles, trip to, <2025-09-10 Wed>]]
 * [[id:afdcd8d2-18fe-4227-b847-4cd7ba0f1c21][Costa Rica, <2025-08-01 Fri>]]
 * [[id:fed57b73-12a2-4b26-9bad-b2348745c281][Maryland, <2025-06-04 Wed>, Cliff gets a pacemaker]]
-* [[id:146daf4b-1779-4bc8-a9f7-5afab8613d04][Amazonas, places to go in]]
-* [[id:b63461e2-6a04-420b-96f9-3d854186a85d][Leticia, trip to, <2025-04-12 Sat>]]
+* ABORTED Amazon 2025
+** ABORTED [[id:b63461e2-6a04-420b-96f9-3d854186a85d][Leticia, trip to, planned <2025-04-12 Sat>]]
+** [[id:146daf4b-1779-4bc8-a9f7-5afab8613d04][Amazonas, places to go in]]
+** [[id:b63461e2-6a04-420b-96f9-3d854186a85d][Leticia, trip to, <2025-04-12 Sat>]]
 * [[id:1fd740b5-7096-4fb7-ab56-e851b6394bb7][West Coast, trip to, Dec 2024]]
 * [[id:4274ee9a-8b13-4763-9719-f32dd7efbcea][Switzerland, trip to, 2024-09-04 Wed]]
 * [[id:52060223-c6a5-4d96-9be4-40446bda6250][East Coast (USA), trip to, <2023-12-21 Thu> to <2024-01-09 Tue>]]

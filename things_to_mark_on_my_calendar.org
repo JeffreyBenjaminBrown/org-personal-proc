@@ -4,5 +4,5 @@
 #+title: things to mark on my calendar
 * Mark when someone returns from a trip.
   so I can say welcome back
-* Mark Sandy's apartment showings,
+* DONE Mark Sandy's apartment showings,
   so I can clean before them

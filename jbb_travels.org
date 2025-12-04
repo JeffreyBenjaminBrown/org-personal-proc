@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9b22c75-f003-414e-bc13-27012a07a787
+:ROAM_ALIASES: "travel , jbb"
+:END:
+#+title: jbb travels
+* providers
+  [[id:5619ba68-cfd7-4aeb-87ef-d6359f0e750b][EasyFly]]
+* [[id:26092d48-8f32-4225-adce-94c9b5719780][travel preparation]]
+* [[id:1fb4c4f2-2912-4a94-97d6-c3b38e3cce27][places to go in Colombia]]
+* [[id:454dcc21-b0c4-4dee-a583-5f8886513395][trips I have taken or will take]]
+* [[id:4c5ee659-2bba-4c56-a6a1-f8ea2663531c][on (waiting to) travel with Covid]]

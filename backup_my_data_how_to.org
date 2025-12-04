@@ -36,14 +36,14 @@ serial
 ** check native home folder's size
    serial, with backtracking
 *** du-home-for-borg.sh
+    this writes the file [[id:ca2dfd85-b9eb-4d22-b56d-b522856e536f][memory used in home folder]]
 *** see the diff in Bash
-    cd ~/org-roam/personal
+    cd ~/org-roam/personal-proc
     git diff memory_used_in_home_folder.org
-*** Restore the clobbered header with magit.
+*** restore the clobbered header with magit
      Run `M-x magit-status` from this file,
      and then search for this:
        modified   memory_used_in_home_folder.org
-*** grep <term> ~/org-roam/pers/memory_used_in_home_folder.org ~/hd-size.temp
 *** commit those changes in Git
 ** after nixos-rebuild : check native disk usage
    serial, with backtracking
@@ -51,13 +51,14 @@ serial
 *** If free space is low, [[id:d014e570-e8da-4661-8111-01d19947e2b2][clean Nixos]], [[id:d623ee48-2989-4802-82f9-3d51ddf45c19][clean Docker]], record date
     last done <2025-09-08 Mon>
 *** Record amount of free space here
-    154 GB
+    151 GB
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.
 * clean (the hard part)
 ** view, delete recent photos on phone
    Last done <2025-01-20 Mon>
+** review whatsapp, email
    on (maybe <2025-11-11 Tue>)
    I read chat titles backward to 10/29 (not inclusive)
 ** read spam
@@ -130,8 +131,8 @@ serial
 ** TODO [[id:61f661d1-a518-4846-8452-358d17a01508][Clean Reaper data from borg repo.]]
 ** mount external drive
 ** parallel
-*** zip -rq -0 /run/media/jeff/ext_hdd.9g.tshb/enc,org-hdd.zip ~/ugh/enc
-*** zip -rq -0 ~/enc,org-ssd.zip                               ~/ugh/enc
+*** find ~/ugh/enc \( -type f -o -type d -o -type l \) ! -type s | zip -@ -0 /run/media/jeff/ext_hdd.9g.tshb/enc,org-hdd.zip
+*** find ~/ugh/enc \( -type f -o -type d -o -type l \) ! -type s | zip -@ -0 ~/enc,org-ssd.zip
 *** entire HD to borg repos
     parallel
 **** PITFALL: The symlinks into ~/ugh/une are harmless.
@@ -178,15 +179,14 @@ serial
      "/home/jeff/Documents/REAPER Media" \
      "/run/media/jeff/ext_hdd.9g.tshb/mirror-of-ssd"
 ** record date last done
-   <2025-11-04 Tue>
+   <2025-11-29 Sat>
 * do at home, backup tasks to
   :PROPERTIES:
   :ID:       d363ab0d-b8bf-40b3-8890-a611a45fd7f3
   :END:
 ** [[id:e1eda15a-df86-4050-b150-e8034ae49019][rebuild NixOS]]
-   last done <2025-11-04 Tue>
+*** [[id:603208d3-968d-43f5-a083-fdda645037ab][when I last did it]]
 ** [[id:0992283d-f9e6-41c3-b109-3660c0afb043][my rclone backup strategy]]
-   last done <2025-11-04 Tue>
 ** [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
 * Unnecessary : delete enc.zip.
   Unnecessary because of an --exclude directive in the `borg create` script.

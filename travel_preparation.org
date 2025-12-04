@@ -1,0 +1,79 @@
+:PROPERTIES:
+:ID:       26092d48-8f32-4225-adce-94c9b5719780
+:ROAM_ALIASES: "prepare to travel"
+:END:
+#+TITLE: travel preparation
+* PITFALLs \ travel prep
+  :PROPERTIES:
+  :ID:       7d1329e1-0842-4309-8973-2d1faac1c5a8
+  :END:
+** [[id:6172961e-c3f4-4fc2-88d5-427daabac99b][Give travel gifts immediately.]]
+** Buy insurance for instruments well ahead of time.
+** Don't keep multiple packing lists|recipes.
+*** what to do
+    Keep the master one,
+    and tailor a clone of it to whatever my latest trip is.
+    Discard the clone once the trip is done,
+    merging relevant changes into this master recipe.
+*** why
+    I used to keep a "short trips" list,
+    and it diverged from master, which created problems.
+** Be sure travel change announcements reach me
+   and not, say, Ellen's cell
+   (despite MSU FCU relying on it).
+** Buy luggage early.
+   The price rises.
+* *way earlier*
+** buy gifts
+** Keep frequent flyer creds on phone, for wifi
+*** Delta
+**** 93i31x51-5JVD8VQR
+**** jeff46brown
+* before airport
+** [[id:fa22ffb6-c6be-47a3-81b0-64cd5813f337][Be ready for a blackout before planning on cutting it close.]]
+   => pack early
+** In case of luggage loss, keep a photo of suitcase on phone.
+** Turn smart lights, cameras on.
+** inform bank(s) if necessary
+   As of <2024-09-03 Tue> Bancolombia does not require it.
+** get an inclinometer for my phone
+   to know when the plane starts to descend
+** remember, [[id:68a6a51d-1ebd-45d6-9569-4e1c6a7bb602][Tigo roaming sucks]]
+** review how to [[id:ff009615-b90a-4cec-a645-c916f148bcb9][use decongestants]] and [[id:0ab75a72-78c0-410a-8929-c945ead8d35f][manually balance eardrum pressure]]
+** set alarm to take Afrin 1 hr before takeoff
+** earthquake-proof precarious things
+   e.g. the Lumatone on its keyboard stand, normally tippable
+** loosen tension on Stick, maybe other stringed instruments
+** hide
+*** passport
+*** ssd drives
+*** monomes
+** [[id:59d10b22-9598-462b-bab0-a41c0ab97697][backup my data]]
+** copy pack list
+   Keep a separate, temporary packing list for this trip.
+** [[id:ec5d1d4f-8a69-44dd-a85f-aebdece2b981][list of things to pack for travel]]
+** NEW: record changes to temp pack list
+   So that I know exactly what I need to bring back.
+*** Change the items.
+*** Count the possibly-plural items.
+** NEW: record changes to permanent pack list (above)
+** get cash
+** charge phone
+** activate roaming cell service
+** activate roaming health care
+   Colsanitas has [[id:74626cc2-1b48-490a-8049-1e155919fe72][a Whatsapp interface]] for it.
+** outside
+*** buy mask(s) for airport
+*** get a cell chip
+** take care of apartment
+*** Take out trash.
+*** Put away anything that would rot.
+*** Turn off gas
+*** Close windows.
+** move money
+* at airport
+** get cash
+** change COP to USD, at least 200
+** get a chip
+* maybe other trips
+** memorize pin for the card I'll use

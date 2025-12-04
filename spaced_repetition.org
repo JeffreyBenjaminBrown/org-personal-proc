@@ -10,18 +10,11 @@
 * todo ? [[id:31c4c9f3-fb7a-4028-b84a-8406d0e91f48][org-drill does spaced repetition]]
 * todo ? [[id:c32b9041-ee81-4b97-a592-07918981b332][spaced repetition & vocab]]
 * TODO also review [[id:84b6c491-f0b4-44ab-9ffd-cf196d6a0220][Spanish vocabulary]]
-* the last time I reviewed: 26
+* the last time I reviewed: 27
   (I got to 64 and then reset the count.)
 * review when time is equal to 1 mod 2 (i.e. odd)
-** [[id:ef04b320-be97-4d34-95df-89855fed298e][Matcha : What to remember about it?]]
-** [[id:ade3e6c0-0471-437f-82c0-722751efd240][strategies for creative thinking]]
 ** [[id:b97dfd3b-c478-4c42-babd-33e09ba1fc0c][mindfulness reminders]]
-** [[id:af588786-fef3-4b29-9ef9-51d811f5b204][the safest way to walk]] : how? why?
 ** [[id:083ad7c4-7dc1-42c1-a3cb-b275f6e45bdd][for protein from plants with less gas]]
-** How to avoid an org-mode bug?
-*** [[id:cc765da7-818b-4a68-a966-f7c237e0061d][no titles with both a link and a property bucket]]
-** How to order brushing and flossing?
-   Floss first.
 ** What to do when landing in a new country?
    Get the passport stamped.
 ** [[id:aca2f1ae-3005-468f-9aef-b2311ec57125][Lina's legal specialties]] for her consulting firm
@@ -31,8 +24,15 @@
    speak slowly, clearly
 ** [[id:c0876ad0-ef97-4d92-ba2c-39bc721f2d15][restaurant dangers]]
 ** [[id:601503c7-222c-4885-8981-2cbfa31b9a92][what to remember about goals in conversation]]
-** [[id:5a80c62a-c6f2-4bb9-9cd6-a2f3a06374b2][things to mark on my calendar]]
 * review when time is equal to 2 mod 4
+** [[id:ef04b320-be97-4d34-95df-89855fed298e][Matcha : What to remember about it?]]
+** [[id:ade3e6c0-0471-437f-82c0-722751efd240][strategies for creative thinking]]
+** [[id:af588786-fef3-4b29-9ef9-51d811f5b204][the safest way to walk]] : how? why?
+** How to avoid an org-mode bug?
+*** [[id:cc765da7-818b-4a68-a966-f7c237e0061d][no headlines with both a link and a property bucket]]
+** How to order brushing and flossing?
+   Floss first.
+** [[id:5a80c62a-c6f2-4bb9-9cd6-a2f3a06374b2][things to mark on my calendar]]
 ** When meeting people?
 *** Remember to remember what I learn.
     starting immediately, with their names
