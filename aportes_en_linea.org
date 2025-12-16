@@ -14,6 +14,7 @@ https://www.aportesenlinea.com
   Fast to respond, patient, nailed all my questions.
 * process
   serial
+** Portal de transacciones -> Empleador
 ** to know which month(s) require payment
   (The default has, AFAIR, always worked,
   so this could be skippable.)
@@ -30,7 +31,7 @@ https://www.aportesenlinea.com
 *** steps
     Liquidaciones -> Consultar
     Adicionar Liquidación
-    Select Planilla E
+    Select Planilla 'E' (away from the default, 'I')
       for past month for pensiones.
     Autoliquidar.
 *** PITFALL: month mismatch

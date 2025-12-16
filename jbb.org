@@ -3,47 +3,50 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
-* MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]]
-* [[id:68d418c5-451a-4cbd-be02-73a4a1739c6b][write Siobhan?]]
-* It would be cool if desktops 1 through N showed the last N days of the subscribed-to image series.
-* ? use exclamation marks immediately when greeting someone, then chill
-* Andres Morales and Daniel (Meliza's friend from the hike <2025-11-15 Sat>) want to try Skg.
-* [[id:4d13a74d-faa9-4f21-9910-64dd765e30df][Read about what I've been procrastinating.]]
-  What *have* I been procrastinating?
-** file my practical notes
-** see doctor
-** commerce
-** ? dating
-* [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
-* [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
-* [[id:8a4327f8-1d29-4784-88ec-eb1fe58fb561][Amazon]]
-* [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa <2025-10-26 Sun>]]
-* [[id:1c6a051f-8e6e-4a2a-acdf-034f6fbe7e28][<2025-11-16 Sun> things to have delivered]]
-* edgy
-** [[id:071634a3-a13f-4ea5-9dd4-40a952d39f74][sexual health]]
-* [[id:2459a684-4c9b-4f63-89e1-5791bbc00d99][house-selling party Nov 2025]]
-* Give a(n online?) seminar about Skg.
-** [[id:c85b2b5c-3b0d-4a13-b652-de95ac880de7][Ask talk invitees for time preferences.]]
-* cancel Tinder?
-* doing / pressing
-  :PROPERTIES:
-  :ID:       90855b17-b9cb-4e11-bdd0-0be9781d6a78
-  :END:
-** US taxes
+* MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]] and [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities]]
+* pressing
+** review travel prep list
+** get metformin for cliff
+** get wood toys for kids
+** pack
+** backup
+** dermatology, yearly cardio, cardio for drugs
+* [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
+** to write friends
+*** start from lists of them
+*** feel no obligation to write everyone
+*** try to make the lists complete
+**** from when
+**** from where
+**** from what project
+*** ? divide into 'need to write' and 'want to write'
+** [[id:f3cb5d79-0624-4d1b-81fd-e25b6ba64002][New Year's letter 2025 <2025-12-14 Sun>]]
+*** RESUME review [[id:7186f483-45e0-4547-ad90-4157df5091cb][here]]
+** [[id:83052ce8-aff2-4c07-b71b-fd6188829bff][reach out to people I know, <2025-12-14 Sun>]]
+** [[id:42bb873a-07b2-481e-aedd-97ed6ceb562c][dating]]
+** ? use exclamation marks immediately when greeting someone, then chill
+** Give a(n online?) seminar about Skg.
+*** [[id:c85b2b5c-3b0d-4a13-b652-de95ac880de7][Ask talk invitees for time preferences.]]
+* when coding
+** If duplication is justified, document it.
+** Analyzing code after it's written: Valid, maybe preventable.
+** Run Claude Code in root mode so it can update itself.
+* ?
+** bubble sort cleaning algorithm : Don't be efficient.
+   Efficient would take more thought.
+   Treat it instead as exercise and a time for wandering thoughts.
+* ordinary chores
+** ONGOING [[id:9daa59fc-403c-41ff-96eb-98001199bfed][Learn enough phone numbers to wander without a phone.]]
+   last done <2025-12-01 Mon>
+** [[id:1c6a051f-8e6e-4a2a-acdf-034f6fbe7e28][to buy & difficult to get]]
+** eat that amaranth | buckwheat
+** switch to MuscleTech Mass Gainer
+** [[id:7dd5444a-422f-4a7c-8726-9ddc1d834706][review passwords]]
+** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
+** [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extend tourist visa <2025-10-26 Sun>]]
 ** US back-taxes
 *** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
 *** [[id:b3117d41-ea7f-48c2-83c4-86306c690737][taxes, my US]]
-*** am I missing info to do my 2024 US taxes?
-**** Mincit sent me the whole history recently.
-**** I also need the DIAN data
-     see my DIAN files, then SIGEP
-** bills
-** DONE ? GRE, school
-*** [[id:3cc52030-7085-4633-9158-88b6c92872a8][cold email advice]]
-*** [[id:34781937-98e3-4564-a9ae-15e013b986ee][GRE]]
-*** [[id:70018c94-b809-401f-9d09-fc830691acf8][Oliver]]'s letter
-*** I want professors who have time to talk to me.
-* nagging, maybe high-stakes
 ** financial & maybe unfinished
 *** AWAITS I returned it : Skandia (pension) sends a form to fill.
     https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpKfdqqCSRJqVPdXBLqMGzTTm
@@ -58,50 +61,57 @@
     only <2025-07-31 Thu>
 *** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
 *** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
-* doing // [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities \ jbb]]
-  :PROPERTIES:
-  :ID:       066400ef-cc2d-4504-aad8-31180943684b
-  :END:
-** highlighting
-*** [[id:b55d4c6a-6d0f-4848-85ca-0582e7224714][pretty excited \ jobhunt]]
-*** [[id:8b3e4156-fe53-4798-96a5-ce428e30baec][jobhunt (project)]]
-*** [[id:4770a0d4-1932-403c-a57a-9ae803e8372e][knowledge graph game]] / outbox
-*** [[id:932ae91a-d7ec-473b-8855-dca25a46a0b6][Rescue Paypal money w/ Ellen, then delete account.]]
-** other files
-*** [[id:f5d81cd6-dcc9-414b-bf9b-2c7f4ca1cd29][my data]]
+* posessions
+** My Visa PP is not on my phone.
+   Just the debit card.
+   I might have to scan the card (which is at Ellen's place).
+** [[id:f5d81cd6-dcc9-414b-bf9b-2c7f4ca1cd29][my data]]
 *** [[id:6ad58f06-516b-43d3-89c2-81b56b63152f][digital security \ jbb]]
-**** [[id:69807ba4-a84e-4579-8932-6bd930b62a86][Am I backing up Whatsapp?]]
-*** [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
+*** [[id:69807ba4-a84e-4579-8932-6bd930b62a86][Am I backing up Whatsapp?]]
+** buy
+*** [[id:8a4327f8-1d29-4784-88ec-eb1fe58fb561][Amazon]]
+** budget
+*** cancel Tinder?
+** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][my money]]
+*** reinvest dividends
+** [[id:2d0f9b52-8cbb-404d-9b69-b931dce4c198][sell the Paulo VI apartment]]
 *** [[id:f4f9a984-31e2-4bad-9442-b65ecd800fce][Paulo VI condo]]
-*** [[id:527e2788-f8cc-480b-99ce-d37a4aa5df4e][Sandy]]
-*** [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
-*** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][money \ jbb]]
-* collect self-eval into a note
-* buy warfarin, statins
-* switch to MuscleTech Mass Gainer
-* Reading requires humility, faith.
-  To believe that what anyone has to say is so valuable to you
-  that it is best to focus your attention on it
-  (for the duration of a book)
-  without their even knowing who you are.
-* Bancolombia says I can send more than 10K, just have to call
-  no need to go to a sucursal
-* [[id:616f4547-bc8a-4497-bba6-d14120d43c37][Sylvia's Halloween party 2025]]
-* [[id:baa236d8-c33a-41c4-bf87-027734cc88b8][Cliff on trading options <2025-10-25 Sat>]]
-* reinvest dividends
-* [[id:8b9379b0-bb7e-44e6-b82b-1286a49e0e6a][selling the Paulo VI apartment <2025-10-26 Sun>]]
-* [[id:9e45ccd9-d6e0-4870-8f13-cc11135334d0][how to use a knowledge graph]]
-* [[id:a1760cce-de8f-4c7b-84ec-5ca39117d8a1][reprog <2025-10-21 Tue>]]
+* not pressing
+** [[id:b55d4c6a-6d0f-4848-85ca-0582e7224714][pretty excited \ jobhunt]]
+*** [[id:8b3e4156-fe53-4798-96a5-ce428e30baec][jobhunt]]
+** u <2025-11-21 Fri>
+*** Told myself I'd warm up gradually. Did some. Saw a challenge. Forgot.
+    Specifically the challenge was a shoulder challenge,
+    which muscles I had not warmed up.
+*** ? Ask to introduce yourself.
+*** ? Especially ? important to greet people who don't make eye contact.
+    They are likely the most fearful,
+    so put them at ease (even if they don't want to talk).
+*** Whether you look up or watch your feet isn't binary.
+*** An oceanic, tidal balance of sound: traffic, construction, playground, non-human animals.
+** I am afraid of the law.
+   Dealing with taxes.
+   Reading contracts before (and after) signing them.
+   Asserting control of something.
+** to dad : "I'm not afraid of writing my own patent."
+ I want to make my software free but want to patent the idea, hoping to charge companies that use it. I asked some AI about how to file a patent and they were like, "You could do it yourself or you could use a lawyer; I suggest the lawyer."
+
+ But I'm not afraid of writing my own patent.
+** suggest to KDE : desktops show head of image series
+*** Instead of all showing the same one, it would be cool if desktops 1 through N showed the last N days of the subscribed-to image series.
+* [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
 * ======= ABOVE: CRITICAL =======
-* [[id:c84d8ff7-030f-4ff1-9bdd-380f5304b235][make org-mode indentation changes less noisy]]
-* a better tab key
-  would bounce between likely positions based on the above text,
-  including its start and ( any opening bracket |
-                            the first nonspace character after one )
-* see if XFCE uses less power
-  if so, use it on flights, etc.
-* write something to reduce reading history
-  /home/jeff/org-roam/reading-history/jeff-read.csv
+* tech meh
+** turn an old phone into a web server
+   https://far.computer/how-to/
+** a better tab key
+   would bounce between likely positions based on the above text,
+   including its start and ( any opening bracket |
+                             the first nonspace character after one )
+** see if XFCE uses less power
+   if so, use it on flights, etc.
+** write something to reduce reading history
+   /home/jeff/org-roam/reading-history/jeff-read.csv
 * codey stuff
 ** AWAITS after backup : org-indent-mode
    Wait until I've backed up my data to start using it.
@@ -118,9 +128,6 @@
 * to kmbn?
 ** [[id:a7a2be95-44cd-4c98-9288-a5183d180d89][Were time illusory, rust (in skill) would be a weird act.]]
 ** [[id:69231ffa-db6f-4df7-b663-9e6ef7582a05][It grew from itself, explaining as it handed time to the next generation, "There are glitches that let you see the future."]]
-* My Visa PP is not on my phone.
-  Just the debit card.
-  I might have to scan the card (which is at Ellen's place).
 * pondering
 ** Need a {Rust, TypeDB, knowledge graphs} peer group.
 ** I *like* learning Rust.
@@ -154,7 +161,6 @@
 *** At each stage of production before having a finished product you need credit.
     -- ellen
 *** DONE [[id:ab63ff70-c109-4fc1-8d6b-9b6fe928d2eb][<2025-05-17 Sat> fix kitchen leaks]]
-** ? Nvidia
 * nutrition
 ** morning: soak chia, other seeds in coffee
 ** Soaked chia seeds are delicious.
@@ -172,12 +178,11 @@
 ** Don't substitute (new) women for (old) friends too much.
 ** start a debate club
 ** intramural sports, behind these walls
-** [[id:1595cbc9-8bb4-4ab5-8fe9-0170f14f0f14][<2025-06-15 Sun> unfinished rolf]]
 ** [[id:601503c7-222c-4885-8981-2cbfa31b9a92][How do I want to converse?]]
-** [[id:9cb24d91-af84-4b64-b2d6-ea3142231302][<2025-04-27 Sun> angst]]
-* fantasy
-** lending & projection
-   go in the same direction but further by using resources that would otherwise be idle between uses
+** fantasy
+*** lending & projection
+    go in the same direction but further
+    by using resources that would otherwise be idle between uses
 * ===== UNSORTED =====
 * donate clothes here
   ONG Clothe Moda Sostenible
