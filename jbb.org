@@ -5,12 +5,12 @@
 #+title: doing
 * MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]] and [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities]]
 * pressing
-** review travel prep list
-** get metformin for cliff
-** get wood toys for kids
-** pack
+** get metformin for cliff, (atorva?)statin for me
+** [[id:2291c06e-14f8-4c6e-b93e-859f1277c2f3][pack , travel prep]]
 ** backup
 ** dermatology, yearly cardio, cardio for drugs
+** DONE get wood toys for kids
+* to valentina & felipe: prokofiev piano 3
 * [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
 ** to write friends
 *** start from lists of them

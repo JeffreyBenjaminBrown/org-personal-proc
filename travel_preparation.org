@@ -23,7 +23,6 @@
    (despite MSU FCU relying on it).
 ** Buy luggage early.
    The price rises.
-* prepare to use XFCE for flights
 * *way earlier*
 ** buy gifts
 ** Keep frequent flyer creds on phone, for wifi
@@ -31,6 +30,7 @@
 **** 93i31x51-5JVD8VQR
 **** jeff46brown
 * before airport
+** ? prepare to use XFCE for flights
 ** [[id:fa22ffb6-c6be-47a3-81b0-64cd5813f337][Be ready for a blackout before planning on cutting it close.]]
    => pack early
 ** In case of luggage loss, keep a photo of suitcase on phone.

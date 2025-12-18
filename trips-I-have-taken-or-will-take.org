@@ -3,7 +3,7 @@
 :END:
 #+title: trips I have taken or will take
 * [[id:2291c06e-14f8-4c6e-b93e-859f1277c2f3][Maryland <2025-12-18 Thu> with Ellen, Jamie & Emric]]
-* ONGOING [[id:fa0a5827-828e-40c9-a8a4-3e04dc81f74d][La Mesa or thereabouts <2025-11-30 Sun>]]
+* La Mesa or thereabouts <2025-11-30 Sun>
 * [[id:10bf9f54-7ce4-4100-8ac5-481033e0b355][pack for Sandy's place <2025-11-29 Sat>]]
 * [[id:7951b019-9568-4f42-b4d7-234eaf4f8aad][Los Angeles, trip to, <2025-09-10 Wed>]]
 * [[id:afdcd8d2-18fe-4227-b847-4cd7ba0f1c21][Costa Rica, <2025-08-01 Fri>]]
