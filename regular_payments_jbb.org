@@ -16,8 +16,8 @@
 *** DONE Claro hogar - couldn't pay Feb 7, could Sept 9
 *** DONE Aportes en Linea (for Yeni) - pay before 15?
 *** DONE Acueducto (bimonth) - issued on 5th? can pay on 15th, shutoff 24th.
-*** Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
-*** Vanti - Can pay on 18, not on 15.
+*** DONE Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
+*** DONE Vanti - Can pay on 18, not on 15.
 *** Colsanitas - Can't pay on day 26, can on 27, fecha límite 10
 *** mortgage
 ** DONE 2025 Nov
