@@ -49,9 +49,9 @@ serial
    serial, with backtracking
 *** df -h .
 *** If free space is low, [[id:d014e570-e8da-4661-8111-01d19947e2b2][clean Nixos]], [[id:d623ee48-2989-4802-82f9-3d51ddf45c19][clean Docker]], record date
-    last done <2025-09-08 Mon>
+    last done <2025-12-21 Sun>
 *** Record amount of free space here
-    151 GB
+    135 GB
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.

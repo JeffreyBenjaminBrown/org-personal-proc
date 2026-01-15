@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       230a61f5-1d22-4807-80ee-1d1f73e05977
+:ROAM_ALIASES: "COMPENSAR-OI is what Bancolombia calls Sanitas." "Sanitas is called COMPENSAR-OI by Bancolombia."
+:END:
+#+title: Bancolombia calls Sanitas COMPENSAR-OI when I pay them.
