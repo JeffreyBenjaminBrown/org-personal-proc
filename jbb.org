@@ -3,13 +3,144 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* [[id:6f28dbdc-e81d-4691-adfc-447ca8c20b85][my financial history]]
+* Don't drown.
+** [[id:c0cc501a-7571-49fd-a9ce-f15925a187b5][review whatsapp, email]]
+** sell couch
+*** post ad, give to Jeremy
+** moving out sale
+*** Offer the stuff minus shipping, they agree that I can later pay to ship it back to me (and try to take care of it).
+** money & organization
+*** [[id:6f28dbdc-e81d-4691-adfc-447ca8c20b85][my financial history]]
+*** Paying Yeni's SS is relevant to my taxes in Colombia.
+*** Keep records of everything I pay Yeni, and everything she works.
+* with others
+** I should go to Colorado.
+** to Deb
+ Hi Deb! Happy New Year! It's awesome to be your friend and family. I feel irrational for not calling on the phone more because it's always a wonderful information-dense experience. I wish you ... geez I don't know what specifically to wish for.
+** write
+   "Tell _ I would write them too if I had an address."
+*** Benita
+*** Matt
+*** Christine
+*** Chris
+*** Noah
+*** Deb
+   Tell Phil I would write them too if I had an address.
+*** Rachel
+*** Katie
+*** Gary
+*** Lee Spector
+*** Randy
+*** Anna
+*** Larisa
+*** Matt Bowman
+*** Tania Iqbal
+*** DaEun
+*** Mike Busch
+*** Eric
+*** Stacy
+*** Lizzi
+*** Amanda
+*** Nicole
+*** Andrés Odroñez
+*** Andres Wulfers
+*** Kristen
+*** Dave
+*** Sid
+*** Andrew Fenlon
+*** Cooper
+*** Josh Greene
+*** John Francis
+*** Jake Brownson
+*** Gary Fixler
+*** Manuela
+*** Aaron
+*** Asaf
+*** Mark Puente
+*** Ariel
+*** Carrie
+*** Julie Horowitz
+*** Jesse Johnson
+*** Gus
+*** Phil running Australian
+*** Tom and Jesse
+*** Dean Schooltz
+*** Katie Layman
+*** Adrianne
+*** Ranjit
+*** Ilya
+*** Adrian
+*** Marta
+*** Mannuel Chacón
+*** Juan Manuel
+*** Laura
+*** Lu
+*** Sandra M
+*** Eliza M
+** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
+** to valentina & felipe: prokofiev piano 3
+** to Cliff: interval-, chord-recognition games
+* [[id:cd9b2ff2-52b5-437d-882d-a625c360dd3f][my problems]]
+* [[id:2c400b23-7036-42e3-b521-ea0edf70c5ac][A Philosophy of Software Design, book by John Ousterhout]]
+* social skills
+** how I want to converse better
+*** command the topic away from boring things
+** motivations for not reaching out
+*** fear of rejection
+*** paralysis of too much choice
+*** enjoy being along
+** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
+** It's important to reveal in time how you feel about it when someone reveals something.
+** Surrounded By Idiots (book, on reading people)
+* honor
+** Never shake hands.
+   I have hurt others that way, and I have been hurt that way,
+   and never saw it coming.
+** to explain to someone what they were to you
+* ? what to do with these
+** James Bond ~ 60s
+** "We love our loving. Not like we love our freedom."
+** "I want to make you feel free."
+** transition fantasy
+*** One day you bent over from the floating bed where you had just lain to go back to wake, discovered you could not reach the power cable, and the rest was dream.
+*** Dreaming is cool as the time before writing.
+    :PROPERTIES:
+    :ID:       0c0fc211-be63-4f83-a21b-e7b22de28a0b
+    :END:
+** want to share widely, feels wrong
+*** Death, God, etc. are transition fantasies. Maybe the richest experience is to know each others'. (Mine are strange, I can say that for sure.)
+** Today <2026-01-10 Sat> I mindmapped, and when finished I felt like it had been engagement with reality, inc. my practical social reality.
+   Throughout the process, I doubted its productivity,
+   but after having done it I feel cautiously hopeful.
+** Polyanna
+*** Daughter of a poor minister, adopted by a rich relative.
+*** That relative, if I'm right after not paying complete attention, runs an orphanage, employs the entire town, and people are afraid to raise money for a better orphanage without her approval.
+* music
+** feasible piano
+*** The piano on How We Do by Joshua Redman+ sounds feasible.
+** Find jazz players with no ego.
+   Ego prevents even the best playing,
+   let alone outside of music. But so does insecurity.
+* ? skg research
+** topics
+*** db sync
+*** invariants
+**** "conservation laws"
+*** transaction semantics
+*** transition systems
+**** finite state machines
+*** dataflow programming
+*** incremental computation
+** ONGOING AI prompt for topics
+ I have a program with different kinds of data in different systems, and some systems can affect others. What are some CS topics relevant to that? If you can, please aim for something like orthogonality between them -- I'm looking for a sparse basis of topics from I can look up neighbors of those topics to roughly cover the relevant space of ideas, if that makes sense.
 * MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]] and [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities]]
-* Did I [[id:e40a466a-7251-4afd-9d84-2eee9e79f84b][activate roaming health care]]?
 * pressing
-** [[id:2291c06e-14f8-4c6e-b93e-859f1277c2f3][pack , travel prep]]
+** Maryland Dec 2025
+*** [[id:2291c06e-14f8-4c6e-b93e-859f1277c2f3][pack , travel prep]]
+*** [[id:3ebc94dc-9ba5-4dfd-9ebd-9f9960fd790d][Maryland Dec 2025, what I remember]]
 ** backup
 ** dermatology, yearly cardio, cardio for drugs
-* to valentina & felipe: prokofiev piano 3
 * [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
 ** to write friends
 *** start from lists of them
@@ -20,7 +151,6 @@
 **** from what project
 *** ? divide into 'need to write' and 'want to write'
 ** [[id:f3cb5d79-0624-4d1b-81fd-e25b6ba64002][New Year's letter 2025 <2025-12-14 Sun>]]
-*** RESUME review [[id:7186f483-45e0-4547-ad90-4157df5091cb][here]]
 ** [[id:83052ce8-aff2-4c07-b71b-fd6188829bff][reach out to people I know, <2025-12-14 Sun>]]
 ** [[id:42bb873a-07b2-481e-aedd-97ed6ceb562c][dating]]
 ** ? use exclamation marks immediately when greeting someone, then chill
@@ -98,7 +228,6 @@
  But I'm not afraid of writing my own patent.
 ** suggest to KDE : desktops show head of image series
 *** Instead of all showing the same one, it would be cool if desktops 1 through N showed the last N days of the subscribed-to image series.
-* [[id:d33fdd39-6933-4de8-abbe-8d0879ec9258][pyschology, mine]]
 * ======= ABOVE: CRITICAL =======
 * tech meh
 ** turn an old phone into a web server

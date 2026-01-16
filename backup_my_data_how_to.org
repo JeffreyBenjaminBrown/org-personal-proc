@@ -37,9 +37,14 @@ serial
    serial, with backtracking
 *** du-home-for-borg.sh
     this writes the file [[id:ca2dfd85-b9eb-4d22-b56d-b522856e536f][memory used in home folder]]
-*** see the diff in Bash
+*** see the diff in org-mode
     cd ~/org-roam/personal-proc
-    git diff memory_used_in_home_folder.org
+    git diff memory_used_in_home_folder.org | \
+      python3 ~/bin/du-diff-to-org.py > changes-by-size.org
+    # Then visit the file in Emacs, from this buffer:
+    changes-by-size.org
+**** the old way
+     git diff memory_used_in_home_folder.org > python3 ~/hodal/skg/memory-diff/du-diff-to-org.py
 *** restore the clobbered header with magit
      Run `M-x magit-status` from this file,
      and then search for this:
@@ -55,10 +60,13 @@ serial
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.
-* clean (the hard part)
+* ONGOING clean (the hard part)
 ** view, delete recent photos on phone
    Last done <2025-01-20 Mon>
 ** review whatsapp, email
+   :PROPERTIES:
+   :ID:       c0cc501a-7571-49fd-a9ce-f15925a187b5
+   :END:
    on (maybe <2025-11-11 Tue>)
    I read chat titles backward to 10/29 (not inclusive)
 ** read spam
