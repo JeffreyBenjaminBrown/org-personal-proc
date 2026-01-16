@@ -2,6 +2,94 @@
 :ID:       b1c2091b-7441-4459-b49e-fac3fe1ed918
 :END:
 #+title: skg outreach
+* u
+** blurb
+*** Skg is for knowledge. It lets you collect, organize, navigate (read), share and integrate knowledge across people. It expects user to colect knowledge; without that it is no use.
+** The Skg README is clearer than my org-roam notes on Skg.
+   https://github.com/JeffreyBenjaminBrown/skg
+   and might be the best introduction to Skg.
+** names for it
+*** "taag"
+**** "Share and merge traversable writing, Traversable As A Graph."
+** "Think of it like your third eye."
+*** garden the best
+**** Keep a garden of the thoughts so good you want to review them.
+     Collect them.
+     I'll try to make attribution easy.
+     Even if it's not, whatever,
+     collect them however you want.
+*** Integrate your garden with someone else's.
+**** The can build branches for you.
+***** All you need to do is subscribe.
+**** Subscription is fine-grained.
+** [[id:413cde77-22e9-45b7-aab4-3e16132adad9][friends who want to use skg]]
+** [[id:1f76cbed-d2c5-4522-89e2-1de946d5dc99][connectivity demos]] for knowledge graphs
+** comparing skg to academia
+   :PROPERTIES:
+   :ID:       0425cc36-0ce3-4fe9-8cb8-6456db3d0897
+   :END:
+*** Mindmapping is opposite to academia.
+    It is thinking without specialization, with complete freedom.
+*** Mindmapping can look distant from work.
+    Thinking about a lot of things you can't change can look impractical. The change is in you.
+** Help [[id:e114b8ed-e85c-41f3-b972-45b23ab5b8d5][the writer guide the reader]].
+** [[id:b29af0a2-3fc0-4f54-8e2a-3260ee1bb684][Skg presentation scheme, a mess, <2026-01-03 Sat>]]
+** outreach / [[id:b06251ae-3ed5-4805-a5f4-d98557fa7754][explaining skg]]
+** outreach / [[id:0ec06d86-92c1-4690-ab27-eaa1520aaf8e][non-obvious implied features]]
+** explaining skg
+   :PROPERTIES:
+   :ID:       b06251ae-3ed5-4805-a5f4-d98557fa7754
+   :END:
+*** explain how to read a tree
+    Each node is about the parent.
+    Like how chapter titles relate to book titles --
+    it's not fixed, everyone's work is different.
+    But you can make a simple sentence involving the two.
+*** Each note is a collection of notes.
+*** Containment and hyperlinks are different.
+    A context is a note contained in no other note.
+    But a context, like any other note, can be linked to.
+*** public privacy and private privacy
+    The user can insert a link to a private file anywhere, and the link might be public or not. When not, it is instead part of a corresponding file in their private repository, which refers to the public repository context that it modifies.ost.
+** It is a programmable graph.
+*** trees with multiple kinds(make your own!) of edges
+** Justify the one-file-per-node format.
+*** subscriptions are small
+*** diffs are readable
+** big missions
+*** ternary relationships
+** Half Baked Digital offered to share Skg.
+   https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpTCFSpKQHwpFKRmtRWfTMzlZ
+** evangelism
+*** If you feel special and want more you should want skg.
+    read as a whole; the last is conclusion
+**** Do yuo feel smarter than others?
+**** Do you believe you could write
+     down a good fraction of the ideas responsible for the difference?
+**** Do you believe if others did it could make you far more powerful?
+*** Just show mindmapping working. Youtube.
+** Share Skg to everyone who uses those tools.
+   TypeDB, Rust, Emacs
+** fun-looking screenshots of mindmapping
+   [[../media-public/mindmapping is fun.png][presence, monogamy, peace]]
+*** maybe caveat with [[id:0425cc36-0ce3-4fe9-8cb8-6456db3d0897][comparison to academia]]
+** [[id:3f518215-aa9f-4bc0-9fb2-b21dcc25909a][I want help, guidance navigating deep ideas from others.]]
+** non-obvious implied features
+   :PROPERTIES:
+   :ID:       0ec06d86-92c1-4690-ab27-eaa1520aaf8e
+   :END:
+*** Sharing and version control are independent.
+    :PROPERTIES:
+    :ID:       8faa302a-2a07-4cc9-8741-86a4e6b69f78
+    :END:
+    No need to look at diffs to think about sharing.
+*** Child content stored separately from child position.
+*** Subscriptions can be public and private.
+*** Unsubscriptions could I think be public and private.
+    The trick: In a public context the privately unsubscribed-from nodes should not show up.
+*** Public subscriptions to private nodes reveal almost nothing.
+    They reveal the fact of their existence,
+    but not what they unsubscribe to -- not even its repo.
 * knowledgr graph =~ books + games
 ** the information volume of a library
 ** the traversal madness of any game

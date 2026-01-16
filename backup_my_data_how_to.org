@@ -60,7 +60,7 @@ serial
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.
-* ONGOING clean (the hard part)
+* clean (the hard part)
 ** view, delete recent photos on phone
    Last done <2025-01-20 Mon>
 ** review whatsapp, email
