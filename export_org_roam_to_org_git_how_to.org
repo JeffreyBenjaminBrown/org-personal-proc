@@ -10,6 +10,8 @@ cd /home/jeff/ugh/une/github-exported-org-roam
 
 # Verify that the local repos have little history
 for f in $(cat github-navigable-repo-folder-names.txt); do
+  echo ""
+  echo $f
   cd $f
   git log | wc
   cd ..
@@ -32,12 +34,12 @@ cp ~/org-roam/public/README.md ./public/
 while read -r FOLDER REMOTE; do
   cd $FOLDER
   git init
-  git add '*.org' # This is recursive.
+  git add '*.org' # This recurses into subfolders.
+  git add '*.md'  # This recurses into subfolders.
   git commit -m "everything"
   git remote add origin $REMOTE
-  git push --set-upstream origin main # for pushes outside of this script
+  git push -f --set-upstream origin main
   git branch -M main
-  git push -f origin main # Obliterates existing history.
   cd ..
 done < github-navigable-repos-with-urls.txt
 
