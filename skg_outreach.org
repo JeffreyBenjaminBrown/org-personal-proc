@@ -153,3 +153,4 @@ I feel like I've hardly earned the right to speak here but I wonder what any of 
 ** write tailored meessages inviting them to the readme, asking them to ask developers who care to help
 * sent to org-roam forum
 https://org-roam.discourse.group/t/extending-the-knowledge-graph-model-for-better-sharing/
+* [[id:da0e89a7-0e9d-41da-8c2d-ec4ab2e37c2b][embarrassing]]
