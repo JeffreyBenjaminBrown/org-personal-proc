@@ -2,5 +2,11 @@
 :ID:       da0e89a7-0e9d-41da-8c2d-ec4ab2e37c2b
 :END:
 #+title: skg strategy , embarrassing
+* unused pitch info
+As a coder: The backend is written in Rust. The good news is that with AI you don't need to be able to write Rust, but you do have to be able to read it.
+
+If you believe in the project, you can start or continue down this path: Write things. Keep your writing, read it, mutate it. Structure it however seems natural -- sections, subsections, folders, whatever. You can divide content and structure (separately!) into public and private, or more categories if you like.
+
+If this sounds enormous, it is, which is why we need to share the work. Individual humans do regularly try to map all of phenomenal reality. But alone it is maddening.
 * [[id:0198571b-31da-45f1-87ff-ba2aa4b81ece][? Build it with others to be less special.]]
 * [[id:749e5df3-0edd-4be5-b742-52d6d1c7f773][If the app had to take off in our minds, and we solved, released computers.]]

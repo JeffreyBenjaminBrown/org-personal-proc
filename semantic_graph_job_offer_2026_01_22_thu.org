@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9fd4255d-747c-4249-b9b7-cc5d01925168
+:END:
+#+title: semantic graph job offer <2026-01-22 Thu>
+* comm's history
+** Gabriela Cunha
+   Ezequiel handed me off to her in the second email:
+     https://mail.google.com/mail/u/0/#inbox/FMfcgzQfBZdVglvRrcWWsrmXjtVtPQCN
+   Talent Acquisition Specialist
+** Ezequiel Gonzalo Ruiz reached out to me.
+** DONE I responded with contact info.
+* reqs in email
+construirá y operará semantic knowledge graphs para unificar datos complejos de múltiples fuentes. Estará a cargo del diseño de ontologías, modelado RDF y casos de uso de exploración avanzada. Es un rol altamente especializado, ideal para ingenieros con vasta experiencia práctica en knowledge graphs y tecnologías de semantic web.
+* what
+  email, teléfono y disponibilidad
+* interview strategy
+** Be honest about what I've done.
+   Observatorio. PHE: Wrangling big data.
+   Skg: hypergraph, TypeDB
+** Describe limitations of RDF.
+   RDF can't make meta-statements.
+   RDF-star can, but it imposes strange structure.

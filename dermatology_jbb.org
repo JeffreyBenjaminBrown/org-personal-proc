@@ -2,6 +2,20 @@
 :ID:       da3146c7-77c8-4d0b-b935-f0b8544e463e
 :END:
 #+title: dermatology \ jbb
+* questions and responses <2026-01-27 Tue>-ish
+** responses
+*** Ankles: Keep moisturizing, cold shower, pat dry, don't scratch.
+*** Should use sunscreen like it was candy.
+*** Everything else: Meh.
+** questions
+*** ankles
+*** black spots behind neck and down back somewhat
+*** forehead
+*** thumb
+*** [[id:e5da38e1-1cef-4920-8066-44dbcfd8a142][? scarf & neck blotches]]
+*** backs of hands
+*** left thigh
+*** Mole on left tricep near elbow
 * TODO ? That part near my thumb that hurts.
   <2025-10-02 Thu> it only hurts now if I poke at it.
   But it feels different.
@@ -13,6 +27,9 @@
 * [[id:4f630e57-d28b-4bc5-9235-c68342f24e29][dry skin \ jbb]]
 * [[id:3d15f5ce-061c-471a-9db0-178eaab83d0e][Moisturizer is better with ceramides and no fragrances.]]
 * ? scarf & neck blotches
+  :PROPERTIES:
+  :ID:       e5da38e1-1cef-4920-8066-44dbcfd8a142
+  :END:
   Could it be not wearing the scarf,
   but spinning it, that makes my neck red?
 * doctors

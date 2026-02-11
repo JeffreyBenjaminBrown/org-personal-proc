@@ -13,6 +13,7 @@
 * the last time I reviewed: 27
   (I got to 64 and then reset the count.)
 * review when time is equal to 1 mod 2 (i.e. odd)
+** What to remember about [[id:09f43fbe-f95f-4826-a2d4-4e227fa87a11][stair lunges]]?
 ** What is surprisingly helpful when feeling unproductive?
    [[id:adcad985-7ada-460e-bb9e-3fe6d1075179][Journaling prompts me to do things.]]
 ** [[id:b97dfd3b-c478-4c42-babd-33e09ba1fc0c][mindfulness reminders]]

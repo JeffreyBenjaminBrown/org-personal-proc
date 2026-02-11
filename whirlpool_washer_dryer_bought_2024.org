@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       91aa54b3-0e48-4d66-a50e-29452a0c638b
+:ROAM_ALIASES: "washer & dryer, my" "dryer & washer, my"
+:END:
+#+title: Whirlpool washer & dryer, bought 2024
+* PITFALL: [[id:cfc58aa7-153d-4e99-9384-fe6e5c4bf1aa][adding detergent is full of dangers]]
+* PITFALL: when moving, to maintain sticky dryer feet
+  :PROPERTIES:
+  :ID:       4146e2ca-8f93-4cd0-8d2e-29f59ce45864
+  :END:
+  don't drag them across the floor. They can be removed once the plate behind the washer and dryer has been unscrewed so that they are disconnected.
+* 601 355 7645 : Servicio Whirlpool
+  tag phone telephone tech support
+* DONE Run it first with soap and no clothes.
+  Choose "regular" and "quick".
+* adding chemicals
+** detergent
+   :PROPERTIES:
+   :ID:       cfc58aa7-153d-4e99-9384-fe6e5c4bf1aa
+   :ROAM_ALIASES: "laundry soap" "soap for laundry"
+   :END:
+*** ONGOING how much to use
+**** by weight, <2026-01-20 Tue>
+     N kg clothes => N/2 g detergent ("Vanish Oxi Action")
+**** Trying <2025-01-14 Tue>:
+    4 kg clothing to 1 smallest measuring spoon of detergent.
+*** Goes in the big left compartment.
+*** PITFALL: Requires moving "the selector".
+**** PITFALL: It's finicky and (I think) delicate.
+     Play around with horizontal pressures,
+     not just vertical ones, to move it up or down.
+**** where to put it
+     It should be high for powder, low for liquid.
+**** what it is
+     A piece of plastic in the back of the compartment.
+*** PITFALL: Use only high efficiency ("HE") detergent.
+** bleach and softener have two more compartments.
+* separate lint-givers and lint-takers
+  Towels give lint.
+  Synthetics, knits and corduroy take it.

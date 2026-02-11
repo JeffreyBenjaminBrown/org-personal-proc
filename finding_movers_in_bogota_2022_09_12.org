@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       a980ac09-af99-412f-ae7a-2ba4def3f966
+:END:
+#+title: finding movers in Bogotá, 2022-09-12
+* message to them
+Buenos días,
+
+Queremos conseguir un servicio de empaque y trasteo para el miercoles a primera hora. Vamos de un apartamento en el conjunto Paulo VI en Bogotá hacia otro apartamento en el mismo conjunto. (Es un conjunto grande; tal vez hay un kilometro entre los dos lugares.)
+
+Este apartamento mide aproximadamente 90 metros cuadrados. Adjunto fótos. Las cosas grandes incluyen:
+
+1 cama king
+1 cama twin
+1 lavadora y 1 secadora
+1 mesa de cocina para seis
+1 escritorio (sin cajones)
+10 sillas
+1 bicicleta
+2 guitarras
+2 teclados
+Algunos muebles pequeños
+
+No hemos empacado nada; quisieramos que ustedes hagan todo eso.
+
+Lo pueden hacer? A que hora? Para cuanto dinero?
+
+Muchas gracias,
+Jeff
+* asked these people
+** Encomudanzas: bad estimate, good execution, 380 x 14
+*** where
+    https://encomudanzas.com/
+    They haven't seen photos.
+*** Carolina says
+    14k / box
+    Could pack furniture or not.
+      Recommends it for white stuff.
+** Global Karts Mudanzas
+   https://globalkartsmudanzas.com/contacto/
+   They haven't seen photos.
+*** 450k + 12k / box
+*** pueden venir a las 7
+** ABC de Mudanzas
+   https://abcdemudanzas.com.co/
+** DONE Mudanzas Express: 450 x 18
+   https://mudanzasexpress.net/
+   They have four Whatsapp numbers;
+   I recorded and sent only to the first.

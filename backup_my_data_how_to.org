@@ -23,18 +23,18 @@ serial
 * TODO borg pwd compromised to rclone again
   Make a new borg backup.
   Keep the old one -- there's plenty of room.
-* ONGOING ?? NEW ?? use this script for backups
-  bin/du-home-for-borg.py
-** needs a nix shell
-** needs to remove the writing of timestamps
-   otherwise git diff won't work
-* check disk usage
+* DONE check disk usage
   parallel
 ** move big things
 *** new DALL-E images to /home/images/u
 *** movies to external disk
 ** check native home folder's size
    serial, with backtracking
+*** AWAITS ?? NEW ?? use this script for backups
+    bin/du-home-for-borg.py
+**** needs a nix shell
+**** needs to remove the writing of timestamps
+     otherwise git diff won't work
 *** du-home-for-borg.sh
     this writes the file [[id:ca2dfd85-b9eb-4d22-b56d-b522856e536f][memory used in home folder]]
 *** see the diff in org-mode
@@ -56,25 +56,30 @@ serial
 *** If free space is low, [[id:d014e570-e8da-4661-8111-01d19947e2b2][clean Nixos]], [[id:d623ee48-2989-4802-82f9-3d51ddf45c19][clean Docker]], record date
     last done <2025-12-21 Sun>
 *** Record amount of free space here
-    135 GB
+    122 GB
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.
-* clean (the hard part)
-** view, delete recent photos on phone
-   Last done <2025-01-20 Mon>
-** review whatsapp, email
+* ONGOING clean (the hard part)
+** DONE view, delete recent photos on phone
+   Most recently done:
+   <2026-02-10 Tue>, read and deleted back to Halloween 2025.
+   <2025-01-20 Mon> was the last time recorded before then.
+** AWAITS review whatsapp, email
    :PROPERTIES:
    :ID:       c0cc501a-7571-49fd-a9ce-f15925a187b5
    :END:
    on (maybe <2025-11-11 Tue>)
    I read chat titles backward to 10/29 (not inclusive)
-** read spam
+** DONE read spam
    inc. Outlook, Mintranet
-** Listing It
+** AWAITS Listing It
+   :PROPERTIES:
+   :ID:       634bf462-cf6a-4394-a09e-f4c973c6a240
+   :END:
 *** transfer from Listing It
 *** delete from Listing It
-** review, clean home folder
+** AWAITS review, clean home folder
    inc. work computer
 ** receipts - read, maybe transfer
 ** CAREFUL What's public? - git cycle org-roam
