@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       29d2d579-fe27-446e-897c-f7a403bf2e58
+:ROAM_ALIASES: "water filters , ZeroWater" "filters for water , ZeroWater"
+:END:
+#+title: water filters
+* A sufficiently used water filter is worse than none at all.
+  It releases stuff into the water.
+* ZeroWater filters
+** to track my order
+   https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzNtLRwFpQrwZXjlRZjSCTbzm
+** history
+*** new filter started <2025-07-20 Sun>
+*** 2nd filter started <2024-10-02 Wed>
