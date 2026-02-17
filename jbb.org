@@ -3,23 +3,52 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
-* [[id:6f28dbdc-e81d-4691-adfc-447ca8c20b85][my financial history]]
-* [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
-* Don't drown.
-** [[id:c0cc501a-7571-49fd-a9ce-f15925a187b5][review whatsapp, email]]
-** sell couch
-*** post ad, give to Jeremy
-** moving out sale
-*** Offer the stuff minus shipping, they agree that I can later pay to ship it back to me (and try to take care of it).
-** money & organization
-*** [[id:6f28dbdc-e81d-4691-adfc-447ca8c20b85][my financial history]]
-*** Paying Yeni's SS is relevant to my taxes in Colombia.
-*** Keep records of everything I pay Yeni, and everything she works.
-* with others
-** I should go to Colorado.
-** to Deb
- Hi Deb! Happy New Year! It's awesome to be your friend and family. I feel irrational for not calling on the phone more because it's always a wonderful information-dense experience. I wish you ... geez I don't know what specifically to wish for.
-** write
+* move Skg README and TODO to org-roam
+  merge with skg, skg outreach, ...
+  This way they can link to each other.
+* ONGOING skg publish
+  in order of execution
+** commit skg in kg
+** publish kg
+** to twitter?
+   God the hands-off pedophile, keeping humans ignorant just to watch.
+
+   Haha jk, obviously there's no god. But we should be similarly outraged, because we are dumb. We could radically improve by sharing knowledge graphs.
+* ONGOING [[id:7106e40c-3ec9-4439-9934-aff1b60f384a][Ilya in Colombia]]
+* TODO soon
+** schedule [[id:7ca3f35d-d859-4577-9403-ac45ef76b5ba][cardio tests <2026-02-12 Thu>]]
+   for after moving
+     (probably unavailable before anyway)
+** ONGOING [[id:d5adfeeb-c3f1-4d66-98c7-235e16af4f15][leaving Pablo VI]]
+*** Olio -- app to give stuff
+*** look for storage space
+    contacting
+**** TODO winning : M3 Storage
+     57 321 7812754
+***** 368.796 / mo, 7 m^2, Montevideo
+      https://m3storage.co//bodega/10315-10315
+***** 352k / mo, 5.3 m^2, Montevideo
+ https://m3storage.co//bodega/10337-10337
+**** AWAITS their turn : Storage Bogotaá
+     https://www.storagebogota.com/
+**** DONE too expensive : Bodegas America
+**** DONE too expensive : UStorage
+*** measure my stuff
+*** AWAITS if I stay with them : Did my Oikos bill rise?
+    to 461,000 on <2026-02-03 Tue>
+** my regular data chores
+*** [[id:c0cc501a-7571-49fd-a9ce-f15925a187b5][review whatsapp, email]]
+*** [[id:7dd5444a-422f-4a7c-8726-9ddc1d834706][review passwords]]
+*** transfer [[id:634bf462-cf6a-4394-a09e-f4c973c6a240][Listing It]]
+*** [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
+** pay bills
+** AWAITS after move : blood check
+** invest {GOOG | LRN}
+** MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]] and [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities]]
+   read all of those except for the
+   [[id:e4d46af4-5b6d-4eed-a557-04599728d2e4][list of priorities]]
+* outreach
+** write people
    "Tell _ I would write them too if I had an address."
 *** Benita
 *** Matt
@@ -27,7 +56,7 @@
 *** Chris
 *** Noah
 *** Deb
-   Tell Phil I would write them too if I had an address.
+    Tell Phil I would write them too if I had an address.
 *** Rachel
 *** Katie
 *** Gary
@@ -75,138 +104,150 @@
 *** Marta
 *** Mannuel Chacón
 *** Juan Manuel
-*** Laura
+*** Laura Correa
 *** Lu
 *** Sandra M
 *** Eliza M
-** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
-** to valentina & felipe: prokofiev piano 3
-** to Cliff: interval-, chord-recognition games
-* [[id:cd9b2ff2-52b5-437d-882d-a625c360dd3f][my problems]]
-* [[id:2c400b23-7036-42e3-b521-ea0edf70c5ac][A Philosophy of Software Design, book by John Ousterhout]]
-* social skills
-** how I want to converse better
-*** command the topic away from boring things
-** motivations for not reaching out
-*** fear of rejection
-*** paralysis of too much choice
-*** enjoy being along
-** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
-** It's important to reveal in time how you feel about it when someone reveals something.
-** Surrounded By Idiots (book, on reading people)
-* honor
-** Never shake hands.
-   I have hurt others that way, and I have been hurt that way,
-   and never saw it coming.
-** to explain to someone what they were to you
-* ? what to do with these
-** James Bond ~ 60s
-** "We love our loving. Not like we love our freedom."
-** "I want to make you feel free."
-** transition fantasy
-*** One day you bent over from the floating bed where you had just lain to go back to wake, discovered you could not reach the power cable, and the rest was dream.
-*** Dreaming is cool as the time before writing.
-    :PROPERTIES:
-    :ID:       0c0fc211-be63-4f83-a21b-e7b22de28a0b
-    :END:
-** want to share widely, feels wrong
-*** Death, God, etc. are transition fantasies. Maybe the richest experience is to know each others'. (Mine are strange, I can say that for sure.)
-** Today <2026-01-10 Sat> I mindmapped, and when finished I felt like it had been engagement with reality, inc. my practical social reality.
-   Throughout the process, I doubted its productivity,
-   but after having done it I feel cautiously hopeful.
-** Polyanna
-*** Daughter of a poor minister, adopted by a rich relative.
-*** That relative, if I'm right after not paying complete attention, runs an orphanage, employs the entire town, and people are afraid to raise money for a better orphanage without her approval.
-* music
-** feasible piano
-*** The piano on How We Do by Joshua Redman+ sounds feasible.
-** Find jazz players with no ego.
-   Ego prevents even the best playing,
-   let alone outside of music. But so does insecurity.
-* ? skg research
-** topics
-*** db sync
-*** invariants
-**** "conservation laws"
-*** transaction semantics
-*** transition systems
-**** finite state machines
-*** dataflow programming
-*** incremental computation
-** ONGOING AI prompt for topics
- I have a program with different kinds of data in different systems, and some systems can affect others. What are some CS topics relevant to that? If you can, please aim for something like orthogonality between them -- I'm looking for a sparse basis of topics from I can look up neighbors of those topics to roughly cover the relevant space of ideas, if that makes sense.
-* MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]] and [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities]]
-* pressing
-** Maryland Dec 2025
-*** [[id:2291c06e-14f8-4c6e-b93e-859f1277c2f3][pack , travel prep]]
-*** [[id:3ebc94dc-9ba5-4dfd-9ebd-9f9960fd790d][Maryland Dec 2025, what I remember]]
-** backup
-** dermatology, yearly cardio, cardio for drugs
-* [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
-** to write friends
-*** start from lists of them
-*** feel no obligation to write everyone
-*** try to make the lists complete
-**** from when
-**** from where
-**** from what project
-*** ? divide into 'need to write' and 'want to write'
-** [[id:f3cb5d79-0624-4d1b-81fd-e25b6ba64002][New Year's letter 2025 <2025-12-14 Sun>]]
-** [[id:83052ce8-aff2-4c07-b71b-fd6188829bff][reach out to people I know, <2025-12-14 Sun>]]
-** [[id:42bb873a-07b2-481e-aedd-97ed6ceb562c][dating]]
-** ? use exclamation marks immediately when greeting someone, then chill
-** Give a(n online?) seminar about Skg.
-*** [[id:c85b2b5c-3b0d-4a13-b652-de95ac880de7][Ask talk invitees for time preferences.]]
-* when coding
-** If duplication is justified, document it.
-** Analyzing code after it's written: Valid, maybe preventable.
-** Run Claude Code in root mode so it can update itself.
-* ?
+*** to valentina & felipe: prokofiev piano 3
+*** to Cliff: interval-, chord-recognition games
+*** angela r
+ Does she have the half-hearted outreach problem I have?
+** dating
+*** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
+
+** tell more economists : [[id:527b72db-ae85-4d01-90b9-55ed087f8bd8][nonexperimental drug pathway]]
+* TODO ? Export personal-* repos
+  to a private repo with github-navigable links?
+  personal/ already is so exported.
+  If doing this, be careful to distinguish 'publish' from 'export'.
+* information problems, ambitious
+** Did I lose touch with all the girls I've known other places?
+   Not Nicole, Courtney, but mostly yes --
+   the ratio of male friends I've kept in other countries
+   to female ones is staggering.
+   Which suggests I choose men for information relationships
+     (which can be maintained at a distance)
+   and women for physical ones.
+** Probably, some people see phenomena, ala colors, that others don't.
+** [[id:4387519e-a9a5-4f04-898a-8fde955f6395][overwhelm & mysterious unwillingness ::? entangled? why?]]
+* not pressing
+** places to live
+*** Buenos Aires
+*** San Miguel de Allende, Mexico
+*** Cuenca, Ecuador
+** ? DH
+*** to Deb
+Hi Deb! Happy New Year! It's awesome to be your friend and family. I feel irrational for not calling on the phone more because it's always a wonderful information-dense experience. I wish you ... geez I don't know what specifically to wish for.
+*** Happy new year! I want to visit Colorado. What do you think?
+*** The idea of not hearing stories like Deb's is terrifying.
+** Publish on Archive re. hypergraph > rdf.
+*** RDF's difficulties
+**** remember an awkward schema
+**** hopefully, query traversal cost
+**** if RDF-star is implemented via a graph like neo4j
+** My hope is that human nature gets better.
+*** An awakening that reaches the highest levels of power.
+** Can I order a universal knfe sheath for the butcher knife?
+   universal, any size
+** consider changing
+*** Pay more once for clothes that don't disintegrate.
+** Don't drown. Keep a clean desk, inbox, ...
+*** [[id:c0cc501a-7571-49fd-a9ce-f15925a187b5][review whatsapp, email]]
+*** money & organization
+**** [[id:6f28dbdc-e81d-4691-adfc-447ca8c20b85][my financial history]]
+**** Paying Yeni's SS is relevant to my taxes in Colombia.
+**** Keep records of everything I pay Yeni, and everything she works.
+** [[id:cd9b2ff2-52b5-437d-882d-a625c360dd3f][my problems]]
+** social skills
+*** how I want to converse better
+**** command the topic away from boring things
+*** motivations for not reaching out
+**** fear of rejection
+**** paralysis of too much choice
+**** enjoy being along
+*** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
+*** It's important to reveal in time how you feel about it when someone reveals something.
+*** Surrounded By Idiots (book, on reading people)
+** honor
+*** Never shake hands.
+    I have hurt others that way, and I have been hurt that way,
+    and never saw it coming.
+*** to explain to someone what they were to you
+** ? what to do with these
+*** James Bond ~ 60s
+*** "We love our loving. Not like we love our freedom."
+*** "I want to make you feel free."
+*** transition fantasy
+**** One day you bent over from the floating bed where you had just lain to go back to wake, discovered you could not reach the power cable, and the rest was dream.
+**** Dreaming is cool as the time before writing.
+     :PROPERTIES:
+     :ID:       0c0fc211-be63-4f83-a21b-e7b22de28a0b
+     :END:
+*** want to share widely, feels wrong
+**** Death, God, etc. are transition fantasies. Maybe the richest experience is to know each others'. (Mine are strange, I can say that for sure.)
+*** Today <2026-01-10 Sat> I mindmapped, and when finished I felt like it had been engagement with reality, inc. my practical social reality.
+    Throughout the process, I doubted its productivity,
+    but after having done it I feel cautiously hopeful.
+*** Polyanna
+**** Daughter of a poor minister, adopted by a rich relative.
+**** That relative, if I'm right after not paying complete attention, runs an orphanage, employs the entire town, and people are afraid to raise money for a better orphanage without her approval.
 ** bubble sort cleaning algorithm : Don't be efficient.
    Efficient would take more thought.
    Treat it instead as exercise and a time for wandering thoughts.
-* ordinary chores
-** ONGOING [[id:9daa59fc-403c-41ff-96eb-98001199bfed][Learn enough phone numbers to wander without a phone.]]
-   last done <2025-12-01 Mon>
-** [[id:1c6a051f-8e6e-4a2a-acdf-034f6fbe7e28][to buy & difficult to get]]
-** eat that amaranth | buckwheat
-** switch to MuscleTech Mass Gainer
-** [[id:7dd5444a-422f-4a7c-8726-9ddc1d834706][review passwords]]
-** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
-** [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extend tourist visa <2025-10-26 Sun>]]
-** US back-taxes
-*** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
-*** [[id:b3117d41-ea7f-48c2-83c4-86306c690737][taxes, my US]]
-** financial & maybe unfinished
-*** AWAITS I returned it : Skandia (pension) sends a form to fill.
-    https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpKfdqqCSRJqVPdXBLqMGzTTm
-*** AWAITS [[id:6b6e10bf-4052-4cda-a0d5-83a19a8e0f9f][confirm that MinCIT can give me my liquidación]]
-*** [[id:88e518c5-50cb-4b2c-b548-684cd0ec6946][secure healthcare while unemployed]]
-*** AWAITS they should send it : [[id:69ca9daf-3480-46c0-a23a-60cd32bb2507][get cesantias from FNA]]
-*** the authorization PUJ gave me to withdraw from Proteccion
-    https://mail.google.com/mail/u/0/#inbox/QgrcJHrtvWmlzGtPgpNWJCgGNmFVKLRcWmg
-*** I got two big payments from FNA
-    https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgcNBZkXBgtcBtnrsFSvvtpdC
-    one for over 10M COP, the other over 3M COP
-    only <2025-07-31 Thu>
-*** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
-*** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
-* posessions
-** My Visa PP is not on my phone.
-   Just the debit card.
-   I might have to scan the card (which is at Ellen's place).
-** [[id:f5d81cd6-dcc9-414b-bf9b-2c7f4ca1cd29][my data]]
-*** [[id:6ad58f06-516b-43d3-89c2-81b56b63152f][digital security \ jbb]]
-*** [[id:69807ba4-a84e-4579-8932-6bd930b62a86][Am I backing up Whatsapp?]]
-** buy
-*** [[id:8a4327f8-1d29-4784-88ec-eb1fe58fb561][Amazon]]
-** budget
-*** cancel Tinder?
-** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][my money]]
-*** reinvest dividends
-** [[id:2d0f9b52-8cbb-404d-9b69-b931dce4c198][sell the Paulo VI apartment]]
-*** [[id:f4f9a984-31e2-4bad-9442-b65ecd800fce][Paulo VI condo]]
-* not pressing
+** [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
+*** to write friends
+**** start from lists of them
+**** feel no obligation to write everyone
+**** try to make the lists complete
+***** from when
+***** from where
+***** from what project
+**** ? divide into 'need to write' and 'want to write'
+*** [[id:f3cb5d79-0624-4d1b-81fd-e25b6ba64002][New Year's letter 2025 <2025-12-14 Sun>]]
+*** [[id:83052ce8-aff2-4c07-b71b-fd6188829bff][reach out to people I know, <2025-12-14 Sun>]]
+*** [[id:42bb873a-07b2-481e-aedd-97ed6ceb562c][dating]]
+*** ? use exclamation marks immediately when greeting someone, then chill
+*** Give a(n online?) seminar about Skg.
+**** [[id:c85b2b5c-3b0d-4a13-b652-de95ac880de7][Ask talk invitees for time preferences.]]
+** ordinary chores
+*** ONGOING [[id:9daa59fc-403c-41ff-96eb-98001199bfed][Learn enough phone numbers to wander without a phone.]]
+    last done <2025-12-01 Mon>
+*** [[id:1c6a051f-8e6e-4a2a-acdf-034f6fbe7e28][to buy & difficult to get]]
+*** eat that amaranth | buckwheat
+*** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
+*** [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extend tourist visa <2025-10-26 Sun>]]
+*** US back-taxes
+**** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
+**** [[id:b3117d41-ea7f-48c2-83c4-86306c690737][taxes, my US]]
+*** financial & maybe unfinished
+**** AWAITS I returned it : Skandia (pension) sends a form to fill.
+     https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpKfdqqCSRJqVPdXBLqMGzTTm
+**** AWAITS [[id:6b6e10bf-4052-4cda-a0d5-83a19a8e0f9f][confirm that MinCIT can give me my liquidación]]
+**** [[id:88e518c5-50cb-4b2c-b548-684cd0ec6946][secure healthcare while unemployed]]
+**** AWAITS they should send it : [[id:69ca9daf-3480-46c0-a23a-60cd32bb2507][get cesantias from FNA]]
+**** the authorization PUJ gave me to withdraw from Proteccion
+     https://mail.google.com/mail/u/0/#inbox/QgrcJHrtvWmlzGtPgpNWJCgGNmFVKLRcWmg
+**** I got two big payments from FNA
+     https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgcNBZkXBgtcBtnrsFSvvtpdC
+     one for over 10M COP, the other over 3M COP
+     only <2025-07-31 Thu>
+**** [[id:cccc03e0-c92b-4f5e-8c24-b3d2258c2394][get pensiones voluntarias from Protección]]
+**** [[id:894fd432-952b-46f6-9fa3-ad41c881dd7c][Skandia : Ask for an actualización de datos a pasaporte.]]
+** posessions
+*** My Visa PP is not on my phone.
+    Just the debit card.
+    I might have to scan the card (which is at Ellen's place).
+*** [[id:f5d81cd6-dcc9-414b-bf9b-2c7f4ca1cd29][my data]]
+**** [[id:6ad58f06-516b-43d3-89c2-81b56b63152f][digital security \ jbb]]
+**** [[id:69807ba4-a84e-4579-8932-6bd930b62a86][Am I backing up Whatsapp?]]
+*** buy
+**** [[id:8a4327f8-1d29-4784-88ec-eb1fe58fb561][Amazon]]
+*** budget
+**** cancel Tinder?
+*** [[id:6cc406fa-3f78-48e3-8eea-2d18cc20b6bf][my money]]
+**** reinvest dividends
+*** [[id:2d0f9b52-8cbb-404d-9b69-b931dce4c198][sell the Paulo VI apartment]]
+**** [[id:f4f9a984-31e2-4bad-9442-b65ecd800fce][Paulo VI condo]]
 ** [[id:b55d4c6a-6d0f-4848-85ca-0582e7224714][pretty excited \ jobhunt]]
 *** [[id:8b3e4156-fe53-4798-96a5-ce428e30baec][jobhunt]]
 ** u <2025-11-21 Fri>

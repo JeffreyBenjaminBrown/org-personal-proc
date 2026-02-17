@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       c3fd367b-e1b6-41ec-8829-2c7f519647ee
+:END:
+#+title: getting drugs from Sanitas
+* PITFALL: Not all Cruz Verde locations serve Sanitas.
+* nearby Cruz Verde locations that serve Sanitas
+** how to find more
+   On their web page, go to Centros de Atención?,
+   and then select from the menu at the top 'medicamentos',
+   and it's provide a PDF with names, addresses, hours, more.
+** some near Paulo VI
+*** TODO Cruz Verde Calle 54
+    Carrera 13 # 54 – 84 / 86
+    L a V 7:00am 7:00 pm; S 8:00 am 6:00pm
+*** Cruz Verde Calle 40
+    Carrera 13 No. 40b 74 Lc 3
+*** Cruz Verde Salitre
+    Calle 23b # 66 46
+    Edificio De Consultorios Clínica Colombia
+*** Cruz Verde Palermo
+    Carrera 22 # 45 C 44
+*** Cruz Verde Calle 72
+    Calle 71 A # 5 90
+* bring auth number and printed order
+  order is what I had before the auth

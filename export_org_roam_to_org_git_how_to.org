@@ -4,12 +4,24 @@
 #+title: export org-roam to org-git, how to
 # tag export publish
 
+# PITFALL: Do this before defining variables,
+# or they will silently become the empty string.
+ssh-agent bash
+ssh-add
+
+# The only text files used in this script.
+THESE_FOLDER_NAMES=these-folder-names.txt
+THESE_FOLDER_NAMES_AND_URLS=these-folder-names-and-urls.txt
+
 # CAREFUL: Run this separately and verify,
-# to be sure I don't delete the original data.
+# to be sure I don't delete the original data:
+# This should be "github-exported" (better to say "published") data.
 cd /home/jeff/ugh/une/github-exported-org-roam
 
-# Verify that the local repos have little history
-for f in $(cat github-navigable-repo-folder-names.txt); do
+# Verify what THESE_FOLDER_NAMES is:
+# local repos with little history,
+# maybe not even associated with Github repos.
+for f in $(cat $THESE_FOLDER_NAMES); do
   echo ""
   echo $f
   cd $f
@@ -17,31 +29,36 @@ for f in $(cat github-navigable-repo-folder-names.txt); do
   cd ..
 done
 
-# CAREFUL: OBLITERATES local repos.
-for f in $(cat github-navigable-repo-folder-names.txt); do
+# OBLITERATE those local repos.
+for f in $(cat $THESE_FOLDER_NAMES); do
   rm $f -rf
 done
 
-# This seemed to work executed one paragraph at a time,
-# but not if dumped all at once.
+# Rebuild them.
 cd /home/jeff/code/org-roam-to-org-git
 cabal run
 
+# wart
 cd /home/jeff/ugh/une/github-exported-org-roam
 cp ~/org-roam/public/README.md ./public/
 
-# CAREFUL: OBLITERATES prior data on remote repos.
-while read -r FOLDER REMOTE; do
-  cd $FOLDER
+# Verify the repos in THESE_FOLDER_NAMES_AND_URLS are safe to wipe:
+# The URLs are all remotes that match 'github.navigable'.
+rg -e 'github.navigable' $THESE_FOLDER_NAMES_AND_URLS -C 1000
+  # -C 1000 is a hacky way to guarantee the whole file is visible.
+
+# OBLITERATE prior data on remote repos.
+while read -r folder remote; do
+  cd $folder
   git init
   git add '*.org' # This recurses into subfolders.
   git add '*.md'  # This recurses into subfolders.
   git commit -m "everything"
-  git remote add origin $REMOTE
+  git remote add origin $remote
   git push -f --set-upstream origin main
   git branch -M main
   cd ..
-done < github-navigable-repos-with-urls.txt
+done < $THESE_FOLDER_NAMES_AND_URLS
 
 # Verify that none of my .org-formatted data was affected.
 # (If pushing fails something is wrong.)
@@ -54,7 +71,7 @@ cd ~/org-roam
 # and then git was unable to find the path.
 
 # try visiting a new or modified file online
-https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/main/
+https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/main/artificial_intelligence.org
 
 # fix a few broken links
 find . -name "*.org" -print0 | xargs -0 grep -i "broken link?]]" --color

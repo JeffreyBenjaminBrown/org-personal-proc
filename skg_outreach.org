@@ -2,6 +2,8 @@
 :ID:       b1c2091b-7441-4459-b49e-fac3fe1ed918
 :END:
 #+title: skg outreach
+Some of this might be embarrassing.
+* [[id:c1217748-4e62-4dc0-a702-f9cc9c1c7c41][evangelism for skg by demographic]]
 * u
 ** blurb
 *** Skg is for knowledge. It lets you collect, organize, navigate (read), share and integrate knowledge across people. It expects user to colect knowledge; without that it is no use.

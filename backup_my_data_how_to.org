@@ -30,11 +30,6 @@ serial
 *** movies to external disk
 ** check native home folder's size
    serial, with backtracking
-*** AWAITS ?? NEW ?? use this script for backups
-    bin/du-home-for-borg.py
-**** needs a nix shell
-**** needs to remove the writing of timestamps
-     otherwise git diff won't work
 *** du-home-for-borg.sh
     this writes the file [[id:ca2dfd85-b9eb-4d22-b56d-b522856e536f][memory used in home folder]]
 *** see the diff in org-mode
@@ -54,9 +49,9 @@ serial
    serial, with backtracking
 *** df -h .
 *** If free space is low, [[id:d014e570-e8da-4661-8111-01d19947e2b2][clean Nixos]], [[id:d623ee48-2989-4802-82f9-3d51ddf45c19][clean Docker]], record date
-    last done <2025-12-21 Sun>
+    last done <2026-02-15 Sun>
 *** Record amount of free space here
-    122 GB
+    149 GB
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.
@@ -192,7 +187,7 @@ serial
      "/home/jeff/Documents/REAPER Media" \
      "/run/media/jeff/ext_hdd.9g.tshb/mirror-of-ssd"
 ** record date last done
-   <2026-01-16 Fri>
+   <2026-02-11 Wed>
 * do at home, backup tasks to
   :PROPERTIES:
   :ID:       d363ab0d-b8bf-40b3-8890-a611a45fd7f3
