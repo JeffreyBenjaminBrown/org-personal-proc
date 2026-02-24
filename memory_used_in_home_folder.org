@@ -2,19 +2,19 @@
 :ID:       ca2dfd85-b9eb-4d22-b56d-b522856e536f
 :END:
 #+title: memory used in home folder
-49532180K	/home/jeff
+48848596K	/home/jeff
 25318404K	/home/jeff/s
 24818172K	/home/jeff/s/_off
 24751072K	/home/jeff/s/_off/jobs
 23445436K	/home/jeff/s/_off/jobs/of
 7460956K	/home/jeff/s/_off/jobs/of/tax.co
 7449040K	/home/jeff/s/_off/jobs/of/tax.co/online
-7077360K	/home/jeff/Pictures
+7077472K	/home/jeff/Pictures
 7035804K	/home/jeff/Pictures/selected-from-phone
 6730104K	/home/jeff/s/_off/jobs/of/cities
 6521024K	/home/jeff/s/_off/jobs/of/_old
-4909024K	/home/jeff/.local
-4909020K	/home/jeff/.local/share
+4912036K	/home/jeff/.local
+4912032K	/home/jeff/.local/share
 4765268K	/home/jeff/s/_off/jobs/of/tax.co/online/data
 4237008K	/home/jeff/Pictures/selected-from-phone/u2
 4064496K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017
@@ -22,11 +22,11 @@
 3958552K	/home/jeff/s/_off/jobs/of/_old/eitc
 3942440K	/home/jeff/s/_off/jobs/of/_old/eitc/data
 3767100K	/home/jeff/s/_off/jobs/of/_old/eitc/data/all-years
-3656276K	/home/jeff/Music
+3734592K	/home/jeff/Music
 3357812K	/home/jeff/s/_off/jobs/of/_old/eitc/data/all-years/workdata.dta
 2785108K	/home/jeff/s/_off/jobs/of/cities/data
 2613124K	/home/jeff/Music/Jeff Brown
-2173732K	/home/jeff/hodal
+2173804K	/home/jeff/hodal
 2096528K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped
 1904684K	/home/jeff/hodal/smsn-find
 1903872K	/home/jeff/hodal/smsn-find/archives
@@ -40,17 +40,17 @@
 1363880K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-04-24
 1354212K	/home/jeff/hodal/smsn-find/archives/vcs.from-borg.2024-01-10.hp17
 1295880K	/home/jeff/s/_off/jobs/of/tax.co/online/output
-1284084K	/home/jeff/code
+1295600K	/home/jeff/.config
+1284128K	/home/jeff/code
 1263968K	/home/jeff/Pictures/selected-from-phone/u3
-1257824K	/home/jeff/.config
 1235476K	/home/jeff/Pictures/selected-from-phone/u2/villavicencio, abby opens presents with family.mp4
 1234808K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center
 1221324K	/home/jeff/s/_off/jobs/of/tax.co/online/users
 1221256K	/home/jeff/s/_off/jobs/of/tax.co/online/users/ue7e14cdcfbc59bba291688ae9cf039d6
 1221020K	/home/jeff/s/_off/jobs/of/tax.co/online/users/ue7e14cdcfbc59bba291688ae9cf039d6/data
 1221016K	/home/jeff/s/_off/jobs/of/tax.co/online/users/ue7e14cdcfbc59bba291688ae9cf039d6/data/recip-1
-1167364K	/home/jeff/ugh
-1167360K	/home/jeff/ugh/enc
+1188276K	/home/jeff/ugh
+1188272K	/home/jeff/ugh/enc
 1166884K	/home/jeff/s/_off/jobs/of/tax.co/online/output/recip-1
 1154124K	/home/jeff/s/_off/jobs/dian
 1122248K	/home/jeff/s/_off/jobs/dian/work
@@ -64,11 +64,10 @@
 984400K	/home/jeff/s/_off/jobs/dian/work/_DONE/hunting-horses
 968972K	/home/jeff/s/_off/jobs/of/_old/colombia-from-los-angeles/data
 923184K	/home/jeff/s/_off/jobs/dian/work/_DONE/hunting-horses/data
-875236K	/home/jeff/.config/google-chrome
+912848K	/home/jeff/.config/google-chrome
 849816K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/recip-1
 845168K	/home/jeff/.local/share/SuperCollider
 842132K	/home/jeff/.local/share/SuperCollider/downloaded-quarks
-828064K	/home/jeff/Downloads
 817604K	/home/jeff/Music/Jeff Brown/Unknown Album
 774172K	/home/jeff/s/_off/jobs/of/pensions/data/geih/original-zips
 770780K	/home/jeff/s/_off/jobs/of/tax.co/online/users/ue7e14cdcfbc59bba291688ae9cf039d6/data/recip-1/purchases_2_vat.detail.csv
@@ -87,7 +86,6 @@
 661556K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center/taxdata
 653632K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped/sav
 637296K	/home/jeff/code/music/Tidal
-627100K	/home/jeff/Downloads/2023-12-20.hp17.downloads
 572784K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center/Tax-Calculator
 564348K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enig-2007/orig-txt
 549656K	/home/jeff/hodal/smsn-find/archives/git_jbb.from-borg.2023-12-20.hp17
@@ -120,7 +118,6 @@
 380168K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-05-25
 380012K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-05-25/2019
 371228K	/home/jeff/Music/Jeff Brown/Unknown Album/2014 07 09 to 12 07 keys, to add guit.wav
-365480K	/home/jeff/Downloads/2023-12-20.hp17.downloads/2022-09-03-and-before
 360780K	/home/jeff/Music/Jeff Brown/2024
 354028K	/home/jeff/Pictures/selected-from-phone/Whatsapp-images
 352052K	/home/jeff/s/_off/jobs/of/cities/data/2023/sisfut/orig-xlsx
@@ -166,6 +163,7 @@
 229616K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-04-24/pivots
 224496K	/home/jeff/s/_off/jobs/of/_old/comp-aei
 219416K	/home/jeff/ugh/enc/ZnNBhRbFq8RTeHhju9IsFsrUjXSYd6H6ObEhDx3OFkFhp0/N7Znt4cLcCyk6k,XYXf5Gqcd/u3jkPia4JGGjZsrIZt-69SOR/iJ6Tr6USxRmBTMTAGDBPxrERzHNBLJlB2S9HsGw07VilB1
+214484K	/home/jeff/Music/Wendy-Carlos
 209912K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped/ssv/Gastos_diarios_Urbanos.ssv
 208100K	/home/jeff/s/_off/jobs/of/video
 207140K	/home/jeff/Music/Jeff Brown/2022/2022-08-20,loop-jam_session.wav
@@ -233,7 +231,7 @@
 138932K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/recip-1/Caracteristicas_generales_personas.csv
 138092K	/home/jeff/Pictures/selected-from-phone/u/santa marta, tour of windy apartment with sandy on balcony.mp4
 137832K	/home/jeff/s/_off/jobs/of/tax.co/online/users/ue7e14cdcfbc59bba291688ae9cf039d6/data/recip-1/people_4_earners_post_households.detail.2019.csv
-136168K	/home/jeff/Music/Wendy Carlos, Beauty In The Beast
+136168K	/home/jeff/Music/Wendy-Carlos/Beauty-in-the-Beast
 134788K	/home/jeff/s/_off/jobs/of/unir-salarios/data
 134728K	/home/jeff/s/_off/jobs/of/unir-salarios/data/input
 133916K	/home/jeff/s/_off/jobs/of/unir-salarios/data/input/agency_responses
@@ -254,7 +252,6 @@
 112980K	/home/jeff/Music/Jeff Brown/2024/accretions.2024-03-16.58-edo
 112900K	/home/jeff/many-small/manuals
 112600K	/home/jeff/ugh/enc/BjRIAeE2pi6quIwcsmvWvHLi/P5w4Q1shipN-RgNhkDLoXV8L/VgqRzkbyD6UC2Xw9YMGWa4Fo/0L2,TptExxlqSgDu7YuLBrXUzAT0PivvmDaNIRhobvKeF1
-112600K	/home/jeff/Downloads/2023-12-20.hp17.downloads/Telegram Desktop
 112520K	/home/jeff/Music/Jeff Brown/2024/accretions.2024-03-16.58-edo/2024-03-16.58-edo.accretions.wav
 110700K	/home/jeff/s/_off/jobs/of/contract-transparency---copia/trainedmodels
 109220K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enig-2007/enig-2007.orig-txt.tgz
@@ -291,8 +288,8 @@
 91248K	/home/jeff/Music/Jeff Brown/2023/46-edo, 2023 01 16, ringy semitonal
 91240K	/home/jeff/Music/Jeff Brown/2023/46-edo, 2023 01 16, ringy semitonal/46-edo 001, 2023 01 16.wav
 90724K	/home/jeff/Music/tUnE-yArDs/BiRd-BrAiNs
-89740K	/home/jeff/Downloads/2023-12-20.hp17.downloads/2022-09-03-and-before/Telegram Desktop
 89616K	/home/jeff/Music/tUnE-yArDs/Nikki Nack
+89272K	/home/jeff/org-roam
 87428K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped/sav/Caracteristicas_generales_personas.sav
 87420K	/home/jeff/Music/Jeff Brown/2018
 87416K	/home/jeff/Music/Jeff Brown/2018/loping-triads.wav
@@ -301,7 +298,6 @@
 85588K	/home/jeff/s/_off/jobs/of/pensions/output/2022-03-onward.csv
 85488K	/home/jeff/code/agora/agora
 85288K	/home/jeff/s/_off/jobs/of/cities/output/2019/budget_0_collect/funcionamiento.csv
-85252K	/home/jeff/org-roam
 85240K	/home/jeff/s/_off/jobs/of/pensions/data/geih/original-zips/2022-03.zip
 84852K	/home/jeff/s/_off/jobs/of/tax.co/online/output/recip-1/people_1.csv
 84540K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped/dta/Gastos_menos_frecuentes_-_Articulos.dta
@@ -317,14 +313,13 @@
 79024K	/home/jeff/s/_off/jobs/dian/work/InspeccionSYGA/data_xgboost_010121_al_100224.zip
 78560K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped/dta/Gastos_personales_Urbano_-_Comidas_preparadas_fuera_del_hogar.dta
 78556K	/home/jeff/s/_off/jobs/of/cities/output/2023/budget_1/funcionamiento.csv
+78312K	/home/jeff/Music/Wendy-Carlos/Tales-of-Heaven-and-Hell
 78284K	/home/jeff/s/_off/jobs/of/cities/output/2023/budget_0_collect/funcionamiento.csv
 77992K	/home/jeff/Music/Liebermann, Lowell/Piano Works Vol.2
 77784K	/home/jeff/many-small/to-read/thinking-with-types/repo-by-sandy/cover-template.xcf
-77448K	/home/jeff/Downloads/SECOP_II_-_Procesos_-_202207.csv
 77352K	/home/jeff/hodal/smsn-find/archives/vcs.from-borg.2024-01-10.hp17/public/.git/objects/pack
 77340K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/3_csv/Gastos_diarios_Urbano_-_Capitulo_C.csv
 77092K	/home/jeff/s/_off/jobs/of/cities/output/2019/budget_0_collect/ingresos.csv
-77052K	/home/jeff/Downloads/2023-12-20.hp17.downloads/2022-09-03-and-before/buried-2019-12-14
 76720K	/home/jeff/code/agora/agora/.git
 76656K	/home/jeff/s/_off/jobs/of/pensions/data/geih/original-zips/2022-02.zip
 76524K	/home/jeff/code/agora/agora/.git/objects
@@ -358,10 +353,10 @@
 69160K	/home/jeff/s/_off/jobs/of/cities/output/2023/pivots
 69160K	/home/jeff/s/_off/jobs/of/cities/output/2019/pivots
 67628K	/home/jeff/s/_off/jobs/of/_old/comp-aei/matchups/data/statcast.parquet
-66824K	/home/jeff/Downloads/Telegram Desktop
 66676K	/home/jeff/s/_off/jobs/of/cities/output/2019/budget_1/inversion.csv
 66676K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-05-25/2019/budget_1/inversion.csv
 66676K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-04-24/budget_1/inversion.csv
+65716K	/home/jeff/org-roam/public
 65712K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-02
 65660K	/home/jeff/Music/Jeff Brown/2024/to-love-so-many-islands.2024-09-01.46-edo
 65184K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-01
@@ -376,6 +371,8 @@
 64196K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-04-24/budget_0_collect/inversion.csv
 64120K	/home/jeff/s/_off/jobs/of/_old/colombia-from-los-angeles/data/in-file-refactored/land.csv
 63884K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-06
+63748K	/home/jeff/.local/share/TelegramDesktop
+63700K	/home/jeff/.local/share/TelegramDesktop/tdata
 63500K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-05
 63408K	/home/jeff/s/_off/jobs/of/cities/data/2019/sisfut/csv/2018_inversion.csv
 63360K	/home/jeff/s/_off/jobs/of/_old/colombia-from-los-angeles/data/original-dta/education.dta
@@ -385,4 +382,7 @@
 62144K	/home/jeff/s/_off/jobs/of/cities/data/2023/sisfut/csv/2018_inversion.csv
 62120K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-07
 61988K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-09
-61888K	/home/jeff/org-roam/public
+61864K	/home/jeff/Pictures/selected-from-phone/u/VID_20200911_120837.mp4
+61800K	/home/jeff/Pictures/selected-from-phone/u2/san andres, coral beach.mp4
+61732K	/home/jeff/s/_off/jobs/of/cities/data/2023/sisfut/csv/2020_inversion.csv
+61724K	/home/jeff/s/_off/jobs/of/cities/data/2023/sisfut/csv/2019_inversion.csv
