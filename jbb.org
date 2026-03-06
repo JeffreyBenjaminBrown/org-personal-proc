@@ -3,18 +3,6 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
-* move Skg README and TODO to org-roam
-  merge with skg, skg outreach, ...
-  This way they can link to each other.
-* ONGOING skg publish
-  in order of execution
-** commit skg in kg
-** publish kg
-** to twitter?
-   God the hands-off pedophile, keeping humans ignorant just to watch.
-
-   Haha jk, obviously there's no god. But we should be similarly outraged, because we are dumb. We could radically improve by sharing knowledge graphs.
-* ONGOING [[id:7106e40c-3ec9-4439-9934-aff1b60f384a][Ilya in Colombia]]
 * TODO soon
 ** schedule [[id:7ca3f35d-d859-4577-9403-ac45ef76b5ba][cardio tests <2026-02-12 Thu>]]
    for after moving
@@ -116,9 +104,8 @@
 *** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
 
 ** tell more economists : [[id:527b72db-ae85-4d01-90b9-55ed087f8bd8][nonexperimental drug pathway]]
-* TODO ? Export personal-* repos
-  to a private repo with github-navigable links?
-  personal/ already is so exported.
+* TODO ? Export personal-* repos to private, github-navigable?
+  personal/ is already so exported.
   If doing this, be careful to distinguish 'publish' from 'export'.
 * information problems, ambitious
 ** Did I lose touch with all the girls I've known other places?
