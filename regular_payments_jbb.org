@@ -4,7 +4,27 @@
 :END:
 #+title: regular payments \ jbb
 * history
-** 2026 Feb
+** 2026 March
+   roughly in order of appearance
+*** DONE 26.5k to Cris for Yeni - can pay before the month starts
+*** DONE Tigo - can pay on 5
+*** DONE already paid ? Paulo VI admin fee
+**** <2026-03-10 Tue> it shows 'Esta factura se encuentra Pagada.'
+**** months earlier, couldn't pay Feb 7, could Feb 9
+*** DONE Sanitas vi MiPlanilla - due the 15th, should probably pay earlier
+    but I got away with paying "10 days late",
+    on the 25th, the first time
+*** DONE Claro hogar - couldn't pay Feb 7, could Sept 9
+*** DONE site broken ? Aportes en Linea (for Yeni) - pay before 15?
+*** DONE Acueducto (bimonth) - n/a this month
+*** DONE site broken ? Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
+    was broken <2026-03-18 Wed> and <2026-03-19 Thu>
+*** DONE Vanti - Can pay on 18, not on 15.
+*** TODO M3 storage ?? started Feb 23
+*** Oikos Storage - receipt came Dec 27; pay *before* the 5th
+*** Colsanitas - Can't pay on day 26, can sometimes on 27 but Dec 2025 couldn't, fecha límite 10
+*** mortgage
+** DONE 2026 Feb
    roughly in order of appearance
 *** DONE 26.5k to Cris for Yeni - can pay before the month starts
 *** DONE Tigo - can pay on 5
@@ -15,11 +35,12 @@
 *** DONE Claro hogar - couldn't pay Feb 7, could Sept 9
 *** DONE Aportes en Linea (for Yeni) - pay before 15?
 *** DONE Acueducto (bimonth) - issued on 4th? can pay on 15th, shutoff 24th.
-*** Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
-*** Vanti - Can pay on 18, not on 15.
-*** Oikos Storage - receipt came Dec 27; pay *before* the 5th
-*** Colsanitas - Can't pay on day 26, can sometimes on 27 but Dec 2025 couldn't, fecha límite 10
-*** mortgage
+*** DONE Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
+*** DONE Vanti - Can pay on 18, not on 15.
+*** DONE Colsanitas - Can't pay on day 26, can sometimes on 27 but Dec 2025 couldn't, fecha límite 10
+*** DONE discount what Sandy owes, 239k, from mortgage
+**** [[id:fb123744-e1a3-4d40-bb04-4358b449f348][Sandy owes me half of 478k]]
+**** [[id:55dc7867-1eba-4e56-81ff-6c29074a5fac][llave 3114654851]]
 ** DONE 2026 Jan
    roughly in order of appearance
 *** 26.5k to Cris for Yeni - can pay before the month starts
@@ -354,6 +375,6 @@
 ** Acueducto (bimonth) - issued on 4th? can pay on 15th, shutoff 24th.
 ** Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
 ** Vanti - Can pay on 18, not on 15.
-** Oikos Storage - receipt came Dec 27; pay *before* the 5th
+** TODO M3 storage ?? started Feb 23
 ** Colsanitas - Can't pay on day 26, can sometimes on 27 but Dec 2025 couldn't, fecha límite 10
 ** mortgage

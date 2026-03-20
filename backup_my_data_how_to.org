@@ -4,8 +4,8 @@
 #+title: backup my data, how to
 serial
   (Some other orders are good too.)
-* TODO [[id:2e44ac14-b823-44ee-849a-033b574ee38b][asking about changing passphrase in Borg]]
-* TODO ? process improvements
+* AWAITS [[id:2e44ac14-b823-44ee-849a-033b574ee38b][asking about changing passphrase in Borg]]
+* AWAITS ? process improvements
 ** use AWS -- it's cheap and slick
    $1/month for the data (50 GB) I need to keep,
    with a CLI and automatic sync for Linux.
@@ -20,7 +20,7 @@ serial
    and don't view non-backup files in that Emacs instance.
 ** the likely way to screw it up
    View the USB drive in an obscure tmux window.
-* TODO borg pwd compromised to rclone again
+* AWAITS borg pwd compromised to rclone again
   Make a new borg backup.
   Keep the old one -- there's plenty of room.
 * DONE check disk usage
@@ -28,6 +28,7 @@ serial
 ** move big things
 *** new DALL-E images to /home/images/u
 *** movies to external disk
+** [[id:e1eda15a-df86-4050-b150-e8034ae49019][rebuild NixOS]]
 ** check native home folder's size
    serial, with backtracking
 *** du-home-for-borg.sh
@@ -51,22 +52,22 @@ serial
 *** If free space is low, [[id:d014e570-e8da-4661-8111-01d19947e2b2][clean Nixos]], [[id:d623ee48-2989-4802-82f9-3d51ddf45c19][clean Docker]], record date
     last done <2026-02-15 Sun>
 *** Record amount of free space here
-    149 GB
+    134 GB
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.
 * ONGOING clean (the hard part)
-** DONE view, delete recent photos on phone
+** view, delete recent photos on phone
    Most recently done:
    <2026-02-10 Tue>, read and deleted back to Halloween 2025.
    <2025-01-20 Mon> was the last time recorded before then.
-** AWAITS review whatsapp, email
+** review whatsapp, email
    :PROPERTIES:
    :ID:       c0cc501a-7571-49fd-a9ce-f15925a187b5
    :END:
    on (maybe <2025-11-11 Tue>)
    I read chat titles backward to 10/29 (not inclusive)
-** DONE read spam
+** read spam
    inc. Outlook, Mintranet
 ** AWAITS Listing It
    :PROPERTIES:
@@ -74,15 +75,16 @@ serial
    :END:
 *** transfer from Listing It
 *** delete from Listing It
-** AWAITS review, clean home folder
+** review, clean home folder
    inc. work computer
 ** receipts - read, maybe transfer
 ** CAREFUL What's public? - git cycle org-roam
    last done <2022-12-13 Tue>
 *** PITFALL: Ensure all new files are appropriately linked to.
 ** git push org-roam
-** TODO [[id:b69aad4a-1006-4415-9e1f-b0af93ff699e][modify export to keep no history]]
+** AWAITS [[id:b69aad4a-1006-4415-9e1f-b0af93ff699e][modify export to keep no history]]
 ** [[id:b8f52fdd-93b8-49f1-88ca-0a7c065e30bb][export org-roam to org-git, how to]]
+   tag publish
 ** git cycle (inc push) ~/ugh/une/text-in-git
    open "pwds" in Emacs,
    run `M-x mag-stat`
@@ -97,7 +99,7 @@ serial
 ** <Toshiba>/borg-repo-hdd/
    The source of truth for this is <Toshiba>/borg-repo-hdd.
    I rclone it to Google Drive.
-* TODO ? strip these from borg backups
+* AWAITS ? strip these from borg backups
 ** ~/Downloads/I.zip and ~/Downloads/II.zip
    Those are Don Quixote.
 ** things that were excluded badly
@@ -206,3 +208,5 @@ serial
 * remove DONE and BLK_DATE from this file
   The TODOs here don't often change.
 * magit this file
+* DONE ? could restore ~/Downloads
+  accidentally deleted <2026-02-19 Thu>

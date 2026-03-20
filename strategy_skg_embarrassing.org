@@ -2,6 +2,12 @@
 :ID:       da0e89a7-0e9d-41da-8c2d-ec4ab2e37c2b
 :END:
 #+title: skg strategy , embarrassing
+* seminar, ask friends about architecture
+** Seminar
+** Mention recursion schemes
+** Jake, Gary, Elliot
+** Josh's crew
+** Phil
 * unused pitch info
 As a coder: The backend is written in Rust. The good news is that with AI you don't need to be able to write Rust, but you do have to be able to read it.
 
