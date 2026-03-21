@@ -29,13 +29,8 @@
 ** [[id:c0876ad0-ef97-4d92-ba2c-39bc721f2d15][restaurant dangers]]
 ** [[id:601503c7-222c-4885-8981-2cbfa31b9a92][what to remember about goals in conversation]]
 * review when time is equal to 2 mod 4
-** [[id:ef04b320-be97-4d34-95df-89855fed298e][Matcha : What to remember about it?]]
 ** [[id:ade3e6c0-0471-437f-82c0-722751efd240][strategies for creative thinking]]
 ** [[id:af588786-fef3-4b29-9ef9-51d811f5b204][the safest way to walk]] : how? why?
-** How to avoid an org-mode bug?
-*** [[id:cc765da7-818b-4a68-a966-f7c237e0061d][no headlines with both a link and a property bucket]]
-** How to order brushing and flossing?
-   Floss first.
 ** [[id:5a80c62a-c6f2-4bb9-9cd6-a2f3a06374b2][things to mark on my calendar]]
 ** When meeting people?
 *** Remember to remember what I learn.
@@ -47,6 +42,11 @@
 ** when booking flights
    careful about whether times are AM or PM
 * review when time is equal to 4 mod 8
+** [[id:ef04b320-be97-4d34-95df-89855fed298e][Matcha : What to remember about it?]]
+** How to avoid an org-mode bug?
+*** [[id:cc765da7-818b-4a68-a966-f7c237e0061d][no headlines with both a link and a property bucket]]
+** How to order brushing and flossing?
+   Floss first.
 ** [[id:d8ccc0a4-ef6a-4d0e-a392-e1d7da2844c1][good foods to reduce cholesterol]]
 apples, oatmeal, nuts, fish?, brussels sprouts
 ** beware when buying an Audible book

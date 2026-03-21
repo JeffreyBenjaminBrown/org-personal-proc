@@ -23,7 +23,7 @@ serial
 * AWAITS borg pwd compromised to rclone again
   Make a new borg backup.
   Keep the old one -- there's plenty of room.
-* DONE check disk usage
+* check disk usage
   parallel
 ** move big things
 *** new DALL-E images to /home/images/u
@@ -56,7 +56,7 @@ serial
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.
-* ONGOING clean (the hard part)
+* clean (the hard part)
 ** view, delete recent photos on phone
    Most recently done:
    <2026-02-10 Tue>, read and deleted back to Halloween 2025.
@@ -69,7 +69,7 @@ serial
    I read chat titles backward to 10/29 (not inclusive)
 ** read spam
    inc. Outlook, Mintranet
-** AWAITS Listing It
+** Listing It
    :PROPERTIES:
    :ID:       634bf462-cf6a-4394-a09e-f4c973c6a240
    :END:
@@ -138,7 +138,7 @@ serial
    */.venv
 * make backups
   serial
-** TODO [[id:61f661d1-a518-4846-8452-358d17a01508][Clean Reaper data from borg repo.]]
+** AWAITS ? [[id:61f661d1-a518-4846-8452-358d17a01508][Clean Reaper data from borg repo.]]
 ** mount external drive
 ** parallel
 *** find ~/ugh/enc \( -type f -o -type d -o -type l \) ! -type s | zip -@ -0 /run/media/jeff/ext_hdd.9g.tshb/enc,org-hdd.zip
@@ -152,7 +152,7 @@ serial
      since they are backed up only as symlinks,
      not give away what is in `une`.
      (I tested with `borg extract`.)
-**** borg my   SSD into my   SSD
+**** borg my SSD into itself
 ***** first
       borg_ssd=/home/jeff/borg-repo-ssd
       echo I started running \"borg create\" at:
@@ -163,7 +163,7 @@ serial
       echo $(date)
 ***** then verify
       borg list $borg_ssd | tail -n 3
-**** borg my   SSD into my   HDD
+**** borg my SSD into my HDD
 ***** first
       borg_hdd=/run/media/jeff/ext_hdd.9g.tshb/borg-repo-hdd
       echo I started running \"borg create\" at:
@@ -174,7 +174,7 @@ serial
       echo $(date)
 ***** then verify
       borg list "$borg_hdd" | tail -n 3
-*** TODO ? [[id:a723c225-dd11-4039-9224-a2dabc158022][exclude more files]] from borg HDD
+*** AWAITS ? [[id:a723c225-dd11-4039-9224-a2dabc158022][exclude more files]] from borg HDD
     There's no rush, and since `borg recreate` is very dangerous
     (according to the docs online), it would be good to first
     thoroughly test the SSD backup, which I already recreated.
@@ -189,7 +189,7 @@ serial
      "/home/jeff/Documents/REAPER Media" \
      "/run/media/jeff/ext_hdd.9g.tshb/mirror-of-ssd"
 ** record date last done
-   <2026-02-11 Wed>
+   <2026-03-21 Sat>
 * do at home, backup tasks to
   :PROPERTIES:
   :ID:       d363ab0d-b8bf-40b3-8890-a611a45fd7f3

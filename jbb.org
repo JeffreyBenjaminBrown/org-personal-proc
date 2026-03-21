@@ -4,24 +4,9 @@
 :END:
 #+title: doing
 * TODO SOON
-** get visa extension
-** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments]]
-** AWAITS to Juliet
-   I want you to be happy.
-   I want to be close to you.
-   I want to be responsible.
-   So I need to report two things.
-
-   I met another woman at the club on Saturday.
-   She teaches drama, and practices it outside of work in many ways:
-   writer, director, actress. Liberal. Happy, I think.
-   Like you she is kind, gentle and beautiful.
-   We have been talking.
-
-   A friend thinks he can get me a job in San Franciscio
-   by introducing me to people; we will try in late July.
-   It would be tech. If it worked out I could probably fly around a lot.
+* Get visa extension : Can definitely request by March 22, maybe March 21.
 * TODO being alive
+** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments]]
 ** Plan with Sid, Bran, uncles, Josh, Nicole, Phil.
 ** schedule [[id:7ca3f35d-d859-4577-9403-ac45ef76b5ba][cardio followup]]
    for after moving
@@ -120,6 +105,7 @@
 
 *** tell more economists : [[id:527b72db-ae85-4d01-90b9-55ed087f8bd8][nonexperimental drug pathway]]
 * MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]] and [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities]]
+* [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
 * backup data, then dogfood skg again
 * social
 ** ? Do I owe Isabel an explanation.
