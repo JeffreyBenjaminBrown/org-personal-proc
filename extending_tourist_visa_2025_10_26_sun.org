@@ -1,34 +1,88 @@
 :PROPERTIES:
 :ID:       26328ef3-4e21-4b2f-af34-c35ec3ddbab9
 :END:
-#+title: extending tourist visa <2025-10-26 Sun>
+#+title: extending tourist visa
 * refs
-** evidence I did submit it
-   This is for the second, better submission, <2025-11-05 Wed>.
-*** in Gmail
-    https://mail.google.com/mail/u/0/#inbox/FMfcgzQcqbhFmrJJNNVFqrjnFpcXSwxL
-*** shown on-screen after submitting
+** DONE to submit it
+*** guidance
+    https://unidad-administrativa-especial-migracion-colombia.micolombiadigital.gov.co/cedula-de-extranjeria/tramite-de-prorroga-de-permanencia
+*** which in turn links to further guidance
+    https://www.gov.co/ficha-tramites-y-servicios/T1008
+*** which in turn links to the form
+    https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf
+** the docs I used
+~/s/privileges/visa/extend-tourist-visa/
+** email(s) from Migracol about my request
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgKvKNMqNwsDSpwrGNFvpbHfDz
+* to view the state of it
+Enlace: https://apps.migracioncolombia.gov.co/registro/public/solicitudTramite.jsf
+Número de Solicitud: 26032413052465735
+Clave: MjgwNDAyNA==
+* Claude's report: It's all online.
+** References
+*** Capital M Guide
+https://www.capitaleme.com/es/guides/tourism-permit-extension-en-es/
+*** Affirma Legal Guide
+https://www.affirmalegal.com/blog/prorroga-de-permanencia-en-colombia/
+*** Migración Colombia PTP Page
+https://www.migracioncolombia.gov.co/permiso-de-ingreso-y-permanencia-pip/permiso-de-ingreso-y-permanencia-pip
+*** Migración Colombia Extranjería FAQ
+https://www.migracioncolombiac3.gov.co/copia-de-control-migratorio
+*** Expat Group Guide
+https://expatgroup.co/es/blog/visa-de-turista-extiende-tu-sello-de-turismo-y-quedate-en-colombia/
+*** Frontera Guide
+https://estoyenlafrontera.com/regularizacion-migratoria/asi-puedes-solicitar-la-prorroga-de-permanencia-en-colombia
+*** Migración Colombia Official Prórroga Page
+https://unidad-administrativa-especial-migracion-colombia.micolombiadigital.gov.co/cedula-de-extranjeria/tramite-de-prorroga-de-permanencia
+*** Gov.co Trámite Ficha
+https://www.gov.co/ficha-tramites-y-servicios/T1008
+*** Formulario Único de Trámites
+https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf
+** Findings
+
+The process is *entirely virtual*. Here's how it works:
+
+*** Warnings
+**** *Timing matters.*
+Capital M Guide says you must apply within 5 business days before your PIP expires (search: "cinco (5) días hábiles"). Other sources like Expat Group Guide and Frontera Guide recommend 10–15 days before. If you apply late, you risk rejection and a fine.
+**** *Submitting doesn't mean approval.*
+As the Migración Colombia Extranjería FAQ states: "Solicitar un Permiso Temporal de Permanencia (PTP) para Prorrogar Permanencia... no implica su otorgamiento si no cumple con los requisitos establecidos" (search: "no implica su otorgamiento" on Migración Colombia Extranjería FAQ). That said, Expat Group Guide notes these are "generalmente se aprueban" — generally approved.
+
+*** The Process
+
+**** DONE *Step 1: Fill out the form.
+Fill out the Formulario Único de Trámites online, selecting "Permiso Temporal de Permanencia para Prorrogar Permanencia," and submit your documents (passport page, entry stamp, exit ticket).
+**** *Step 2: Wait for the pre-approval email.*
+After you submit, you'll get a confirmation email, and then a separate "pre-approval" email. As the Capital M guide describes: "Después de unas horas, recibirás un correo de 'PRE APROBACIÓN', con un código de Usuario, una contraseña y un enlace para realizar el pago allí" — i.e., you get a user code, password, and payment link. (Search: "PRE APROBACIÓN" on Capital M Guide)
+**** *Step 3: Pay.*
+The fee for 2025 is $143,000 COP (search: "El trámite implica un pago cuyo valor para el 2025 es de $143.000 pesos colombianos" on Affirma Legal Guide). Payment is via PSE, credit card, or bank deposit.
+**** *Step 4: Wait for approval.*
+The official processing time is up to 3 business days from when you pay. However, in practice this varies enormously by office. As Capital M notes: "la oficina de Migración de Medellín tarda aproximadamente 3 semanas para completar el trámite de manera virtual, mientras que las oficinas de Manizales o Pereira, entre 2 y 3 días hábiles" (search: "3 semanas" on Capital M Guide). Since you're in Bogotá, expect somewhere in between.
+**** *Step 5: Receive digital approval by email.*
+As Affirma Legal states: "Al aprobarse la prórroga, Migración Colombia envía el permiso digital por correo electrónico, que debe conservarse para demostrar su estadía regular" (search: "permiso digital por correo electrónico" on Affirma Legal Guide). No physical stamp — the extension is digital.
+*** No Need to Go in Person
+
+Not as long as you authorized email notifications. The Migración Colombia page itself states "Este trámite es totalmente virtual" (search: "totalmente virtual" on Migración Colombia PTP Page). However, Capital M warns: "El ciudadano solicitante debe asegurarse de autorizar las notificaciones sobre el trámite al correo electrónico, de lo contrario lo más probable es que deba continuar con el trámite de manera presencial en las oficinas de Migración Colombia" (search: "autorizar las notificaciones" on Capital M Guide). So if you missed that checkbox, you may need to go in person.
+
+* ONGOING submitted online <2026-03-24 Tue>
 El registro de su trámite finalizó con éxito, su solicitud ha sido radicada con el número único de trámite:
 
 Tipo de trámite
 
 Número generado
-Permiso Temporal de Permanencia para Prorrogar Permanencia	25110509174212965
+Permiso Temporal de Permanencia para Prorrogar Permanencia	26032413052465735
 
-Fecha de registro : 05/11/2025 09:17:37
+Fecha de registro : 24/03/2026 01:05:19
 
 El trámite se realizará en línea. Cualquier novedad será notificada al correo: JEFFBROWN.THE@GMAIL.COM
-** to submit it
-*** guidance
-    https://unidad-administrativa-especial-migracion-colombia.micolombiadigital.gov.co/cedula-de-extranjeria/tramite-de-prorroga-de-permanencia
-*** which links to further guidance
-    https://www.gov.co/ficha-tramites-y-servicios/T1008
-*** which links to the form
-    https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf
-** the docs I used
-   are in ~/extend-tourist-visa/
-* TODO Dec 11 2025 : request visa extension
-  My visa expires Dec 22 -- 90 days after my last entry into Colombia.
+* DONE glue docs
+** glue these
+*** passport main page
+*** passport entry stamp page
+*** MSU FCU, statement of account
+*** Schwab statement
+** ignoring Bancolombia
+Today <2026-03-24 Tue> they only make statements available through Dec!
 * DONE use Christian's deets, not Sandy's
   they ask for address
 * DONE upload this file when it works
