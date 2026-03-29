@@ -3,9 +3,21 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* TODO Tell V & M when
 * ONGOING Lorena's place : bring tape measure
 * ONGOING moving
-** Moderatto: Get those chairs, disassemble the table, ask about putting the couch sideways.
+** TODO buy supplies
+*** post-it notes for movers
+** TODO Write that guy about the chairs so he has time to pick them up.
+*** Lorena sends contact info for a chair guy.
+** TODO URGENT: Guitar to Felipe | Valentina
+** DONE URGENT reputation of storage space
+** TODO HARD $$$ special $$ items | deal with movers
+*** table
+**** Moderatto: Get those chairs, disassemble the table, ask about putting the couch sideways.
+*** chairs
+*** dishwasher, dryer to Lorena
+*** they wrap couch, bed
 ** have snacks, drinks for the movers
 ** tip the movers
 ** "moving blankets"
@@ -15,7 +27,6 @@
 ** plastic wrap over tops of liquid containers
 ** There exists a "tape gun".
 ** be able to label the boxes.
-** Disassemble table.
 ** Twist bicycle handlebars.
 ** try loading the metal shelves
 Can everything delicate fit on them?
@@ -25,18 +36,12 @@ Make packing kitchen easy.
 ** wrap nightstand|dresser in stress wrap
 ** light things in big boxes, heavy in small
 ** strong boxes would pay for themselves if they saved one thing from breaking
-** gifts urgent
-*** ? Valen & Maps : piano
 ** get insurance
 ** confirm with movers day before
 ** check reputation of storage company I chose
 ** find movers
 *** Can I get in-person estimates?
 *** reputation & experience
-** special deal with movers
-*** dishwasher, dryer to Lorena
-*** they wrap couch, bed
-** What does NYT say?
 ** cancel Claro, Enel, Vanti, Acueducto
 ** from phone
 *** ? how to process
@@ -65,8 +70,6 @@ At end of day, move "give away" from closet room to downstairs.
 **** Closet room | in place :: Give away.
 *** How to tell Juan and Rocio about the door.
 Film it. Demonstrate that it is good. Explain that a few times a year I have seen a little water come in through it during a heavy rain. When I saw that -- and maybe I didn't always see it -- I would mop it up with a towel. I was always afraid the water would get under the wood and damage it, but it never did.
-** Write that guy about the chairs so he has time to pick them up.
-*** Lorena sends contact info for a chair guy.
 ** [[id:d5adfeeb-c3f1-4d66-98c7-235e16af4f15][leaving Pablo VI]]
 *** Olio -- app to give stuff
 *** storage

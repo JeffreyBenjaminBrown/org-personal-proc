@@ -13,6 +13,8 @@
 * the last time I reviewed: 27
   (I got to 64 and then reset the count.)
 * review when time is equal to 1 mod 2 (i.e. odd)
+** my big tailoring mistake
+[[id:9d7274c1-97ee-40c8-82ab-f6e9d6ab23c5][how I ruined so many shirts]]
 ** [[id:d9621e2d-c163-42bf-ac8d-9744aaa15ab0][BBVA charges Sandy on the last day of the month.]]
 ** What to remember about [[id:09f43fbe-f95f-4826-a2d4-4e227fa87a11][stair lunges]]?
 ** What is surprisingly helpful when feeling unproductive?

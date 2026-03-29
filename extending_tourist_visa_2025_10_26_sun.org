@@ -3,6 +3,10 @@
 :END:
 #+title: extending tourist visa
 * refs
+** TODO to view the state of it
+Enlace: https://apps.migracioncolombia.gov.co/registro/public/solicitudTramite.jsf
+Número de Solicitud: 26032413052465735
+Clave: MjgwNDAyNA==
 ** DONE to submit it
 *** guidance
     https://unidad-administrativa-especial-migracion-colombia.micolombiadigital.gov.co/cedula-de-extranjeria/tramite-de-prorroga-de-permanencia
@@ -14,10 +18,6 @@
 ~/s/privileges/visa/extend-tourist-visa/
 ** email(s) from Migracol about my request
 https://mail.google.com/mail/u/0/#inbox/FMfcgzQgKvKNMqNwsDSpwrGNFvpbHfDz
-* to view the state of it
-Enlace: https://apps.migracioncolombia.gov.co/registro/public/solicitudTramite.jsf
-Número de Solicitud: 26032413052465735
-Clave: MjgwNDAyNA==
 * Claude's report: It's all online.
 ** References
 *** Capital M Guide
