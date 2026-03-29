@@ -3,8 +3,6 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
-* TODO Tell V & M when
-* ONGOING Lorena's place : bring tape measure
 * ONGOING moving
 ** TODO buy supplies
 *** post-it notes for movers

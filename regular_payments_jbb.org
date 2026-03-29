@@ -20,10 +20,9 @@
 *** DONE site broken ? Enel - Can pay on 18, not on 15.  Shutoff 28, oportuno 24.
     was broken <2026-03-18 Wed> and <2026-03-19 Thu>
 *** DONE Vanti - Can pay on 18, not on 15.
-*** TODO M3 storage ?? started Feb 23
-*** Oikos Storage - receipt came Dec 27; pay *before* the 5th
+*** DONE M3 storage : started Feb 23
+*** ONGOING mortgage
 *** Colsanitas - Can't pay on day 26, can sometimes on 27 but Dec 2025 couldn't, fecha límite 10
-*** mortgage
 ** DONE 2026 Feb
    roughly in order of appearance
 *** DONE 26.5k to Cris for Yeni - can pay before the month starts
