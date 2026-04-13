@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       5f341cdf-06bc-48d1-a58d-49fb307e7dbd
+:END:
+#+title: storage in Bogotá, 2026-03-30
+* M3 Storage : renting as of <2026-02-23 Mon>
+:PROPERTIES:
+:ID:       c0492977-7dd6-4a4e-b81e-176ff4cd24a9
+:END:
+57 321 7812754
+** the space I rented
+tag address
+
+Calle 20 #68C-65
+Número 5
+Horarios de acceso: 24/7
+** prices are highly nonlinear
+*** 368.796 / mo, 7 m^2, Montevideo
+      https://m3storage.co//bodega/10315-10315
+*** 352k / mo, 5.3 m^2, Montevideo
+ https://m3storage.co//bodega/10337-10337
+* Oikos : good but expensive
+** [[id:7b704491-5e14-452a-a5b7-d6a16412dd42][storage with Oikos <2025-11-26>]]
+* DONE searching for storage
+** AWAITS their turn : Storage Bogotaá
+      https://www.storagebogota.com/
+** DONE too expensive : Bodegas America
+** DONE too expensive : UStorage

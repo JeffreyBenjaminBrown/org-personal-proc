@@ -1,32 +1,120 @@
 :PROPERTIES:
 :ID:       a980ac09-af99-412f-ae7a-2ba4def3f966
 :END:
-#+title: finding movers in Bogotá, 2022-09-12
-* message to them
-Buenos días,
+#+title: movers in Bogotá
+* ONGOING CHOSEN Central de Trasteos : 1.2M, all included
+:PROPERTIES:
+:ID:       3493be2b-2f41-4b12-8d1a-6a4182c2e189
+:END:
+** 310 3087283
+** everything included
+** DONE Claude's report
+- 65 years
+- Website: https://centraldetrasteos.com/
+- One of the oldest moving companies in Bogotá and Colombia.
+* ? might send something similar again
+** my initial message
+Buenas tardes,
 
-Queremos conseguir un servicio de empaque y trasteo para el miercoles a primera hora. Vamos de un apartamento en el conjunto Paulo VI en Bogotá hacia otro apartamento en el mismo conjunto. (Es un conjunto grande; tal vez hay un kilometro entre los dos lugares.)
+Busco un servicio para mañana para almacenar mis cosas. Vivo (hasta mañana) en el conjunto Pablo VI de Bogotá, y tengo un espacio arrendado en Montevideo (Bogotá) de 7 metros cuadrados. Las cosas grandes son:
 
-Este apartamento mide aproximadamente 90 metros cuadrados. Adjunto fótos. Las cosas grandes incluyen:
+- lavadora
+- secadora
+- refri
+- bici
+- un pequeño armario
+- cama king
+- una lámpara alta
+- unos bafles
+- dos sillas
 
-1 cama king
-1 cama twin
-1 lavadora y 1 secadora
-1 mesa de cocina para seis
-1 escritorio (sin cajones)
-10 sillas
-1 bicicleta
-2 guitarras
-2 teclados
-Algunos muebles pequeños
+Aparte de las cosas grandes hay varias cosas pequeñas para empacar. Quiero comprar no solamente la mudanza sino también que me empaquen las cosas, incluyendo la provisión de cajas (no tengo cajas, o pues no tengo suficientes) y forrar la cama, la mesa y la bici.
 
-No hemos empacado nada; quisieramos que ustedes hagan todo eso.
-
-Lo pueden hacer? A que hora? Para cuanto dinero?
+Las direcciones exactas son:
+- origen: Calle 58a #52a-32 Bloque D10 Apt 101, Bogotá
+- destino: Calle 20 #68C-65, Bogotá
 
 Muchas gracias,
 Jeff
-* asked these people
+** followup questions
+Las cobijas para forrar la mesa y los otros muebles -- son para guardar (es decir, me quedo con ellas) o son solamente para mover las cosas?
+
+Y pueden ustedes desconectar la lavadora y la secadora?
+* DONE search 2026-03-30
+** Overview
+Companies for a local (within Bogotá) move, sorted roughly by
+years of experience / establishment as a proxy for trustworthiness.
+
+"Trasteos" is the Colombian word for local moves.
+** Tier 1: Longest track records
+*** [[id:3493be2b-2f41-4b12-8d1a-6a4182c2e189][CHOSEN Central de Trasteos : 1.2M, all included]]
+*** AWAITS Santamaría Trasteos — 38 years (since ~1989)
+- Website: https://santamariatrasteos.com/
+- 14,400+ clients in the last 4 years alone.
+- Uses technology for shipment tracking and security.
+- One of the most-cited names across multiple review sites.
+*** DONE smells funny : Coordinadora de Mudanzas — 30+ years
+- Website: https://www.coordinandotumudanza.com/
+- Specializes in residential and office moves.
+- Claims to be one of the oldest mudanza companies in Bogotá.
+*** DONE Rojas Trasteos -- not available
+- 65 years
+- Google rating: 4.2 stars (260 reviews)
+- Recognized for organizational excellence and service quality.
+- Serves Bogotá and other major Colombian cities.
+** Tier 2: Well-established (20–30 years)
+*** AWAITS Mudanzas Santafé — 25 years
+- Website: https://mudanzassantafe.com.co/
+- Google rating: 4.0 stars (100 reviews)
+- Own fleet of trucks, trained staff, personalized service.
+- Services: packing, relocation, furniture assembly.
+*** AWAITS Al Instante Mudanzas — since 2002 (~24 years)
+- Website: https://alinstantemudanzas.com/
+- Prices starting from ~$200,000 COP.
+- Client reviews praise punctuality, care with belongings.
+*** Mudanzas Acuña — 20+ years
+- Website: https://www.mudanzasacuna.com.co/
+- Google rating: 3.8 stars (77 reviews)
+- Packing, transport, and storage across Bogotá and major cities.
+** Tier 3: Established (10–15 years)
+*** DONE too expensive : Más Metros — 12+ years
+- Website: https://masmetros.com.co/mudanzas-trasteos-bogota/
+- Real-time vehicle tracking, strong packing protocols.
+- Many positive client testimonials online.
+*** Mudanzas Bacatá — 12+ years
+- Website: https://mudanzasbacata.com/mudanzas-bogota/
+- Local and national service from Bogotá.
+*** Avanty Mudanzas — 10+ years
+- Website: https://avantymudanzas.co/
+- 1,000+ five-star reviews claimed.
+- Residential, office, and consolidated cargo.
+*** Safe Moving — 10+ years
+- Website: https://safe-moving.com/acarreos-bogota/
+- Urban and rural moves.
+*** Mudanzas Bogotá MYBOX — since 2009
+- Website: https://www.mudanzasenbogota.com/
+- Packing materials, temporary storage in secure warehouses.
+** Aggregator platform: Mudango
+- Website: https://www.mudango.com/
+- Not a mover itself — a platform that connects you with 75+ local companies.
+- Platform rating: 4.8 stars (3,500+ reviews on arriendo.com).
+- Top-rated companies on their platform (all 5.0 stars):
+  | Company                   | Moves completed |
+  |---------------------------+-----------------|
+  | Mudancity                 |           1,121 |
+  | Mudanzas Iberia           |           1,092 |
+  | MiMudanza                 |             658 |
+  | Satelital Mudanzas        |             567 |
+  | Mudanzas Moviendo Hogares |             300 |
+  | Mudanzas Henao            |             222 |
+** Sources
+- [[https://arriendo.com/co/blog/mudanza/empresas-de-mudanzas-mas-reconocidas/][Arriendo.com — Empresas de mudanzas más reconocidas en Colombia]]
+- [[https://www.mudango.com/empresas/trasteos/colombia/bogota][Mudango — Top 10 Empresas de Trasteos en Bogotá]]
+- [[https://santamariatrasteos.com/en/trasteos-bogota/][Santamaría Trasteos]]
+- [[https://centraldetrasteos.com/][Central de Trasteos]]
+- [[https://masmetros.com.co/mudanzas-trasteos-bogota/][Más Metros]]
+- [[https://www.mudanzasytrasteosbogota.org/][Mudanzas y Trasteos Bogotá — Precios 2025]]
+* DONE search 2022-09-12
 ** Encomudanzas: bad estimate, good execution, 380 x 14
 *** where
     https://encomudanzas.com/

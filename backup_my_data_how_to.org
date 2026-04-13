@@ -49,10 +49,10 @@ serial
 ** after nixos-rebuild : check native disk usage
    serial, with backtracking
 *** df -h .
-*** If free space is low, [[id:d014e570-e8da-4661-8111-01d19947e2b2][clean Nixos]], [[id:d623ee48-2989-4802-82f9-3d51ddf45c19][clean Docker]], record date
-    last done <2026-02-15 Sun>
+*** If free space is low, [[id:d014e570-e8da-4661-8111-01d19947e2b2][clean Nixos]], [[id:d623ee48-2989-4802-82f9-3d51ddf45c19][clean Docker]], [[id:2ad411df-0e62-423f-8a77-8c92618707d9][clean Rust]], record date.
+    last done <2026-04-13 Mon>
 *** Record amount of free space here
-    134 GB
+    132 GB
     highest score w/ KDE + Xfce: 188 GB
 *** If that's still not enough
 **** move things to the external drive.
