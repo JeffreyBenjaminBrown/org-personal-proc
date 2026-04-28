@@ -18,6 +18,9 @@ Clave: MjgwNDAyNA==
 ~/s/privileges/visa/extend-tourist-visa/
 ** email(s) from Migracol about my request
 https://mail.google.com/mail/u/0/#inbox/FMfcgzQgKvKNMqNwsDSpwrGNFvpbHfDz
+* they confirmed payment : [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa]]
+I paid it <2026-04-20 Mon>.
+https://mail.google.com/mail/u/0/#search/aplicaciones/FMfcgzQgLXlDXGNtwLkZPRVwNtFwcvzq
 * Claude's report: It's all online.
 ** References
 *** Capital M Guide
@@ -64,7 +67,7 @@ As Affirma Legal states: "Al aprobarse la prórroga, Migración Colombia envía 
 
 Not as long as you authorized email notifications. The Migración Colombia page itself states "Este trámite es totalmente virtual" (search: "totalmente virtual" on Migración Colombia PTP Page). However, Capital M warns: "El ciudadano solicitante debe asegurarse de autorizar las notificaciones sobre el trámite al correo electrónico, de lo contrario lo más probable es que deba continuar con el trámite de manera presencial en las oficinas de Migración Colombia" (search: "autorizar las notificaciones" on Capital M Guide). So if you missed that checkbox, you may need to go in person.
 
-* ONGOING submitted online <2026-03-24 Tue>
+* DONE submitted online <2026-03-24 Tue>
 El registro de su trámite finalizó con éxito, su solicitud ha sido radicada con el número único de trámite:
 
 Tipo de trámite
