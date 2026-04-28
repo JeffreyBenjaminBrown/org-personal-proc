@@ -3,6 +3,27 @@
 :END:
 #+title: skg outreach
 Some of this might be embarrassing.
+* Call skg Think With Me.
+* a (the?) argument in three claims
+** Claim: If you and I share the evolution of some ideas, we are thinking together.
+** Claim | Goal: You need to think with more people, about more things.
+** Claims: Some geometry on words can make the preceding Goal feasible.
+*** Use folding trees to view what you want to see and not what you don't, in both your own and others' wriging.
+Folding just means you can
+show and hide the branches you choose,
+and that choice can vary across the tree.
+
+Trees are just ordinary writing. A tree can consist of just one 'node', or multiple nodes that contain each other, the way a book might contain chapters, and each chapter might contain subchapters, etc.
+
+Users of Skg share trees of ideas. The trees let you file away anything I care about that you don't. You won't waste time on another person's bad ideas, assuming you can find someone who puts out more than just bad ideas.
+
+This geometry makes ordinary thinkers -- people with both good and bad ideas -- much more useful. You don't need to share writing with the best writers to profit massively from it.
+
+I recommend filing things away with labels that are objective and descriptive rather than imperative. For instance, if fred writes about finance and you don't want to read about finance, you can just collect those things from Fred under "Finance" (descriptive), which is better than "things Fred cares about that I don't". That's for a few reasons:
+
+- your preferences are more likely to change than the subject of a piece of writing is
+- descriptive labels are more likely to apply to future things encountered
+*** Use forks to process the same thing in different ways.
 * [[id:c1217748-4e62-4dc0-a702-f9cc9c1c7c41][evangelism for skg by demographic]]
 * u
 ** blurb

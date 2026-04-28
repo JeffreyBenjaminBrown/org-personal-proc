@@ -3,15 +3,143 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
-* ONGOING [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extending tourist visa]]
-* ONGOING being alive
-** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments]]
+* ONGOING [[id:fc15512e-344a-486e-865c-fd096578aedf][Claro, canceling my contract with]]
+* send Cliff: my bank info (address, ABA number ..) and a deposit slip
+* to skg : public, post-skg, yet to integrate there
+** [[id:5168b72a-7c5f-4073-a884-d8036eb5943b][2026-04-23 Thu - 1/2 s]]
+** [[id:0c8c9b72-8eb9-408f-a492-0d7a0a4c277e][2026-04-07 Tue - 1/2-s]]
+** [[id:7c187ba0-b2fe-440d-8588-cf55ea80f0ea][Principles of (Microtonal) Harmony]]
+** blindness ~ knowing
+** Evil-looking spirit emperor.
+Truly living, thinking about higher things, weirdly
+{dictating, magically recognizing new natures of} conditions.
+Floating. Meditating. Skipping stones over a lake.
+** Unite the forces that understand with the forces that dictate.
+** Emotional Turing test.
+Is this guy a robotic strategy,
+or does he feel things like I do?
+** when buying shoes
+Maybe try the laces both tight and loose -- tight for, say, climbing or weird terrain, where I don't want my toes slamming into the front with each step.
+** ? guitar interface
+Global default (overrides? overridden by?) per-string defaults,
+seven boolean values always present
+(as opposed to being Maybe|Optional).
+** info-sharing, more methods
+*** publish individual files from org-roam to substack
+   appending to each rendering an explanation,
+   "This was automatically generated from a mostly-public knowledge graph.
+   Here are links to that page."
+*** Publishable: "An argument with two holes in it for _."
+**** "Complete" it by merely identifying the holes in it.
+    e.g. with a short context-dependent sentence,
+    "This is a hole in the argument."
+** knowledge graphs
+*** skg
+**** present a long ancestry as [context] /../ [leaf]
+    the elipsis indicates potentially many hops
+**** video & skg
+***** Put out video demos and ask for feedback.
+***** see but don't screen-record my script
+***** generate slides
+***** I control when to advance a slide.
+***** Record.
+**** boolean qualities of notes $ that resemble source|repo
+***** useful
+***** surprising
+***** unfamiliar
+     = mysteries, things being processed
+***** public
+**** Can every 'x ~rel y' relationship be reconceived as 'rel ~x y'?
+**** Indicate whether the sequence's order is necessary information over each node's children.
+    Sets are still represented as sequences,
+    but it is more suggestive than prescriptive
+    (in a way each author will for now have to define separately).
+**** [[id:ea50c9e3-3c07-475a-b837-4150cb034750][skg docs de novo]]
+*** skg & my psychology :: switching to it
+**** How safe is my data?
+    If I can interpret the git record, it is safe.
+**** I am afraid of losing data.
+*** permuting 'x / want to share / y' and similar things
+**** Instances of the example would be interesting viewed from 'want to share'.
+**** That seems like a natural way to write for others. Collect all that stuff and presented, create an additional and selectable order for an audience
+*** Maybe writing a collection of branches is not a complete sentence until one has declared among sunset of alternatives like $ there could be others
+*** when making something content rather than root
+   Consider, "Am I willing to always see X in container C's light?".
+   If not, either X deserves more containers,
+   or X deserves its own identity (which C can link to).
+*** fold the children into a subexpression
+**** its label
+***** is up to the writer
+     will be an art,
+     quite readable (because the children are there)
+       even in those bad at the art
+***** seems fine not to db-ify before first release
+     where (subexpression clarification)
+****** db-ify = track formally outside of what's on disk
+      so tantivy and typedb
+**** have a set of labels for members
+**** colors match parts of the expression
+**** AWAITS ? relationship templates
+***** are theoretically reusable
+***** might not be information-rich as traversal origins
+     in which case fine to omit from a first version of the app
+** hard to act on
+*** info theory
+**** a parallel logic using the same sequences of words differently
+***** AI might have to do it.
+     A developing AI seems likely to construct a concept of morality for itself,
+     imperfectly constrained by the one its trainers want to impose.
+     But it thinks in words the trainers can read.
+     It might therefore feel compelled to find an alternate current,
+     near words (necessarily, because AI uses those as storage)
+     but somehow independent from them, too.
+***** For humans to do it could be fun, or disastrous.
+     Which should scare us. But here's a separate question:
+     Would it be awesome if we could do the same thing?
+     It's near my concept of enlightenment.
+     But it also feels like
+     a growth medium for delusion, lies and manipulation.
+**** Collectively there's all this history but individually it gets pretty in distinct beyond a few generations past/originward.
+*** awkward silence as cognitive bowling pin collisions
+*** afterlife & faith
+**** I have been a pack of jackals. If you knew what I have seen, you too would believe that I survive.
+*** energy & entropy
+**** It's beautiful that lightning goes down.
+    Wait it goes between multiple times.
+*** James Bond ~ 60s
+*** "We love our loving. Not like we love our freedom."
+*** "I want to make you feel free."
+*** transition fantasy
+**** One day you bent over from the floating bed where you had just lain to go back to wake, discovered you could not reach the power cable, and the rest was dream.
+**** Dreaming is cool as the time before writing.
+    :PROPERTIES:
+    :ID:       0c0fc211-be63-4f83-a21b-e7b22de28a0b
+    :END:
+**** God, afterlife, etc. are transition fantasies. Maybe the richest experience is to know each others' such {experiences, fantasies}.
+    Mine are strange, I can say that for sure.
+*** Polyanna
+**** Daughter of a poor minister, adopted by a rich relative.
+**** That relative, if I'm right after not paying complete attention, runs an orphanage, employs the entire town, and people are afraid to raise money for a better orphanage without her approval.
+*** playing chess against a book
+**** Casa de los espíritus, Isabel Allende
+* social
 ** Plan with Sid, Bran, uncles, Josh, Nicole, Phil.
-** schedule [[id:7ca3f35d-d859-4577-9403-ac45ef76b5ba][cardio followup]]
-   for after moving
-     (probably unavailable before anyway)
-*** scan results must be on colsanitas.com
-** ? invest remaining 20k
+** scheduling with lorena
+she's free sunday
+** find work for Yeni
+My cleaning lady just acquired some holes in her schedule. When I leave Colombia in late June (I'll be back in 2027!) she'll have even more free time. I love her. She's worked for me for over a year, after taking over for her mom who worked for me for seven years. She once ran a bar and a restaurant at the same time, so she's a fantastic cook; she makes food for me for a week every time she comes over.
+
+I'm happy to provide introductions if you like that kind of thing.
+** birthday
+*** invite(d) to birthday
+**** Juliet
+**** LCR
+**** Larisa
+**** Juan Oviedo
+**** ONGOING Luisa Fer
+**** Monica, said the 23rd is soccer
+*** ? let (some) people vote on the weekend
+*** Isabel Cortes
 ** outreach
 *** write people
     "Tell _ I would write them too if I had an address."
@@ -81,202 +209,12 @@
 **** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
 
 *** tell more economists : [[id:527b72db-ae85-4d01-90b9-55ed087f8bd8][nonexperimental drug pathway]]
-** Don't drown. Keep a clean desk, inbox, ...
-*** [[id:c0cc501a-7571-49fd-a9ce-f15925a187b5][review whatsapp, email]]
-*** money & organization
-**** [[id:6f28dbdc-e81d-4691-adfc-447ca8c20b85][my financial history]]
-**** Paying Yeni's SS is relevant to my taxes in Colombia.
-**** Keep records of everything I pay Yeni, and everything she works.
-* ONGOING [[id:2d0f9b52-8cbb-404d-9b69-b931dce4c198][sell the Paulo VI apartment]]
-** [[id:f4f9a984-31e2-4bad-9442-b65ecd800fce][Paulo VI condo]]
-* hard to act on, maybe good to publish
-** {inheritors, irrational collectors} defeat some of the point of prices.
-Prices allocate resources to whoever is most willing to pay.
-There is some correlation between
-willingness to pay and likelihood to use it well.
-But targeted giving is likely to direct the resource better
-if there are lots of
-{inheritors, irrational collectors}.
-* I am drawn to yet {? so far, ultimately, mostly} reject certain own behaviors.
-like outreach
-* If it were axiomatic that this is impossible.
-* to public
-** karma & time
-*** Chop wood, carry water: What changes internally.
-After enlightenment, the same actions,
-but now believing in yourself|society,
-recognizing (or having faith in?)
-the karmic perfection of slowly grinding gears.
-* to read about how to read|write|graph
-** ONGOING search terms
-how read write knowledge graph
-* [[id:7c187ba0-b2fe-440d-8588-cf55ea80f0ea][Principles of (Microtonal) Harmony]]
-* Evil-looking spirit emperor.
-Truly living, thinking about higher things, weirdly
-{dictating, magically recognizing new natures of} conditions.
-Floating. Meditating. Skipping stones over a lake.
-* an art about brackets
-"an art" is better rep'd in skg
-** The kind of bracket used is not important if it carries good labels.
-** ()s have unity.
-** {}s are setlike.
-** ? What about sequences?
-Still not there yet.
-** ".." for omissions
-Distinguish unknown omissions?
-** "?" for uncertainty
-** laughing
-* Unite the forces that understand with the forces that dictate.
-* Emotional Turing test.
-Is this guy a robotic strategy,
-or does he feel things like I do?
-* when buying shoes
-Maybe try the laces both tight and loose -- tight for, say, climbing or weird terrain, where I don't want my toes slamming into the front with each step.
-* ? add sweet potato to soup
-* cook :: roast peppers, squash, carrots, onions
-* what is squash?
-not a root, not aseed, ...
-* ? guitar interface
-Global default (overrides? overridden by?) per-string defaults,
-sevn boolean values always present (as opposed to being Maybe|Optional).
-* Ryan might be in northern CA too.
-* MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]] and [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities]]
-* [[id:5270486e-0b02-4726-b859-2986d8e4f25a][never seem to have time \ backup tasks]]
-* backup data, then dogfood skg again
-* social
-** ? Do I owe Isabel an explanation.
-* info-sharing, more methods
-** publish individual files from org-roam to substack
-   appending to each rendering an explanation,
-   "This was automatically generated from a mostly-public knowledge graph.
-   Here are links to that page."
-** Publishable: "An argument with two holes in it for _."
-*** "Complete" it by merely identifying the holes in it.
-    e.g. with a short context-dependent sentence,
-    "This is a hole in the argument."
-* knowledge graphs
-** skg
-*** present a long ancestry as [context] /../ [leaf]
-    the elipsis indicates potentially many hops
-*** video & skg
-**** Put out video demos and ask for feedback.
-**** see but don't screen-record my script
-**** generate slides
-**** I control when to advance a slide.
-**** Record.
-*** boolean qualities of notes $ that resemble source|repo
-**** useful
-**** surprising
-**** unfamiliar
-     = mysteries, things being processed
-**** public
-*** Can every 'x ~rel y' relationship be reconceived as 'rel ~x y'?
-*** Indicate whether the sequence's order is necessary information over each node's children.
-    Sets are still represented as sequences,
-    but it is more suggestive than prescriptive
-    (in a way each author will for now have to define separately).
-*** [[id:ea50c9e3-3c07-475a-b837-4150cb034750][skg docs de novo]]
-** skg & my psychology :: switching to it
-*** How safe is my data?
-    If I can interpret the git record, it is safe.
-*** I am afraid of losing data.
-** permuting 'x / want to share / y' and similar things
-*** Instances of the example would be interesting viewed from 'want to share'.
-*** That seems like a natural way to write for others. Collect all that stuff and presented, create an additional and selectable order for an audience
-** Maybe writing a collection of branches is not a complete sentence until one has declared among sunset of alternatives like $ there could be others
-** when making something content rather than root
-   Consider, "Am I willing to always see X in container C's light?".
-   If not, either X deserves more containers,
-   or X deserves its own identity (which C can link to).
-** fold the children into a subexpression
-*** its label
-**** is up to the writer
-     will be an art,
-     quite readable (because the children are there)
-       even in those bad at the art
-**** seems fine not to db-ify before first release
-     where (subexpression clarification)
-***** db-ify = track formally outside of what's on disk
-      so tantivy and typedb
-*** have a set of labels for members
-*** colors match parts of the expression
-*** AWAITS ? relationship templates
-**** are theoretically reusable
-**** might not be information-rich as traversal origins
-     in which case fine to omit from a first version of the app
-* hard to act on
-** info theory
-*** a parallel logic using the same sequences of words differently
-**** AI might have to do it.
-     A developing AI seems likely to construct a concept of morality for itself,
-     imperfectly constrained by the one its trainers want to impose.
-     But it thinks in words the trainers can read.
-     It might therefore feel compelled to find an alternate current,
-     near words (necessarily, because AI uses those as storage)
-     but somehow independent from them, too.
-**** For humans to do it could be fun, or disastrous.
-     Which should scare us. But here's a separate question:
-     Would it be awesome if we could do the same thing?
-     It's near my concept of enlightenment.
-     But it also feels like
-     a growth medium for delusion, lies and manipulation.
-*** Collectively there's all this history but individually it gets pretty in distinct beyond a few generations past/originward.
-** awkward silence as cognitive bowling pin collisions
-** afterlife & faith
-*** I have been a pack of jackals. If you knew what I have seen, you too would believe that I survive.
-** energy & entropy
-*** It's beautiful that lightning goes down.
-    Wait it goes between multiple times.
-** James Bond ~ 60s
-** "We love our loving. Not like we love our freedom."
-** "I want to make you feel free."
-** transition fantasy
-*** One day you bent over from the floating bed where you had just lain to go back to wake, discovered you could not reach the power cable, and the rest was dream.
-*** Dreaming is cool as the time before writing.
-    :PROPERTIES:
-    :ID:       0c0fc211-be63-4f83-a21b-e7b22de28a0b
-    :END:
-*** God, afterlife, etc. are transition fantasies. Maybe the richest experience is to know each others' such {experiences, fantasies}.
-    Mine are strange, I can say that for sure.
-** Polyanna
-*** Daughter of a poor minister, adopted by a rich relative.
-*** That relative, if I'm right after not paying complete attention, runs an orphanage, employs the entire town, and people are afraid to raise money for a better orphanage without her approval.
-* art
-** playing chess against a book
-*** Casa de los espíritus, Isabel Allende
-* information problems, ambitious
-** Did I lose touch with all the girls I've known other places?
-   Not Nicole, Courtney, but mostly yes --
-   the ratio of male friends I've kept in other countries
-   to female ones is staggering.
-   Which suggests I choose men for information relationships
-     (which can be maintained at a distance)
-   and women for physical ones.
-** Probably, some people see phenomena, ala colors, that others don't.
-* not pressing
+** Ryan might be in northern CA too.
 ** write Deb
 *** to Deb
 Hi Deb! Happy New Year! It's awesome to be your friend and family. I feel irrational for not calling on the phone more because it's always a wonderful information-dense experience. I wish you ... geez I don't know what specifically to wish for.
 *** Happy new year! I want to visit Colorado. What do you think?
 *** The idea of not hearing stories like Deb's is terrifying.
-** Publish on Archive re. hypergraph > rdf.
-*** RDF's difficulties
-**** remember an awkward schema
-**** hopefully, query traversal cost
-**** if RDF-star is implemented via a graph like neo4j
-** My hope is that human nature gets better.
-*** An awakening that reaches the highest levels of power.
-** consider changing
-*** Pay more once for clothes that don't disintegrate.
-** [[id:cd9b2ff2-52b5-437d-882d-a625c360dd3f][my problems]]
-** social skills
-*** how I want to converse better
-**** command the topic away from boring things
-*** motivations for not reaching out
-**** fear of rejection
-**** paralysis of too much choice
-**** enjoy being along
-*** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
 ** [[id:0c752253-4f22-44a8-8509-dd37c3ba5a8a][social \ jbb]]
 *** to write friends
 **** start from lists of them
@@ -292,12 +230,50 @@ Hi Deb! Happy New Year! It's awesome to be your friend and family. I feel irrati
 *** ? use exclamation marks immediately when greeting someone, then chill
 *** Give a(n online?) seminar about Skg.
 **** [[id:c85b2b5c-3b0d-4a13-b652-de95ac880de7][Ask talk invitees for time preferences.]]
+* financial
+** Cost out cashing out Bancolombia.
+** update address with anyone
+** extract evergreen notes from [[id:d5adfeeb-c3f1-4d66-98c7-235e16af4f15][leaving Pablo VI]]
+*** [[id:2d0f9b52-8cbb-404d-9b69-b931dce4c198][sell the Paulo VI apartment]]
+*** [[id:f4f9a984-31e2-4bad-9442-b65ecd800fce][Paulo VI condo]]
+** Don't drown. Keep a clean desk, inbox, ...
+** [[id:c0cc501a-7571-49fd-a9ce-f15925a187b5][review whatsapisp, email]]
+** money & organization
+*** [[id:6f28dbdc-e81d-4691-adfc-447ca8c20b85][my financial history]]
+*** Paying Yeni's SS is relevant to my taxes in Colombia.
+*** Keep records of everything I pay Yeni, and everything she works.
+** I left a nice glass thing in the oven at Paulo VI.
+* mental health
+** I am drawn to yet {? so far, ultimately, mostly} reject certain own behaviors.
+like outreach
+** [[id:cd9b2ff2-52b5-437d-882d-a625c360dd3f][my problems]]
+* health
+** ? add sweet potato, radish to soup
+** cook :: roast peppers, squash, carrots, onions
+* MERGE : [[id:f94d0f20-7798-46e6-aee0-34b95206a849][pressing]] and [[id:24169b3e-6d41-48dd-9367-6df7a3565bed][priorities]]
+* not pressing
+** Publish on Archive re. hypergraph > rdf.
+*** RDF's difficulties
+**** remember an awkward schema
+**** hopefully, query traversal cost
+**** if RDF-star is implemented via a graph like neo4j
+** My hope is that human nature gets better.
+*** An awakening that reaches the highest levels of power.
+** consider changing
+*** Pay more once for clothes that don't disintegrate.
+** social skills
+*** how I want to converse better
+**** command the topic away from boring things
+*** motivations for not reaching out
+**** fear of rejection
+**** paralysis of too much choice
+**** enjoy being along
+*** [[id:9ce71a71-77d1-4611-82fc-901b951670ef][a dating strategy could I feel passionate about]]
 ** ordinary chores
 *** ONGOING [[id:9daa59fc-403c-41ff-96eb-98001199bfed][Learn enough phone numbers to wander without a phone.]]
     last done <2025-12-01 Mon>
 *** [[id:1c6a051f-8e6e-4a2a-acdf-034f6fbe7e28][to buy & difficult to get]]
 *** eat that amaranth | buckwheat
-*** [[id:a7fb848b-53e8-49e9-91b6-c3c73c83876b][regular payments \ jbb]]
 *** [[id:26328ef3-4e21-4b2f-af34-c35ec3ddbab9][extend tourist visa <2025-10-26 Sun>]]
 *** US back-taxes
 **** [[id:35ef790f-c149-474e-b93d-92549f2d8a13][2022 correction, filing 2025]]
@@ -351,6 +327,15 @@ Hi Deb! Happy New Year! It's awesome to be your friend and family. I feel irrati
  But I'm not afraid of writing my own patent.
 ** suggest to KDE : desktops show head of image series
 *** Instead of all showing the same one, it would be cool if desktops 1 through N showed the last N days of the subscribed-to image series.
+* information problems, ambitious
+** Did I lose touch with all the girls I've known other places?
+   Not Nicole, Courtney, but mostly yes --
+   the ratio of male friends I've kept in other countries
+   to female ones is staggering.
+   Which suggests I choose men for information relationships
+     (which can be maintained at a distance)
+   and women for physical ones.
+** Probably, some people see phenomena, ala colors, that others don't.
 * ======= ABOVE: CRITICAL =======
 * tech meh
 ** turn an old phone into a web server
