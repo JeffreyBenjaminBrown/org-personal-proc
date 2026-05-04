@@ -189,7 +189,7 @@ serial
      "/home/jeff/Documents/REAPER Media" \
      "/run/media/jeff/ext_hdd.9g.tshb/mirror-of-ssd"
 ** record date last done
-   <2026-03-21 Sat>
+   <2026-04-21 Tue>
 * do at home, backup tasks to
   :PROPERTIES:
   :ID:       d363ab0d-b8bf-40b3-8890-a611a45fd7f3

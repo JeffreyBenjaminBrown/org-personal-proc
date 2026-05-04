@@ -3,27 +3,134 @@
 :ROAM_ALIASES: jbb
 :END:
 #+title: doing
+* What could go wrong using Skg for my data?
+** TODO initial investment
+*** Commit every org-roam thing.
+*** Add a .emacs warning that triggers on org-roam use.
+*** Keep the personal-{proc,ish,most} distionction.
+'proc' and 'soul' seems a nice distinction.
+'ish' was personal stuff I nonetheless shared (some of) with Claude.
+Not sure why to separate 'other people' from 'soul'.
+'most' is largely 'other people'.)
+personal/ should go to a fourth one, 'personal-u'.
+*** Be sure all the private stuff is in fact private (on Github).
+*** Keep the org-roam git repos.
+** ? rhythm of review
+*** If I have to commit frequently, I need another mechanism for timed forced review.
+Better, I think: It could be conscious.
+But also, it could be based on keeping a reading history.
+** DONE If I lose access to Skg
+I'll need to be able to build (read-only) text documents from it.
+Lazy solution: Plan to vibecode it (would be easy) if ever needed.
+* TODO now
+** ONGOING finish plan that was in progress
+** update skg/data/public for unstaged org-roam/public changes
+** clarify state of skg data, org data
+** try viewing skg merge, alias changes in git
+** move all data to skg
+*** make sure all org-roam folders are git-clean
+** TODO send talk description, bio to Monica
+** TODO send Sid recordings
+* TODO what am I
+** bound by past decisions
+*** skg
+*** Colombian visa, divorce
+** family
+** friends
+** old age, retirement, health, mortality
+*** Too many projects => too little completion.
+** lorena
+*** She's perfect.
+*** I need more time alone than she does.
+** drugs
+** Colombia
+** skg
+** music
+*** Making it interferes with listening to it.
+** ai
+** money
+** self-worth
+* 31-edo for guitar
+** 9\31 x 2\31
+is playable, and
+permits fretting part of the guitar to 9\31 x 1\31
+** an argument for fully-fretting the first 19 frets of 31-edo
+and thereafter skipping the even frets
+*** it
+(1) Such frets are never as dense as
+    the densest-fretted part of a 12-edo guitar.
+(2) Skipping even frets preserves the octave fret.
+*** the math behind it
+First note that the densest-fretted part of a 2-octave guitar
+is 4 times as dense as the frets at the nut.
+(Actually it's a little less dense than that,
+because from fret n-1 to fret n
+is 2**(1/edo) wider than the step from n to n+1,
+which is the one that's 4 times as dense as from fret 0 to 1.)
+
+ghci> ratio edo note = 2**(note/edo)
+ghci> note edo ratio = edo * (log ratio / log 2)
+ghci> cents edo note = 1200 * note / edo
+ghci>
+ghci> ratio 31 18   // In 31-edo, at fret 18, the frets are
+1.4955178823482085  // about 3/2 as dense as at the root
+ghci> (31/12) * ratio 31 18  // Thus they are about 3.86 times as dense
+3.8634211960662053           //  there as a 12-edo guitar's frets at the root
+ghci> (31/12) * ratio 31 19  // In fact we could even go to the 19th.
+3.9507786956416324
+ghci> (31/12) * ratio 31 20  // But the 20th would be, by this measure,
+4.040111473692996            // "too dense".
+ghci>
+* internalize & tell lorena :: take photos with us & friends
+* Codex
+** to update Codex
+npm install -g @openai/codex@latest
+** to run with full permissions
+codex --dangerously-bypass-approvals-and-sandbox
+* unsubscribe from Codex
+I started it April 30th
+* How to test whether I can really use Skg.
+Do personal notes there.
+* ?
+** The meaning of life is an ill-posed question, but achievable highest purposes exist.
+*** some examples
+I've tried to rank them but it's hard.
+Can safely say, though, that their ranks vary.
+**** to love
+***** the kind that hurts
+***** the kind that always seems capable of surprising you
+no matter how much you learn
+***** empathy
+***** spontaneous heartwarming memory
+**** to laugh
+so hard it's scary
+**** to dance
+**** to feel present and enjoy the moment
+**** to marvel at beauty, logic, grandeur
+** if philosophy could solve entropy
+** madness
+*** concurrency
+*** intuition
+*** taste
+*** feeling
+*** channeling
+** female orgasm face
+*** surprise
+*** carriedness, passenger
+*** unsure of self
+vulnerability, uncertainty
 * ONGOING [[id:fc15512e-344a-486e-865c-fd096578aedf][Claro, canceling my contract with]]
 * send Cliff: my bank info (address, ABA number ..) and a deposit slip
 * to skg : public, post-skg, yet to integrate there
 ** [[id:5168b72a-7c5f-4073-a884-d8036eb5943b][2026-04-23 Thu - 1/2 s]]
 ** [[id:0c8c9b72-8eb9-408f-a492-0d7a0a4c277e][2026-04-07 Tue - 1/2-s]]
 ** [[id:7c187ba0-b2fe-440d-8588-cf55ea80f0ea][Principles of (Microtonal) Harmony]]
-** blindness ~ knowing
-** Evil-looking spirit emperor.
-Truly living, thinking about higher things, weirdly
-{dictating, magically recognizing new natures of} conditions.
-Floating. Meditating. Skipping stones over a lake.
 ** Unite the forces that understand with the forces that dictate.
 ** Emotional Turing test.
 Is this guy a robotic strategy,
 or does he feel things like I do?
 ** when buying shoes
 Maybe try the laces both tight and loose -- tight for, say, climbing or weird terrain, where I don't want my toes slamming into the front with each step.
-** ? guitar interface
-Global default (overrides? overridden by?) per-string defaults,
-seven boolean values always present
-(as opposed to being Maybe|Optional).
 ** info-sharing, more methods
 *** publish individual files from org-roam to substack
    appending to each rendering an explanation,
@@ -122,6 +229,17 @@ seven boolean values always present
 **** That relative, if I'm right after not paying complete attention, runs an orphanage, employs the entire town, and people are afraid to raise money for a better orphanage without her approval.
 *** playing chess against a book
 **** Casa de los espíritus, Isabel Allende
+** AWAITS power fantasy \ private but impractical
+can't transfer to skg yet
+*** spirit emperor normal person
+In which all of the following are somehow the same act:
+
+Truly living.
+Thinking about higher things,
+Magically {dictating | recognizing new} conditions.
+Floating.
+Meditating.
+Skipping stones over a lake.
 * social
 ** Plan with Sid, Bran, uncles, Josh, Nicole, Phil.
 ** scheduling with lorena
