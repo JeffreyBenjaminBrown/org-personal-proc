@@ -2,7 +2,7 @@
 :ID:       ca2dfd85-b9eb-4d22-b56d-b522856e536f
 :END:
 #+title: memory used in home folder
-52209464K	/home/jeff
+52070960K	/home/jeff
 25325196K	/home/jeff/s
 24818172K	/home/jeff/s/_off
 24751072K	/home/jeff/s/_off/jobs
@@ -13,26 +13,26 @@
 7035804K	/home/jeff/Pictures/selected-from-phone
 6730104K	/home/jeff/s/_off/jobs/of/cities
 6521024K	/home/jeff/s/_off/jobs/of/_old
-4889648K	/home/jeff/.local
-4889644K	/home/jeff/.local/share
-4832232K	/home/jeff/code
+4888332K	/home/jeff/.local
+4888328K	/home/jeff/.local/share
 4765268K	/home/jeff/s/_off/jobs/of/tax.co/online/data
+4721588K	/home/jeff/code
 4237008K	/home/jeff/Pictures/selected-from-phone/u2
 4064496K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017
 3963120K	/home/jeff/.local/share/docker
 3958552K	/home/jeff/s/_off/jobs/of/_old/eitc
 3942440K	/home/jeff/s/_off/jobs/of/_old/eitc/data
 3767100K	/home/jeff/s/_off/jobs/of/_old/eitc/data/all-years
-3734592K	/home/jeff/Music
+3766396K	/home/jeff/Music
 3357812K	/home/jeff/s/_off/jobs/of/_old/eitc/data/all-years/workdata.dta
 3025608K	/home/jeff/code/nix
 3025604K	/home/jeff/code/nix/nixpkgs
 2785108K	/home/jeff/s/_off/jobs/of/cities/data
-2613124K	/home/jeff/Music/Jeff Brown
+2644928K	/home/jeff/Music/Jeff Brown
 2556128K	/home/jeff/code/nix/nixpkgs/.git
 2548776K	/home/jeff/code/nix/nixpkgs/.git/objects
 2548436K	/home/jeff/code/nix/nixpkgs/.git/objects/pack
-2174776K	/home/jeff/hodal
+2172668K	/home/jeff/hodal
 2096528K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped
 2015720K	/home/jeff/code/nix/nixpkgs/.git/objects/pack/pack-dc962c7d420f2bb13a4bb9449f91e48a7556e69c.pack
 1904684K	/home/jeff/hodal/smsn-find
@@ -48,9 +48,9 @@
 1354212K	/home/jeff/hodal/smsn-find/archives/vcs.from-borg.2024-01-10.hp17
 1295880K	/home/jeff/s/_off/jobs/of/tax.co/online/output
 1263968K	/home/jeff/Pictures/selected-from-phone/u3
+1235536K	/home/jeff/ugh
+1235532K	/home/jeff/ugh/enc
 1235476K	/home/jeff/Pictures/selected-from-phone/u2/villavicencio, abby opens presents with family.mp4
-1235280K	/home/jeff/ugh
-1235276K	/home/jeff/ugh/enc
 1234808K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center
 1221324K	/home/jeff/s/_off/jobs/of/tax.co/online/users
 1221256K	/home/jeff/s/_off/jobs/of/tax.co/online/users/ue7e14cdcfbc59bba291688ae9cf039d6
@@ -73,15 +73,15 @@
 845168K	/home/jeff/.local/share/SuperCollider
 842132K	/home/jeff/.local/share/SuperCollider/downloaded-quarks
 817604K	/home/jeff/Music/Jeff Brown/Unknown Album
-792596K	/home/jeff/.config
-785748K	/home/jeff/Documents
+787940K	/home/jeff/Documents
 774172K	/home/jeff/s/_off/jobs/of/pensions/data/geih/original-zips
-771036K	/home/jeff/Documents/REAPER Media
+773228K	/home/jeff/Documents/REAPER Media
 770780K	/home/jeff/s/_off/jobs/of/tax.co/online/users/ue7e14cdcfbc59bba291688ae9cf039d6/data/recip-1/purchases_2_vat.detail.csv
 754140K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped/ssv
 749824K	/home/jeff/s/_off/jobs/of/cities/data/2019/sisfut/csv
 747908K	/home/jeff/s/_off/jobs/of/cities/output/2023
 734972K	/home/jeff/hodal/smsn-find/archives/vcs.from-borg.2024-01-10.hp17/personal
+731068K	/home/jeff/.config
 718740K	/home/jeff/s/_off/jobs/of/cities/output/2019
 716296K	/home/jeff/s/_off/jobs/of/cities/temp
 699100K	/home/jeff/many-small
@@ -94,7 +94,6 @@
 572784K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center/Tax-Calculator
 564348K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enig-2007/orig-txt
 549656K	/home/jeff/hodal/smsn-find/archives/git_jbb.from-borg.2023-12-20.hp17
-536396K	/home/jeff/code/midi
 507024K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center/Tax-Calculator/.git
 506868K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center/Tax-Calculator/.git/objects
 506860K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center/Tax-Calculator/.git/objects/pack
@@ -109,9 +108,9 @@
 479320K	/home/jeff/hodal/smsn-find/archives/git_jbb.from-borg.2023-12-20.hp17/smsn-personal.git
 479212K	/home/jeff/hodal/smsn-find/archives/git_jbb.from-borg.2023-12-20.hp17/smsn-personal.git/objects
 458236K	/home/jeff/hodal/smsn-find/archives/vcs.from-borg.2024-01-10.hp17/public
-444060K	/home/jeff/Documents/REAPER Media/Backups
+446204K	/home/jeff/Documents/REAPER Media/Backups
 431044K	/home/jeff/code/nix/nixpkgs/pkgs
-421752K	/home/jeff/.config/google-chrome
+425752K	/home/jeff/code/midi
 418348K	/home/jeff/s/_off/jobs/of/tax.co/online/output/recip-1/purchases_1.csv
 411992K	/home/jeff/.local/share/SuperCollider/downloaded-quarks/Dirt-Samples
 409424K	/home/jeff/ugh/enc/ZnNBhRbFq8RTeHhju9IsFsrUjXSYd6H6ObEhDx3OFkFhp0/N7Znt4cLcCyk6k,XYXf5Gqcd
@@ -127,6 +126,7 @@
 380012K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-05-25/2019
 371228K	/home/jeff/Music/Jeff Brown/Unknown Album/2014 07 09 to 12 07 keys, to add guit.wav
 360780K	/home/jeff/Music/Jeff Brown/2024
+359308K	/home/jeff/.config/google-chrome
 354028K	/home/jeff/Pictures/selected-from-phone/Whatsapp-images
 352052K	/home/jeff/s/_off/jobs/of/cities/data/2023/sisfut/orig-xlsx
 348524K	/home/jeff/s/_off/jobs/of/cities/data/cuipo/2022/Ejecucion_GastosDic2022.csv
@@ -141,7 +141,7 @@
 318196K	/home/jeff/s/_off/jobs/dian/work/_DONE/hunting-horses/data/luis_carlos.tar.gz
 316852K	/home/jeff/Music/Jeff Brown/Unknown Album/2014 07 09 forward, rendered 12 02.aif
 311284K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/1_raw
-309160K	/home/jeff/org-roam
+309188K	/home/jeff/org-roam
 307708K	/home/jeff/s/privileges
 307152K	/home/jeff/s/_off/jobs/of/cities/output/2019/budget_0_collect
 306796K	/home/jeff/s/_off/jobs/dian/work/_DONE/hunting-horses/data/alex_rizo.tar.gz
@@ -235,8 +235,6 @@
 150304K	/home/jeff/.config/Signal/attachments.noindex
 149032K	/home/jeff/s/_off/jobs/of/unir-salarios
 148824K	/home/jeff/Pictures/selected-from-phone/u2/san andres, in a golf cart with stella's voice.mp4
-147736K	/home/jeff/code/midi/target
-147724K	/home/jeff/code/midi/target/release
 146488K	/home/jeff/s/privileges/med/insurance scans
 145968K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/recip-1/Gastos_menos_frecuentes_-_Articulos.csv
 145384K	/home/jeff/s/_off/jobs/of/_old/eitc/data/documentation
@@ -257,7 +255,6 @@
 133916K	/home/jeff/s/_off/jobs/of/unir-salarios/data/input/agency_responses
 132628K	/home/jeff/ugh/enc/ZnNBhRbFq8RTeHhju9IsFsrUjXSYd6H6ObEhDx3OFkFhp0/N7Znt4cLcCyk6k,XYXf5Gqcd/SQjDX7VNYNa5WE5G6wwnCB4W
 131800K	/home/jeff/Music/Jeff Brown/from _2014 12 08, piano vox, to then add guit_
-128652K	/home/jeff/code/midi/target/release/deps
 128612K	/home/jeff/ugh/enc/ZnNBhRbFq8RTeHhju9IsFsrUjXSYd6H6ObEhDx3OFkFhp0/N7Znt4cLcCyk6k,XYXf5Gqcd/SQjDX7VNYNa5WE5G6wwnCB4W/7iBYMf,AFlqHSgiRxUMvJ2b2
 127712K	/home/jeff/Pictures/selected-from-phone/u2/villavicencio, abby tries to open presents 2.mp4
 126288K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enig-2007/orig-txt/Ig_gsmf_compra.txt
@@ -332,6 +329,8 @@
 80808K	/home/jeff/s/_off/jobs/of/_old/Tax-Policy-Center/taxdata/cps_data/cps_raw.csv.gz
 80716K	/home/jeff/s/_off/jobs/of/cities-output
 80672K	/home/jeff/hodal/smsn-find/archives/vcs.from-borg.2024-01-10.hp17/personal/.git/objects/pack/pack-aa83a61d57f61daf337bc368d150553645802cad.pack
+80584K	/home/jeff/code/midi/.cargo
+80524K	/home/jeff/code/midi/.cargo/registry
 79328K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped/ssv/Gastos_diarios_Urbano_-_Capitulo_C.ssv
 79024K	/home/jeff/s/_off/jobs/dian/work/InspeccionSYGA/data_xgboost_010121_al_100224.zip
 78560K	/home/jeff/s/_off/jobs/of/tax.co/online/data/enph-2017/2_unzipped/dta/Gastos_personales_Urbano_-_Comidas_preparadas_fuera_del_hogar.dta
@@ -373,9 +372,12 @@
 70740K	/home/jeff/.config/VSCodium
 70680K	/home/jeff/s/_off/jobs/of/tax.co/online/.git/objects
 70432K	/home/jeff/ugh/enc/ZnNBhRbFq8RTeHhju9IsFsrUjXSYd6H6ObEhDx3OFkFhp0/N7Znt4cLcCyk6k,XYXf5Gqcd/u3jkPia4JGGjZsrIZt-69SOR/iJ6Tr6USxRmBTMTAGDBPxrERzHNBLJlB2S9HsGw07VilB1/U8MmawHvW0IyGbzL2tH3d4S,/geiIhwpCiu2d2Su1tLwUc9Jm
+70388K	/home/jeff/code/midi/.cargo/registry/src
+70384K	/home/jeff/code/midi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f
 69960K	/home/jeff/s/_off/jobs/of/pensions/data/geih/original-zips/2022-10.zip
 69160K	/home/jeff/s/_off/jobs/of/cities/output/2023/pivots
 69160K	/home/jeff/s/_off/jobs/of/cities/output/2019/pivots
+68488K	/home/jeff/code/midi/.codex
 67628K	/home/jeff/s/_off/jobs/of/_old/comp-aei/matchups/data/statcast.parquet
 66676K	/home/jeff/s/_off/jobs/of/cities/output/2019/budget_1/inversion.csv
 66676K	/home/jeff/s/_off/jobs/of/cities/bk/output-2023-05-25/2019/budget_1/inversion.csv
@@ -383,9 +385,7 @@
 65756K	/home/jeff/org-roam/public_bk
 65712K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-02
 65660K	/home/jeff/Music/Jeff Brown/2024/to-love-so-many-islands.2024-09-01.46-edo
-65204K	/home/jeff/code/midi/.cargo
 65184K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-01
-65140K	/home/jeff/code/midi/.cargo/registry
 65116K	/home/jeff/s/_off/jobs/of/pensions/data/geih/2022-03
 65112K	/home/jeff/many-small/to-read/thinking-with-types/repo-by-sandy/copies/6x9cover2.xcf
 65072K	/home/jeff/Music/Jeff Brown/2023/58-edo, 2023 06 04, fruitbats in formation
